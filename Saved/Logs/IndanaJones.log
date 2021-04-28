@@ -4646,3 +4646,924 @@ Make sure 'arrow_Spawner_BP_C' has been compiled for  Get Projectile Scale
 [2021.04.28-09.48.02:213][597]Cmd: MAP CHECK NOTIFYRESULTS
 [2021.04.28-09.48.02:213][597]MapCheck: New page: Leveltest - 28 avr. 2021 à 13:48:02
 [2021.04.28-09.48.02:214][597]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,359ms to complete.
+[2021.04.28-09.48.38:470][859]LogEditorViewport: Clicking on Actor (LMB): BP_Spike_C (BP_Spike)
+[2021.04.28-09.57.57:806][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.28-09.57.57:809][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Saved/Autosaves/Game/Levels/Leveltest_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.28-09.57.57:817][503]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest_Auto5EEB9FEAC4D92B57297037B8A19F7CAB4.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Autosaves/Game/Levels/Leveltest_Auto5.umap'
+[2021.04.28-09.57.57:818][503]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Leveltest' took 0.045
+[2021.04.28-09.57.57:818][503]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2021.04.28-10.05.34:485][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/triggerThings/BP_Button" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/triggerThings/BP_Button.uasset" SILENT=true
+[2021.04.28-10.05.34:504][776]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/BP_Button2F1C58EF488F2BB2C8D9C4B02ED66410.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/triggerThings/BP_Button.uasset'
+[2021.04.28-10.05.34:518][776]AssetCheck: New page: Asset Save: BP_Button
+[2021.04.28-10.05.34:518][776]LogContentValidation: Display: Validating Blueprint /Game/triggerThings/BP_Button.BP_Button
+[2021.04.28-10.06.19:496][156]LogTemp: Repeating last play command: Simulate
+[2021.04.28-10.06.19:500][156]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.28-10.06.19:501][156]LogPlayLevel: [PlayLevel] Compiling BP_Button before play...
+[2021.04.28-10.06.19:566][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.04.28-10.06.19:567][156]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2021.04.28-10.06.19:567][156]PIE: New page: SIE session: Leveltest (28 avr. 2021 à 14:06:19)
+[2021.04.28-10.06.19:568][156]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-10.06.19:571][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003332s)
+[2021.04.28-10.06.19:572][156]LogAIModule: Creating AISystem for world Leveltest
+[2021.04.28-10.06.19:572][156]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2021.04.28-10.06.19:572][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.004273s)
+[2021.04.28-10.06.19:600][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.04.28-10.06.19:600][156]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2021.04.28-10.06.19:600][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-10.06.19:600][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-10.06.19:600][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-10.06.19:600][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-10.06.19:600][156]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-10.06.19:600][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-10.06.19:600][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-10.06.19:600][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-10.06.19:600][156]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-10.06.19:600][156]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-10.06.19:603][156]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-10.06.19:603][156]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-10.06.19:615][156]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.04.28-10.06.19:615][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-10.06.19:615][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-10.06.19:615][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-10.06.19:615][156]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-10.06.19:616][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-10.06.19:616][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-10.06.19:627][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-10.06.19:627][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-10.06.19:627][156]LogInit: FAudioDevice initialized.
+[2021.04.28-10.06.19:627][156]LogAudio: Display: Audio Device (ID: 61) registered with world 'Leveltest'.
+[2021.04.28-10.06.19:637][156]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-10.06.19:639][156]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.04.28-12.06.19
+[2021.04.28-10.06.19:639][156]LogWorld: Bringing up level for play took: 0.001353
+[2021.04.28-10.06.19:639][156]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.04.28-10.06.19:641][156]PIE: Server logged in
+[2021.04.28-10.06.19:642][156]PIE: Play in editor total start time 0,142 seconds.
+[2021.04.28-10.06.27:300][ 19]LogBlueprintUserMessages: [BP_Button_2] Appuyez sur E pour activer le bouton.
+[2021.04.28-10.06.28:825][202]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:825][202]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:833][203]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:842][204]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:850][205]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:859][206]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:867][207]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:875][208]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:883][209]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:892][210]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:900][211]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:909][212]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:917][213]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:925][214]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:934][215]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:942][216]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:950][217]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:959][218]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:967][219]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:975][220]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:984][221]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.28:992][222]LogBlueprintUserMessages: [BP_Button_2] Appuyez sur E pour activer le bouton.
+[2021.04.28-10.06.28:992][222]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:000][223]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:008][224]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:017][225]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:025][226]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:033][227]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:042][228]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:049][229]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:058][230]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:066][231]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:933][335]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:933][335]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:941][336]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:950][337]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:958][338]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:966][339]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:975][340]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:983][341]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.29:992][342]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:000][343]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:008][344]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:017][345]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:025][346]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:033][347]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:042][348]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:050][349]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:059][350]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:067][351]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:075][352]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:083][353]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:092][354]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:100][355]LogBlueprintUserMessages: [BP_Button_2] Appuyez sur E pour activer le bouton.
+[2021.04.28-10.06.30:100][355]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:109][356]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:117][357]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:125][358]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:133][359]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:142][360]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:151][361]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:159][362]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:167][363]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.30:175][364]LogBlueprintUserMessages: [BP_Button_2] je suis un bouton ^^
+[2021.04.28-10.06.32:548][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-10.06.32:548][646]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-10.06.32:548][646]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-10.06.32:549][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-10.06.32:555][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-10.06.32:568][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-10.06.32:595][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-10.06.32:595][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-10.06.32:596][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-10.06.32:611][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.04.28-10.06.32:644][647]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.04.28-10.06.35:142][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.04.28-10.06.35:155][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.28-10.06.35:183][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.28-10.06.35:191][941]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest721706FE4E6FBBCEE87FF48B2741D8D0.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap'
+[2021.04.28-10.06.35:198][941]LogFileHelpers: Saving map 'Leveltest' took 0.044
+[2021.04.28-10.06.35:202][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest_BuiltData" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest_BuiltData.uasset" SILENT=true
+[2021.04.28-10.06.35:225][941]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest_BuiltData8ADB3814417FECF8444C788BFC347BA5.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest_BuiltData.uasset'
+[2021.04.28-10.06.35:236][941]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-10.06.35:236][941]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Leveltest_BuiltData.Leveltest_BuiltData
+[2021.04.28-10.06.35:236][941]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.04.28-10.19.16:963][632]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.04.28-10.19.16:972][632]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.04.28-10.19.16:993][632]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.04.28-10.19.22:254][196]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_test
+[2021.04.28-10.19.22:259][196]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.04.28-10.19.24:034][376]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/triggerThings/BP_test.BP_test
+[2021.04.28-10.21.26:000][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/triggerThings/BP_test" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/triggerThings/BP_test.uasset" SILENT=true
+[2021.04.28-10.21.26:006][845]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/BP_test7AFB135E48574DF8FF16B58981BE221F.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/triggerThings/BP_test.uasset'
+[2021.04.28-10.21.26:019][845]AssetCheck: New page: Asset Save: BP_test
+[2021.04.28-10.21.26:019][845]LogContentValidation: Display: Validating Blueprint /Game/triggerThings/BP_test.BP_test
+[2021.04.28-10.21.28:793][171]LogTemp: Repeating last play command: Simulate
+[2021.04.28-10.21.28:797][171]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.28-10.21.28:797][171]LogPlayLevel: [PlayLevel] Compiling BP_test before play...
+[2021.04.28-10.21.28:857][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.04.28-10.21.28:857][171]LogPlayLevel: PlayLevel: Blueprint regeneration took 61 ms (1 blueprints)
+[2021.04.28-10.21.28:858][171]PIE: New page: SIE session: Leveltest (28 avr. 2021 à 14:21:28)
+[2021.04.28-10.21.28:858][171]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-10.21.28:862][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003204s)
+[2021.04.28-10.21.28:862][171]LogAIModule: Creating AISystem for world Leveltest
+[2021.04.28-10.21.28:863][171]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2021.04.28-10.21.28:863][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.004252s)
+[2021.04.28-10.21.28:894][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.04.28-10.21.28:895][171]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2021.04.28-10.21.28:895][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-10.21.28:895][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-10.21.28:895][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-10.21.28:895][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-10.21.28:895][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-10.21.28:895][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-10.21.28:895][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-10.21.28:895][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-10.21.28:895][171]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-10.21.28:895][171]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-10.21.28:899][171]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-10.21.28:899][171]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-10.21.28:910][171]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.04.28-10.21.28:910][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-10.21.28:910][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-10.21.28:911][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-10.21.28:911][171]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-10.21.28:911][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-10.21.28:911][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-10.21.28:922][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-10.21.28:923][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-10.21.28:923][171]LogInit: FAudioDevice initialized.
+[2021.04.28-10.21.28:923][171]LogAudio: Display: Audio Device (ID: 62) registered with world 'Leveltest'.
+[2021.04.28-10.21.28:931][171]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-10.21.28:933][171]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.04.28-12.21.28
+[2021.04.28-10.21.28:933][171]LogWorld: Bringing up level for play took: 0.001077
+[2021.04.28-10.21.28:934][171]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2021.04.28-10.21.28:936][171]PIE: Server logged in
+[2021.04.28-10.21.28:936][171]PIE: Play in editor total start time 0,14 seconds.
+[2021.04.28-10.21.36:898][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-10.21.36:898][ 62]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-10.21.36:898][ 62]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-10.21.36:898][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-10.21.36:906][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-10.21.36:919][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-10.21.36:947][ 62]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-10.21.36:947][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-10.21.36:948][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-10.21.36:961][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-10.21.36:964][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.28-10.21.36:992][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2021.04.28-10.22.50:909][509]BlueprintLog: New page: Compile BP_test
+[2021.04.28-10.22.50:958][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.04.28-10.22.51:082][521]BlueprintLog: New page: Compile BP_test
+[2021.04.28-10.22.51:131][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.04.28-10.23.07:926][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.04.28-10.23.07:947][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/triggerThings/BP_test" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/triggerThings/BP_test.uasset" SILENT=true
+[2021.04.28-10.23.07:953][508]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/BP_test6CE470A34DFE12EB620C11B8A91BC6D9.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/triggerThings/BP_test.uasset'
+[2021.04.28-10.23.07:968][508]AssetCheck: New page: Asset Save: BP_test
+[2021.04.28-10.23.07:968][508]LogContentValidation: Display: Validating Blueprint /Game/triggerThings/BP_test.BP_test
+[2021.04.28-10.23.11:570][935]LogTemp: Repeating last play command: Simulate
+[2021.04.28-10.23.11:573][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-10.23.11:573][935]PIE: New page: SIE session: Leveltest (28 avr. 2021 à 14:23:11)
+[2021.04.28-10.23.11:597][935]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-10.23.11:600][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003235s)
+[2021.04.28-10.23.11:601][935]LogAIModule: Creating AISystem for world Leveltest
+[2021.04.28-10.23.11:601][935]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2021.04.28-10.23.11:601][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.004217s)
+[2021.04.28-10.23.11:632][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.04.28-10.23.11:632][935]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2021.04.28-10.23.11:632][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-10.23.11:632][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-10.23.11:632][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-10.23.11:632][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-10.23.11:632][935]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-10.23.11:632][935]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-10.23.11:632][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-10.23.11:632][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-10.23.11:633][935]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-10.23.11:633][935]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-10.23.11:635][935]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-10.23.11:635][935]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-10.23.11:648][935]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.04.28-10.23.11:648][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-10.23.11:648][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-10.23.11:648][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-10.23.11:648][935]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-10.23.11:648][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-10.23.11:648][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-10.23.11:660][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-10.23.11:660][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-10.23.11:660][935]LogInit: FAudioDevice initialized.
+[2021.04.28-10.23.11:660][935]LogAudio: Display: Audio Device (ID: 63) registered with world 'Leveltest'.
+[2021.04.28-10.23.11:665][935]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-10.23.11:667][935]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.04.28-12.23.11
+[2021.04.28-10.23.11:667][935]LogWorld: Bringing up level for play took: 0.001225
+[2021.04.28-10.23.11:667][935]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2021.04.28-10.23.11:669][935]PIE: Server logged in
+[2021.04.28-10.23.11:670][935]PIE: Play in editor total start time 0,097 seconds.
+[2021.04.28-10.23.25:702][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-10.23.25:702][514]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-10.23.25:703][514]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-10.23.25:703][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-10.23.25:714][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-10.23.25:728][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-10.23.25:757][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-10.23.25:757][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-10.23.25:758][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-10.23.25:773][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.04.28-10.23.25:808][518]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2021.04.28-10.23.55:713][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.04.28-10.23.55:714][ 66]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Leveltest' took 0.034
+[2021.04.28-10.23.55:715][ 66]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/triggerThings/BP_test] ([1] browsable assets)...
+[2021.04.28-10.23.55:715][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/triggerThings/BP_test]
+[2021.04.28-10.23.55:715][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/triggerThings/BP_test" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Saved/Autosaves/Game/triggerThings/BP_test_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.04.28-10.23.55:718][ 66]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/BP_test_Auto6C464080A4A07D47FD80157A62DA00286.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Autosaves/Game/triggerThings/BP_test_Auto6.uasset'
+[2021.04.28-10.23.55:718][ 66]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.04.28-10.29.43:883][645]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-10.29.43:883][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-10.29.47:979][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.04.28-10.29.49:949][115]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.28-10.29.50:025][115]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/triggerThings/BP_test.BP_test
+[2021.04.28-10.29.51:116][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.04.28-10.29.51:171][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.04.28-10.29.51:200][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.04.28-10.29.51:226][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.04.28-12.48.38:128][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectDanger/Arrow_BP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/DirectDanger/Arrow_BP.uasset" SILENT=true
+[2021.04.28-12.48.38:135][796]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Arrow_BP750F44D04BA18830BDC237ABFE1E8AB9.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/DirectDanger/Arrow_BP.uasset'
+[2021.04.28-12.48.38:148][796]AssetCheck: New page: Asset Save: Arrow_BP
+[2021.04.28-12.48.38:148][796]LogContentValidation: Display: Validating Blueprint /Game/DirectDanger/Arrow_BP.Arrow_BP
+[2021.04.28-12.48.45:126][621]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.28-12.48.45:126][621]LogPlayLevel: [PlayLevel] Compiling Arrow_BP before play...
+[2021.04.28-12.48.45:187][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.04.28-12.48.45:191][621]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (1 blueprints)
+[2021.04.28-12.48.45:191][621]PIE: New page: SIE session: Leveltest (28 avr. 2021 à 16:48:45)
+[2021.04.28-12.48.45:217][621]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-12.48.45:222][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004528s)
+[2021.04.28-12.48.45:222][621]LogAIModule: Creating AISystem for world Leveltest
+[2021.04.28-12.48.45:223][621]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2021.04.28-12.48.45:223][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.005517s)
+[2021.04.28-12.48.45:251][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.04.28-12.48.45:251][621]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2021.04.28-12.48.45:251][621]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-12.48.45:251][621]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-12.48.45:251][621]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-12.48.45:251][621]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-12.48.45:251][621]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-12.48.45:251][621]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-12.48.45:251][621]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-12.48.45:251][621]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-12.48.45:251][621]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-12.48.45:251][621]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-12.48.45:256][621]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-12.48.45:256][621]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-12.48.45:268][621]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.04.28-12.48.45:269][621]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-12.48.45:269][621]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-12.48.45:269][621]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-12.48.45:269][621]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-12.48.45:269][621]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-12.48.45:269][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-12.48.45:281][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-12.48.45:281][621]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-12.48.45:281][621]LogInit: FAudioDevice initialized.
+[2021.04.28-12.48.45:281][621]LogAudio: Display: Audio Device (ID: 64) registered with world 'Leveltest'.
+[2021.04.28-12.48.45:289][621]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-12.48.45:290][621]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.04.28-14.48.45
+[2021.04.28-12.48.45:292][621]LogWorld: Bringing up level for play took: 0.001074
+[2021.04.28-12.48.45:292][621]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2021.04.28-12.48.45:293][621]PIE: Server logged in
+[2021.04.28-12.48.45:294][621]PIE: Play in editor total start time 0,169 seconds.
+[2021.04.28-12.48.46:878][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-12.48.46:878][798]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-12.48.46:878][798]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-12.48.46:878][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.48.46:883][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-12.48.46:896][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.48.46:923][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-12.48.46:923][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-12.48.46:924][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-12.48.46:940][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.04.28-12.48.46:963][799]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2021.04.28-12.48.47:267][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-12.48.47:267][835]PIE: New page: SIE session: Leveltest (28 avr. 2021 à 16:48:47)
+[2021.04.28-12.48.47:267][835]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-12.48.47:270][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003238s)
+[2021.04.28-12.48.47:271][835]LogAIModule: Creating AISystem for world Leveltest
+[2021.04.28-12.48.47:271][835]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2021.04.28-12.48.47:271][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.004124s)
+[2021.04.28-12.48.47:300][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.04.28-12.48.47:300][835]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2021.04.28-12.48.47:300][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-12.48.47:300][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-12.48.47:300][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-12.48.47:300][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-12.48.47:300][835]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-12.48.47:300][835]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-12.48.47:300][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-12.48.47:300][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-12.48.47:301][835]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-12.48.47:301][835]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-12.48.47:303][835]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-12.48.47:303][835]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-12.48.47:314][835]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.04.28-12.48.47:314][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-12.48.47:314][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-12.48.47:314][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-12.48.47:315][835]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-12.48.47:315][835]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-12.48.47:315][835]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-12.48.47:326][835]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-12.48.47:326][835]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-12.48.47:326][835]LogInit: FAudioDevice initialized.
+[2021.04.28-12.48.47:326][835]LogAudio: Display: Audio Device (ID: 65) registered with world 'Leveltest'.
+[2021.04.28-12.48.47:332][835]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-12.48.47:334][835]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.04.28-14.48.47
+[2021.04.28-12.48.47:334][835]LogWorld: Bringing up level for play took: 0.001074
+[2021.04.28-12.48.47:334][835]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2021.04.28-12.48.47:336][835]PIE: Server logged in
+[2021.04.28-12.48.47:337][835]PIE: Play in editor total start time 0,07 seconds.
+[2021.04.28-12.48.49:929][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-12.48.49:929][130]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-12.48.49:929][130]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-12.48.49:929][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.48.49:935][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-12.48.49:948][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.48.49:973][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-12.48.49:973][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-12.48.49:974][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-12.48.49:990][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.04.28-12.48.50:012][131]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2021.04.28-12.49.18:908][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.04.28-12.49.18:911][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Saved/Autosaves/Game/Levels/Leveltest_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.28-12.49.18:919][564]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest_Auto7F2193DFA483B56CFB650B0B9BCE0B973.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Autosaves/Game/Levels/Leveltest_Auto7.umap'
+[2021.04.28-12.49.18:920][564]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Leveltest' took 0.041
+[2021.04.28-12.49.18:920][564]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2021.04.28-12.49.53:356][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectDanger/Arrow_BP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/DirectDanger/Arrow_BP.uasset" SILENT=true
+[2021.04.28-12.49.53:363][692]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Arrow_BPB1ED92C5472DFF56F0E87EB556AB7A17.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/DirectDanger/Arrow_BP.uasset'
+[2021.04.28-12.49.53:375][692]AssetCheck: New page: Asset Save: Arrow_BP
+[2021.04.28-12.49.53:375][692]LogContentValidation: Display: Validating Blueprint /Game/DirectDanger/Arrow_BP.Arrow_BP
+[2021.04.28-12.50.30:407][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.04.28-12.50.30:426][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.28-12.50.30:453][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.28-12.50.30:461][109]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest43C6A2FC4DA1CB3287774FA6E03405FE.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap'
+[2021.04.28-12.50.30:468][109]LogFileHelpers: Saving map 'Leveltest' took 0.042
+[2021.04.28-12.50.30:479][109]AssetCheck: New page: Asset Save: Leveltest
+[2021.04.28-12.50.30:479][109]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.04.28-12.50.36:302][779]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.28-12.51.35:434][780]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/ThirdPersonCharacterE00D73CB48EA3AC791B7FC9CE6F1EE00.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.28-12.51.35:452][780]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.28-12.51.35:452][780]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.28-12.51.40:171][336]LogTemp: Repeating last play command: Simulate
+[2021.04.28-12.51.40:174][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-12.51.40:175][336]PIE: New page: SIE session: Leveltest (28 avr. 2021 à 16:51:40)
+[2021.04.28-12.51.40:175][336]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-12.51.40:178][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003369s)
+[2021.04.28-12.51.40:179][336]LogAIModule: Creating AISystem for world Leveltest
+[2021.04.28-12.51.40:179][336]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2021.04.28-12.51.40:179][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.004382s)
+[2021.04.28-12.51.40:210][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.04.28-12.51.40:211][336]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2021.04.28-12.51.40:211][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-12.51.40:211][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-12.51.40:211][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-12.51.40:211][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-12.51.40:211][336]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-12.51.40:211][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-12.51.40:211][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-12.51.40:211][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-12.51.40:211][336]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-12.51.40:211][336]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-12.51.40:214][336]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-12.51.40:214][336]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-12.51.40:226][336]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.04.28-12.51.40:226][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-12.51.40:226][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-12.51.40:226][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-12.51.40:226][336]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-12.51.40:226][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-12.51.40:226][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-12.51.40:227][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-12.51.40:227][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-12.51.40:227][336]LogInit: FAudioDevice initialized.
+[2021.04.28-12.51.40:227][336]LogAudio: Display: Audio Device (ID: 66) registered with world 'Leveltest'.
+[2021.04.28-12.51.40:241][336]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-12.51.40:243][336]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.04.28-14.51.40
+[2021.04.28-12.51.40:243][336]LogWorld: Bringing up level for play took: 0.001096
+[2021.04.28-12.51.40:243][336]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2021.04.28-12.51.40:245][336]PIE: Server logged in
+[2021.04.28-12.51.40:247][336]PIE: Play in editor total start time 0,072 seconds.
+[2021.04.28-12.51.46:427][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-12.51.46:427][ 37]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-12.51.46:428][ 37]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-12.51.46:428][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.51.46:433][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-12.51.46:445][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.51.46:474][ 37]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-12.51.46:474][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-12.51.46:475][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-12.51.46:488][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-12.51.46:491][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.28-12.51.46:521][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2021.04.28-12.51.52:010][685]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.04.28-12.51.55:405][ 88]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.28-12.51.58:326][437]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.28-12.51.59:420][566]LogTemp: Repeating last play command: Simulate
+[2021.04.28-12.51.59:424][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-12.51.59:424][566]PIE: New page: SIE session: Leveltest (28 avr. 2021 à 16:51:59)
+[2021.04.28-12.51.59:457][566]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-12.51.59:459][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003166s)
+[2021.04.28-12.51.59:460][566]LogAIModule: Creating AISystem for world Leveltest
+[2021.04.28-12.51.59:460][566]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2021.04.28-12.51.59:460][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.004080s)
+[2021.04.28-12.51.59:491][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.04.28-12.51.59:491][566]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2021.04.28-12.51.59:491][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-12.51.59:491][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-12.51.59:491][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-12.51.59:491][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-12.51.59:491][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-12.51.59:491][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-12.51.59:491][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-12.51.59:491][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-12.51.59:492][566]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-12.51.59:492][566]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-12.51.59:494][566]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-12.51.59:494][566]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-12.51.59:506][566]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.04.28-12.51.59:506][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-12.51.59:506][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-12.51.59:506][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-12.51.59:506][566]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-12.51.59:506][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-12.51.59:506][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-12.51.59:518][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-12.51.59:518][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-12.51.59:518][566]LogInit: FAudioDevice initialized.
+[2021.04.28-12.51.59:518][566]LogAudio: Display: Audio Device (ID: 67) registered with world 'Leveltest'.
+[2021.04.28-12.51.59:526][566]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-12.51.59:528][566]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.04.28-14.51.59
+[2021.04.28-12.51.59:528][566]LogWorld: Bringing up level for play took: 0.001067
+[2021.04.28-12.51.59:528][566]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2021.04.28-12.51.59:530][566]PIE: Server logged in
+[2021.04.28-12.51.59:531][566]PIE: Play in editor total start time 0,107 seconds.
+[2021.04.28-12.52.03:658][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-12.52.03:658][ 54]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-12.52.03:658][ 54]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-12.52.03:658][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.52.03:669][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-12.52.03:681][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.52.03:709][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-12.52.03:709][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-12.52.03:710][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-12.52.03:726][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.04.28-12.52.03:758][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2021.04.28-12.52.30:336][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.04.28-12.52.30:351][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.28-12.52.30:380][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.28-12.52.30:389][226]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest8065BA6A45709F5B19975EA3D0E70B78.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap'
+[2021.04.28-12.52.30:397][226]LogFileHelpers: Saving map 'Leveltest' took 0.046
+[2021.04.28-12.52.30:411][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectDanger/arrow_Spawner_BP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/DirectDanger/arrow_Spawner_BP.uasset" SILENT=true
+[2021.04.28-12.52.30:420][226]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/arrow_Spawner_BP1001DCF346107B9FA1A414A64AE8CE4F.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/DirectDanger/arrow_Spawner_BP.uasset'
+[2021.04.28-12.52.30:430][226]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-12.52.30:430][226]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.04.28-12.52.30:430][226]LogContentValidation: Display: Validating Blueprint /Game/DirectDanger/arrow_Spawner_BP.arrow_Spawner_BP
+[2021.04.28-12.52.32:561][482]BlueprintLog: New page: Compile arrow_Spawner_BP
+[2021.04.28-12.52.32:609][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.04.28-12.52.39:798][339]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.04.28-12.53.14:536][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.28-12.53.14:572][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.04.28-12.53.14:583][456]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/LeveltestC8899F134D9E6071E224BE9498447E35.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap'
+[2021.04.28-12.53.14:591][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest_BuiltData" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest_BuiltData.uasset" SILENT=true
+[2021.04.28-12.53.14:613][456]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest_BuiltData38A724AF423F8E545FD969BDA7E33473.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest_BuiltData.uasset'
+[2021.04.28-12.53.14:626][456]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-12.53.14:626][456]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Leveltest_BuiltData.Leveltest_BuiltData
+[2021.04.28-12.53.14:626][456]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.04.28-12.53.16:773][711]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.04.28-12.57.39:033][470]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-12.57.39:033][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.57.53:123][ 81]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.04.28-12.58.37:436][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.04.28-12.58.37:456][304]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/BP_PressureP31FED7724D8BE15C9C0449BCBA075AE6.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.04.28-12.58.37:468][304]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.04.28-12.58.37:468][304]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.04.28-12.58.41:821][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.04.28-12.58.41:835][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.28-12.58.41:867][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.04.28-12.58.41:877][818]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest4B868FAC490BFD3D98E27EAA6F830499.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap'
+[2021.04.28-12.58.41:884][818]LogFileHelpers: Saving map 'Leveltest' took 0.048
+[2021.04.28-12.58.41:896][818]AssetCheck: New page: Asset Save: Leveltest
+[2021.04.28-12.58.41:896][818]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.04.28-13.02.59:582][817]LogSlate: Took 0.006363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.04.28-13.03.16:995][878]BlueprintLog: New page: Compile BP_PressureP
+[2021.04.28-13.03.17:063][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.04.28-13.03.28:108][184]BlueprintLog: New page: Compile BP_PressureP
+[2021.04.28-13.03.28:178][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.04.28-13.03.34:744][766]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.04.28-13.03.37:005][ 15]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.04.28-13.03.37:010][ 15]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.04.28-13.03.38:348][175]LogEditorTransaction: Undo Change Parameter Type
+[2021.04.28-13.04.22:919][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.04.28-13.04.22:940][424]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/BP_PressureP3C5F052F40D95B3A8F24DB964F816A9B.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.04.28-13.04.22:954][424]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.04.28-13.04.22:954][424]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.04.28-13.08.12:013][155]BlueprintLog: New page: Compile BP_PressureP
+[2021.04.28-13.08.12:088][155]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2021.04.28-13.08.23:310][473]LogTemp: Repeating last play command: Simulate
+[2021.04.28-13.08.23:314][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-13.08.23:314][473]PIE: New page: SIE session: Leveltest (28 avr. 2021 à 17:08:23)
+[2021.04.28-13.08.23:314][473]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-13.08.23:318][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003414s)
+[2021.04.28-13.08.23:318][473]LogAIModule: Creating AISystem for world Leveltest
+[2021.04.28-13.08.23:318][473]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2021.04.28-13.08.23:319][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.004438s)
+[2021.04.28-13.08.23:350][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.04.28-13.08.23:351][473]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2021.04.28-13.08.23:351][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-13.08.23:351][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-13.08.23:351][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-13.08.23:351][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-13.08.23:351][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-13.08.23:351][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-13.08.23:351][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-13.08.23:351][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-13.08.23:351][473]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-13.08.23:351][473]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-13.08.23:354][473]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-13.08.23:354][473]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-13.08.23:366][473]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.04.28-13.08.23:366][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-13.08.23:366][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-13.08.23:366][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-13.08.23:367][473]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-13.08.23:367][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-13.08.23:367][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-13.08.23:378][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-13.08.23:378][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-13.08.23:378][473]LogInit: FAudioDevice initialized.
+[2021.04.28-13.08.23:378][473]LogAudio: Display: Audio Device (ID: 68) registered with world 'Leveltest'.
+[2021.04.28-13.08.23:386][473]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-13.08.23:388][473]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.04.28-15.08.23
+[2021.04.28-13.08.23:388][473]LogWorld: Bringing up level for play took: 0.001087
+[2021.04.28-13.08.23:388][473]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2021.04.28-13.08.23:391][473]LogBlueprintUserMessages: [BP_PressureP2_2] lier porte
+[2021.04.28-13.08.23:391][473]LogBlueprintUserMessages: [BP_PressureP3_5] lier porte
+[2021.04.28-13.08.23:391][473]LogBlueprintUserMessages: [BP_PressureP4_8] lier porte
+[2021.04.28-13.08.23:391][473]LogBlueprintUserMessages: [BP_PressureP5_11] lier porte
+[2021.04.28-13.08.23:391][473]LogBlueprintUserMessages: [BP_PressureP_2] lier porte
+[2021.04.28-13.08.23:391][473]PIE: Server logged in
+[2021.04.28-13.08.23:392][473]PIE: Play in editor total start time 0,078 seconds.
+[2021.04.28-13.08.29:454][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.08.29:454][182]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-13.08.29:454][182]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-13.08.29:455][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.08.29:466][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-13.08.29:476][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.08.29:503][182]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-13.08.29:503][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-13.08.29:504][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-13.08.29:517][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.08.29:520][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.04.28-13.08.29:558][184]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2021.04.28-13.08.37:391][107]LogTemp: Repeating last play command: Simulate
+[2021.04.28-13.08.37:395][107]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.28-13.08.37:395][107]LogPlayLevel: [PlayLevel] Compiling BP_PressureP before play...
+[2021.04.28-13.08.37:475][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.04.28-13.08.37:476][107]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (1 blueprints)
+[2021.04.28-13.08.37:476][107]PIE: New page: SIE session: Leveltest (28 avr. 2021 à 17:08:37)
+[2021.04.28-13.08.37:476][107]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-13.08.37:479][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003099s)
+[2021.04.28-13.08.37:480][107]LogAIModule: Creating AISystem for world Leveltest
+[2021.04.28-13.08.37:480][107]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2021.04.28-13.08.37:480][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.003970s)
+[2021.04.28-13.08.37:510][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.04.28-13.08.37:511][107]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2021.04.28-13.08.37:511][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-13.08.37:511][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-13.08.37:511][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-13.08.37:511][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-13.08.37:511][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-13.08.37:511][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-13.08.37:511][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-13.08.37:511][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-13.08.37:511][107]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-13.08.37:511][107]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-13.08.37:514][107]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-13.08.37:514][107]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-13.08.37:525][107]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.04.28-13.08.37:526][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-13.08.37:526][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-13.08.37:526][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-13.08.37:526][107]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-13.08.37:526][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-13.08.37:526][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-13.08.37:538][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-13.08.37:538][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-13.08.37:538][107]LogInit: FAudioDevice initialized.
+[2021.04.28-13.08.37:538][107]LogAudio: Display: Audio Device (ID: 69) registered with world 'Leveltest'.
+[2021.04.28-13.08.37:548][107]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-13.08.37:551][107]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.04.28-15.08.37
+[2021.04.28-13.08.37:551][107]LogWorld: Bringing up level for play took: 0.001738
+[2021.04.28-13.08.37:551][107]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2021.04.28-13.08.37:553][107]LogBlueprintUserMessages: [BP_PressureP2_2] lier arrow
+[2021.04.28-13.08.37:553][107]LogBlueprintUserMessages: [BP_PressureP3_5] lier arrow
+[2021.04.28-13.08.37:554][107]LogBlueprintUserMessages: [BP_PressureP4_8] lier arrow
+[2021.04.28-13.08.37:554][107]LogBlueprintUserMessages: [BP_PressureP5_11] lier arrow
+[2021.04.28-13.08.37:554][107]LogBlueprintUserMessages: [BP_PressureP_2] lier arrow
+[2021.04.28-13.08.37:554][107]PIE: Server logged in
+[2021.04.28-13.08.37:555][107]PIE: Play in editor total start time 0,16 seconds.
+[2021.04.28-13.08.45:673][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.08.45:673][ 71]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-13.08.45:673][ 71]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-13.08.45:674][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.08.45:683][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-13.08.45:696][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.08.45:725][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.08.45:725][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-13.08.45:726][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-13.08.45:742][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.28-13.08.45:782][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2021.04.28-13.09.45:925][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.04.28-13.09.45:942][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.28-13.09.45:978][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.04.28-13.09.45:987][193]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest8DECF5F8445DC50E45C7DDB030B9A8E8.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap'
+[2021.04.28-13.09.45:995][193]LogFileHelpers: Saving map 'Leveltest' took 0.052
+[2021.04.28-13.09.46:009][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.04.28-13.09.46:030][193]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/BP_PressurePC1417E1C4893C008D5F2369B9AB3D292.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.04.28-13.09.46:044][193]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-13.09.46:044][193]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.04.28-13.09.46:044][193]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.04.28-13.09.46:731][271]BlueprintLog: New page: Compile BP_PressureP
+[2021.04.28-13.09.46:798][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.04.28-13.09.51:084][760]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP2)
+[2021.04.28-13.09.57:994][545]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP)
+[2021.04.28-13.10.01:558][954]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP3)
+[2021.04.28-13.10.06:180][486]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP4)
+[2021.04.28-13.10.14:121][383]Cmd: DUPLICATE
+[2021.04.28-13.10.14:121][383]Cmd: ACTOR DUPLICATE
+[2021.04.28-13.10.25:664][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.28-13.10.25:700][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.04.28-13.10.25:711][653]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest65D4B28642FC47A3A3BA2F808D7472AB.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap'
+[2021.04.28-13.10.25:720][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest_BuiltData" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest_BuiltData.uasset" SILENT=true
+[2021.04.28-13.10.25:744][653]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest_BuiltData25EAE1B846B138CD1A06D487EED5D477.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest_BuiltData.uasset'
+[2021.04.28-13.10.25:764][653]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-13.10.25:764][653]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Leveltest_BuiltData.Leveltest_BuiltData
+[2021.04.28-13.10.25:764][653]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.04.28-13.10.38:521][125]BlueprintLog: New page: Compile BP_PressureP
+[2021.04.28-13.10.38:586][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.04.28-13.10.39:781][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.04.28-13.10.39:791][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.28-13.10.39:824][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.28-13.10.39:834][259]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/LeveltestA58BAA8941CDFB530E3DD6A0F1FA771B.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap'
+[2021.04.28-13.10.39:841][259]LogFileHelpers: Saving map 'Leveltest' took 0.050
+[2021.04.28-13.10.39:855][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.04.28-13.10.39:876][259]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/BP_PressureP583AA1B844DC9469E44BE19080701422.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.04.28-13.10.39:888][259]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-13.10.39:888][259]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.04.28-13.10.39:888][259]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.04.28-13.10.49:137][323]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP4)
+[2021.04.28-13.10.55:770][ 93]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP2)
+[2021.04.28-13.11.04:458][ 59]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP)
+[2021.04.28-13.11.09:034][578]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP3)
+[2021.04.28-13.11.14:168][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.04.28-13.11.14:191][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.28-13.11.14:224][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.04.28-13.11.14:234][169]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/LeveltestC881C6D2436855E93C28B89BCB25001E.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap'
+[2021.04.28-13.11.14:241][169]LogFileHelpers: Saving map 'Leveltest' took 0.051
+[2021.04.28-13.11.14:260][169]AssetCheck: New page: Asset Save: Leveltest
+[2021.04.28-13.11.14:260][169]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.04.28-13.11.15:444][304]LogTemp: Repeating last play command: Simulate
+[2021.04.28-13.11.15:447][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-13.11.15:447][304]PIE: New page: SIE session: Leveltest (28 avr. 2021 à 17:11:15)
+[2021.04.28-13.11.15:486][304]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-13.11.15:489][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003183s)
+[2021.04.28-13.11.15:490][304]LogAIModule: Creating AISystem for world Leveltest
+[2021.04.28-13.11.15:490][304]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2021.04.28-13.11.15:490][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.004076s)
+[2021.04.28-13.11.15:521][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.04.28-13.11.15:521][304]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2021.04.28-13.11.15:522][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-13.11.15:522][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-13.11.15:522][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-13.11.15:522][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-13.11.15:522][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-13.11.15:522][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-13.11.15:522][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-13.11.15:522][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-13.11.15:522][304]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-13.11.15:522][304]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-13.11.15:525][304]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-13.11.15:525][304]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-13.11.15:545][304]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.04.28-13.11.15:546][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-13.11.15:546][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-13.11.15:546][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-13.11.15:546][304]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-13.11.15:546][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-13.11.15:546][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-13.11.15:560][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-13.11.15:560][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-13.11.15:560][304]LogInit: FAudioDevice initialized.
+[2021.04.28-13.11.15:560][304]LogAudio: Display: Audio Device (ID: 70) registered with world 'Leveltest'.
+[2021.04.28-13.11.15:571][304]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-13.11.15:573][304]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.04.28-15.11.15
+[2021.04.28-13.11.15:573][304]LogWorld: Bringing up level for play took: 0.001100
+[2021.04.28-13.11.15:573][304]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2021.04.28-13.11.15:575][304]PIE: Server logged in
+[2021.04.28-13.11.15:576][304]PIE: Play in editor total start time 0,129 seconds.
+[2021.04.28-13.11.18:892][692]LogBlueprintUserMessages: [BP_PressureP6] 1.0
+[2021.04.28-13.11.19:941][818]LogBlueprintUserMessages: [BP_PressureP4_8] 1.0
+[2021.04.28-13.11.19:941][818]LogBlueprintUserMessages: [BP_PressureP4_8] 2.0
+[2021.04.28-13.11.21:842][ 46]LogBlueprintUserMessages: [BP_PressureP3_5] 1.0
+[2021.04.28-13.11.23:801][281]LogBlueprintUserMessages: [BP_PressureP_2] 1.0
+[2021.04.28-13.11.23:801][281]LogBlueprintUserMessages: [BP_PressureP_2] 2.0
+[2021.04.28-13.11.24:807][400]LogBlueprintUserMessages: [BP_PressureP2_2] 1.0
+[2021.04.28-13.11.24:807][400]LogBlueprintUserMessages: [BP_PressureP2_2] 2.0
+[2021.04.28-13.11.24:808][400]LogBlueprintUserMessages: [BP_PressureP2_2] 3.0
+[2021.04.28-13.11.26:906][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.11.26:906][648]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-13.11.26:906][648]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-13.11.26:907][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.11.26:921][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-13.11.26:931][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.11.26:964][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.11.26:965][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-13.11.26:965][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-13.11.26:982][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.04.28-13.11.27:017][649]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2021.04.28-13.12.25:297][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.04.28-13.12.25:317][559]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/BP_PressureP79C26C7E4C77EBB243DDF1B41BA98991.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.04.28-13.12.25:331][559]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.04.28-13.12.25:331][559]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.04.28-13.13.25:564][598]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/triggerThings/BP_indicateur_activation.BP_indicateur_activation
+[2021.04.28-13.13.33:742][539]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-13.13.33:742][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.13.38:770][ 77]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/triggerThings/BP_Doors.BP_Doors
+[2021.04.28-13.13.44:810][760]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-13.13.44:810][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.14.27:734][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectDanger/arrow_Spawner_BP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/DirectDanger/arrow_Spawner_BP.uasset" SILENT=true
+[2021.04.28-13.14.27:743][873]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/arrow_Spawner_BP4B7CDE3E4F12D4DAE50A10ACC7E37184.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/DirectDanger/arrow_Spawner_BP.uasset'
+[2021.04.28-13.14.27:754][873]AssetCheck: New page: Asset Save: arrow_Spawner_BP
+[2021.04.28-13.14.27:754][873]LogContentValidation: Display: Validating Blueprint /Game/DirectDanger/arrow_Spawner_BP.arrow_Spawner_BP
+[2021.04.28-13.16.07:636][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.04.28-13.16.07:658][678]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/BP_PressurePBE76ED194D02E15FEAE4A8B434092C4C.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.04.28-13.16.07:673][678]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.04.28-13.16.07:673][678]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.04.28-13.16.13:194][296]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.04.28-13.16.24:005][543]BlueprintLog: New page: Compile BP_PressureP
+[2021.04.28-13.16.24:080][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.04.28-13.16.24:544][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.04.28-13.16.24:565][589]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/BP_PressureP961F650E446EC08AF3EBFAA71A8E3A8F.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.04.28-13.16.24:579][589]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.04.28-13.16.24:579][589]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.04.28-13.16.48:985][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.04.28-13.16.48:998][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.28-13.16.49:028][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.04.28-13.16.49:038][355]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest960D39304D7E83B57503D5844C0EF858.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Levels/Leveltest.umap'
+[2021.04.28-13.16.49:043][355]LogFileHelpers: Saving map 'Leveltest' took 0.044
+[2021.04.28-13.16.49:054][355]AssetCheck: New page: Asset Save: Leveltest
+[2021.04.28-13.16.49:054][355]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.04.28-13.16.50:710][544]LogTemp: Repeating last play command: Simulate
+[2021.04.28-13.16.50:714][544]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.28-13.16.50:718][544]LogPlayLevel: [PlayLevel] Compiling arrow_Spawner_BP before play...
+[2021.04.28-13.16.50:785][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.04.28-13.16.50:786][544]LogPlayLevel: PlayLevel: Blueprint regeneration took 72 ms (1 blueprints)
+[2021.04.28-13.16.50:787][544]PIE: New page: SIE session: Leveltest (28 avr. 2021 à 17:16:50)
+[2021.04.28-13.16.50:787][544]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-13.16.50:790][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003332s)
+[2021.04.28-13.16.50:791][544]LogAIModule: Creating AISystem for world Leveltest
+[2021.04.28-13.16.50:791][544]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2021.04.28-13.16.50:791][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.004208s)
+[2021.04.28-13.16.50:821][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.04.28-13.16.50:821][544]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2021.04.28-13.16.50:821][544]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-13.16.50:821][544]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-13.16.50:821][544]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-13.16.50:821][544]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-13.16.50:821][544]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-13.16.50:821][544]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-13.16.50:821][544]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-13.16.50:821][544]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-13.16.50:821][544]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-13.16.50:821][544]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-13.16.50:824][544]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-13.16.50:824][544]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-13.16.50:836][544]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.04.28-13.16.50:836][544]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-13.16.50:837][544]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-13.16.50:837][544]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-13.16.50:837][544]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-13.16.50:837][544]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-13.16.50:837][544]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-13.16.50:848][544]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-13.16.50:848][544]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-13.16.50:848][544]LogInit: FAudioDevice initialized.
+[2021.04.28-13.16.50:848][544]LogAudio: Display: Audio Device (ID: 71) registered with world 'Leveltest'.
+[2021.04.28-13.16.50:856][544]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-13.16.50:858][544]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.04.28-15.16.50
+[2021.04.28-13.16.50:858][544]LogWorld: Bringing up level for play took: 0.001124
+[2021.04.28-13.16.50:858][544]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2021.04.28-13.16.50:860][544]PIE: Server logged in
+[2021.04.28-13.16.50:860][544]PIE: Play in editor total start time 0,147 seconds.
+[2021.04.28-13.17.37:076][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.17.37:076][ 39]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.04.28-13.17.37:076][ 39]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-13.17.37:077][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.17.37:089][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-13.17.37:099][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.17.37:127][ 39]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-13.17.37:127][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-13.17.37:128][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-13.17.37:140][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.17.37:143][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.04.28-13.17.37:188][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2021.04.28-13.18.47:619][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectDanger/Arrow_BP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/DirectDanger/Arrow_BP.uasset" SILENT=true
+[2021.04.28-13.18.47:626][340]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Arrow_BP6F9CE14C41CFE9A029D104BE8EEA5C8C.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/DirectDanger/Arrow_BP.uasset'
+[2021.04.28-13.18.47:638][340]AssetCheck: New page: Asset Save: Arrow_BP
+[2021.04.28-13.18.47:638][340]LogContentValidation: Display: Validating Blueprint /Game/DirectDanger/Arrow_BP.Arrow_BP
+[2021.04.28-13.18.51:906][836]LogEditorViewport: Clicking on Actor (LMB): arrow_Spawner_BP_C (arrow_Spawner_BP)
+[2021.04.28-13.19.03:493][163]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.04.28-13.19.17:613][788]LogMetaData: Removing '/Game/Traps/DirectDanger/Arrow_BP.Arrow_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/DirectDanger/Arrow_BP.PackageMetaData'
+[2021.04.28-13.19.17:613][788]LogMetaData: Removing '/Game/Traps/DirectDanger/Arrow_BP.SKEL_Arrow_BP_C' ref from Metadata '/Game/DirectDanger/Arrow_BP.PackageMetaData'
+[2021.04.28-13.19.17:613][788]LogMetaData: Removing '/Game/Traps/DirectDanger/Arrow_BP.Arrow_BP_C' ref from Metadata '/Game/DirectDanger/Arrow_BP.PackageMetaData'
+[2021.04.28-13.19.17:613][788]LogMetaData: Removing '/Game/Traps/DirectDanger/Arrow_BP.Arrow_BP_C:ReceiveHit' ref from Metadata '/Game/DirectDanger/Arrow_BP.PackageMetaData'
+[2021.04.28-13.19.17:613][788]LogMetaData: Removing '/Game/Traps/DirectDanger/Arrow_BP.SKEL_Arrow_BP_C:UserConstructionScript' ref from Metadata '/Game/DirectDanger/Arrow_BP.PackageMetaData'
+[2021.04.28-13.19.17:614][788]LogMetaData: Removing '/Game/Traps/DirectDanger/Arrow_BP.SKEL_Arrow_BP_C:ReceiveHit' ref from Metadata '/Game/DirectDanger/Arrow_BP.PackageMetaData'
+[2021.04.28-13.19.17:615][788]LogMetaData: Removing '/Game/Traps/DirectDanger/arrow_Spawner_BP.arrow_Spawner_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/DirectDanger/arrow_Spawner_BP.PackageMetaData'
+[2021.04.28-13.19.17:615][788]LogMetaData: Removing '/Game/Traps/DirectDanger/arrow_Spawner_BP.SKEL_arrow_Spawner_BP_C' ref from Metadata '/Game/DirectDanger/arrow_Spawner_BP.PackageMetaData'
+[2021.04.28-13.19.17:615][788]LogMetaData: Removing '/Game/Traps/DirectDanger/arrow_Spawner_BP.arrow_Spawner_BP_C' ref from Metadata '/Game/DirectDanger/arrow_Spawner_BP.PackageMetaData'
+[2021.04.28-13.19.17:615][788]LogMetaData: Removing '/Game/Traps/DirectDanger/arrow_Spawner_BP.arrow_Spawner_BP_C:Spawn Projectile' ref from Metadata '/Game/DirectDanger/arrow_Spawner_BP.PackageMetaData'
+[2021.04.28-13.19.17:615][788]LogMetaData: Removing '/Game/Traps/DirectDanger/arrow_Spawner_BP.SKEL_arrow_Spawner_BP_C:Spawn Projectile' ref from Metadata '/Game/DirectDanger/arrow_Spawner_BP.PackageMetaData'
+[2021.04.28-13.19.17:615][788]LogMetaData: Removing '/Game/Traps/DirectDanger/arrow_Spawner_BP.SKEL_arrow_Spawner_BP_C:UserConstructionScript' ref from Metadata '/Game/DirectDanger/arrow_Spawner_BP.PackageMetaData'
+[2021.04.28-13.19.17:642][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/DirectDanger/Arrow_BP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/DirectDanger/Arrow_BP.uasset" SILENT=true
+[2021.04.28-13.19.17:649][788]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Arrow_BP4729391940859997853534A354697A9E.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/DirectDanger/Arrow_BP.uasset'
+[2021.04.28-13.19.17:657][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/DirectDanger/arrow_Spawner_BP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/DirectDanger/arrow_Spawner_BP.uasset" SILENT=true
+[2021.04.28-13.19.17:666][788]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/arrow_Spawner_BPB3FBD36C4311A0FBA1A41084B81F962A.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/Traps/DirectDanger/arrow_Spawner_BP.uasset'
+[2021.04.28-13.19.17:667][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectDanger/arrow_Spawner_BP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Content/DirectDanger/arrow_Spawner_BP.uasset" SILENT=true
+[2021.04.28-13.19.17:668][788]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/arrow_Spawner_BPE6D5A401491E430C287B3CAEE53BACE1.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Content/DirectDanger/arrow_Spawner_BP.uasset'
+[2021.04.28-13.19.17:748][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.04.28-13.19.17:787][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.04.28-13.19.17:820][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.04.28-13.19.17:862][788]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-13.19.17:863][788]LogContentValidation: Display: Validating Blueprint /Game/Traps/DirectDanger/Arrow_BP.Arrow_BP
+[2021.04.28-13.19.17:863][788]LogContentValidation: Display: Validating ObjectRedirector /Game/DirectDanger/arrow_Spawner_BP.arrow_Spawner_BP
+[2021.04.28-13.19.17:863][788]LogContentValidation: Display: Validating ObjectRedirector /Game/DirectDanger/arrow_Spawner_BP.Default__arrow_Spawner_BP_C
+[2021.04.28-13.19.17:863][788]LogContentValidation: Display: Validating ObjectRedirector /Game/DirectDanger/arrow_Spawner_BP.arrow_Spawner_BP_C
+[2021.04.28-13.19.17:863][788]LogContentValidation: Display: Validating Blueprint /Game/Traps/DirectDanger/arrow_Spawner_BP.arrow_Spawner_BP
+[2021.04.28-13.19.34:008][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.04.28-13.19.34:145][524]LogSlate: Took 0.006235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.28-13.19.37:486][524]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.28-13.19.37:505][524]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/DirectDanger/arrow_Spawner_BP.arrow_Spawner_BP
+	Asset Name: /Game/DirectDanger/arrow_Spawner_BP.Default__arrow_Spawner_BP_C
+	Asset Name: /Game/DirectDanger/arrow_Spawner_BP.arrow_Spawner_BP_C
+[2021.04.28-13.19.37:808][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.04.28-13.19.39:498][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.28-13.27.40:790][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.04.28-13.27.40:794][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Saved/Autosaves/Game/Levels/Leveltest_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.28-13.27.40:803][316]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Leveltest_Auto8F3A11FA4421A578CDBC39DB4DCEF0ED5.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Autosaves/Game/Levels/Leveltest_Auto8.umap'
+[2021.04.28-13.27.40:803][316]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Leveltest' took 0.047
+[2021.04.28-13.27.40:804][316]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2021.04.28-13.27.40:804][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Traps/BP_PressureP] ([2] browsable assets)...
+[2021.04.28-13.27.40:812][316]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Traps/BP_PressureP.BP_PressureP]
+[2021.04.28-13.27.40:819][316]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Traps/BP_PressureP.BP_PressureP]
+[2021.04.28-13.27.40:819][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Traps/BP_PressureP]
+[2021.04.28-13.27.40:819][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndanaJones/IndianaJones/Saved/Autosaves/Game/Traps/BP_PressureP_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2021.04.28-13.27.40:841][316]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/BP_PressureP_Auto8416F00F942874800D8C819BEE19486B1.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Autosaves/Game/Traps/BP_PressureP_Auto8.uasset'
+[2021.04.28-13.27.40:843][316]LogSavePackage: Moving '../../../../projet unreal/IndanaJones/IndianaJones/Saved/arrow_Spawner_BP_Auto88968663E48C15D7F092041979DE3CA7E.tmp' to '../../../../projet unreal/IndanaJones/IndianaJones/Saved/Autosaves/Game/DirectDanger/arrow_Spawner_BP_Auto8.uasset'
+[2021.04.28-13.27.40:843][316]LogFileHelpers: Auto-saving content packages took 0.039
