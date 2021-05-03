@@ -1,0 +1,1490 @@
+﻿Log file open, 05/03/21 15:24:06
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: IndanaJones
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.197041
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MultiUserTakes
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-13.24.07:136][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.03-13.24.07:136][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-13.24.07:136][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-13.24.07:181][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.03-13.24.07:181][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.03-13.24.07:182][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.03-13.24.07:182][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.03-13.24.07:182][  0]LogHAL: Display: Platform has ~ 32 GB [34287493120 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.03-13.24.07:182][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.03-13.24.07:182][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.03-13.24.07:182][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.03-13.24.07:183][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-13.24.07:183][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Editor.ini]
+[2021.05.03-13.24.07:183][  0]LogInit: Computer: DESKTOP-ETOPL2V
+[2021.05.03-13.24.07:183][  0]LogInit: User: jfx
+[2021.05.03-13.24.07:183][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.05.03-13.24.07:183][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.03-13.24.07:183][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.05.03-13.24.07:183][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.03-13.24.07:183][  0]LogMemory: Process Physical Memory: 141.21 MB used, 141.22 MB peak
+[2021.05.03-13.24.07:183][  0]LogMemory: Process Virtual Memory: 129.31 MB used, 129.31 MB peak
+[2021.05.03-13.24.07:183][  0]LogMemory: Physical Memory: 10665.38 MB used,  22033.72 MB free, 32699.10 MB total
+[2021.05.03-13.24.07:183][  0]LogMemory: Virtual Memory: 134198400.00 MB used,  19324.90 MB free, 134217728.00 MB total
+[2021.05.03-13.24.07:187][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.03-13.24.07:215][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.03-13.24.07:216][  0]LogInit: Using OS detected language (fr-FR).
+[2021.05.03-13.24.07:216][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.05.03-13.24.07:217][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.05.03-13.24.07:218][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.05.03-13.24.07:218][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.05.03-13.24.07:218][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.05.03-13.24.07:218][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.05.03-13.24.07:218][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.05.03-13.24.07:218][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.05.03-13.24.07:218][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.05.03-13.24.07:218][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.03-13.24.07:228][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.03-13.24.07:246][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.03-13.24.07:246][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.03-13.24.12:453][  0]LogHMD: Failed to initialize OpenVR with code 309
+[2021.05.03-13.24.12:453][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.03-13.24.12:453][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.03-13.24.12:453][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.03-13.24.12:534][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2021.05.03-13.24.12:534][  0]LogD3D11RHI:       8011/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.03-13.24.12:535][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.03-13.24.12:535][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.03-13.24.12:535][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.03-13.24.12:541][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.03-13.24.12:541][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.03-13.24.12:541][  0]LogWindows: EnumDisplayDevices:
+[2021.05.03-13.24.12:541][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2021.05.03-13.24.12:541][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2021.05.03-13.24.12:541][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.05.03-13.24.12:541][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.05.03-13.24.12:542][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.03-13.24.12:542][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2021.05.03-13.24.12:542][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.05.03-13.24.12:542][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.05.03-13.24.12:542][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2021.05.03-13.24.12:605][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.03-13.24.12:606][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.03-13.24.12:606][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.03-13.24.12:606][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2021.05.03-13.24.12:627][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.05.03-13.24.12:628][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.03-13.24.12:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.03-13.24.12:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.03-13.24.12:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.03-13.24.12:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.03-13.24.12:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.03-13.24.12:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.03-13.24.12:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.03-13.24.12:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.03-13.24.12:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.03-13.24.12:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.03-13.24.12:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.03-13.24.12:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.03-13.24.12:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.03-13.24.12:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.03-13.24.12:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.03-13.24.12:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.03-13.24.12:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.03-13.24.12:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.03-13.24.12:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.03-13.24.12:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.03-13.24.12:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.03-13.24.12:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.03-13.24.12:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.03-13.24.12:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.03-13.24.12:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.03-13.24.12:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.03-13.24.12:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.03-13.24.12:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.03-13.24.12:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.03-13.24.12:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.03-13.24.12:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.03-13.24.12:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.03-13.24.12:998][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.03-13.24.13:003][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.03-13.24.13:044][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.03-13.24.13:044][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../projet unreal/IndianaJones/Intermediate/Shaders/WorkingDirectory/18112/).
+[2021.05.03-13.24.13:044][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jfx/AppData/Local/Temp/UnrealShaderWorkingDir/8AF986584F02C192E771E69A537CA48B/'.
+[2021.05.03-13.24.13:044][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.03-13.24.13:044][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.03-13.24.13:651][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.03-13.24.13:697][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/jfx/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.03-13.24.13:697][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jfx/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.03-13.24.13:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../projet unreal/IndianaJones/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.03-13.24.13:698][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.03-13.24.13:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../projet unreal/IndianaJones/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.03-13.24.13:698][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.03-13.24.13:706][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.03-13.24.13:706][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.03-13.24.13:706][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.03-13.24.13:711][  0]LogDerivedDataCache: Speed tests for C:/Users/jfx/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2021.05.03-13.24.13:711][  0]LogDerivedDataCache: Display: Performance to C:/Users/jfx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1884.63MBs, RandomWriteSpeed=269.32MBs. Assigned SpeedClass 'Local'
+[2021.05.03-13.24.13:712][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jfx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.03-13.24.13:712][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.03-13.24.13:712][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.03-13.24.13:750][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.03-13.24.13:750][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.03-13.24.13:774][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.05.03-13.24.13:952][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.03-13.24.13:952][  0]LogInit: Active device profile: [0000011C40CEB200][0000011C3DA74340 49] Windows
+[2021.05.03-13.24.13:952][  0]LogInit: Profiles: [0000011C40CEB200][0000011C3DA74340 49] Windows, [0000011C40CE4F00][0000011C3DA7C4C0 49] WindowsNoEditor, [0000011C40CE9000][0000011C3FD6C640 49] WindowsServer, [0000011C40CE6D00][0000011C3FD827C0 49] WindowsClient, [0000011C40CEAC00][0000011C3FD8A940 49] IOS, [0000011C40CE5600][0000011C3FD96AC0 49] iPadAir, [0000011C40CE9600][0000011C3FDA6C40 49] iPadAir2, [0000011C40B08A00][0000011C3FDD6F00 49] IPadPro, [0000011C40B08B00][0000011C3FDD2F40 49] iPadAir3, [0000011C40CEA900][0000011C3FDDB0C0 49] iPadAir4, [0000011C40B0B400][0000011C3FDDF240 49] iPadMini2, [0000011C40CE9700][0000011C3FDE33C0 49] iPadMini3, [0000011C40B0BB00][0000011C3FDEF540 49] iPadMini4, [0000011C40CE8300][0000011C3DA79680 49] iPadMini5, [0000011C40CE6700][0000011C3FDF78C0 49] iPhone6, [0000011C40CE6600][0000011C3FDF3900 49] iPodTouch6, [0000011C40B09000][0000011C3FE07BC0 49] iPhone7, [0000011C40B0AF00][0000011C3FE03C00 49] iPodTouch7, [0000011C40CE7000][0000011C3FE0A0C0 49] iPhone5S, [0000011C40B0B600][0000011C3FE0E240 49] iPhone6Plus, [0000011C40CE6300][0000011C3FE123C0 49] iPhone6S, [0000011C40B08500][0000011C3FE16540 49] iPhone6SPlus, [0000011C40CE5B00][0000011C3FE1A6C0 49] iPhone7Plus, [0000011C40B0B800][0000011C3FE1E840 49] iPhoneSE, [0000011C40CE4D00][0000011C3FE229C0 49] iPhone8, [0000011C40B09400][0000011C3FE26B40 49] iPhone8Plus, [0000011C40CE4200][0000011C3FE42CC0 49] iPhoneX, [0000011C40B09C00][0000011C3FE46E40 49] iPhoneXS, [0000011C40CE4800][0000011C3FE4AFC0 49] iPhoneXSMax, [0000011C40B09700][0000011C3FE4F140 49] iPhoneXR, [0000011C40CE4500][0000011C3FE532C0 49] iPhone11, [0000011C40B09800][0000011C3FE77440 49] iPhone11Pro, [0000011C40CE4100][0000011C3FE7B5C0 49] iPhone11ProMax, [0000011C40B0A000][0000011C3FDFF700 49] iPhoneSE2, [0000011C40CE4600][0000011C3FE7F840 49] iPhone12Mini, [0000011C40B09D00][0000011C3FE83980 49] iPhone12, [0000011C40CE4C00][0000011C3FE87AC0 49] iPhone12Pro, [0000011C40B0B500][0000011C40EA1C40 49] iPhone12ProMax, [0000011C40CE6100][0000011C40EA4100 49] iPadPro105, [0000011C40B0A700][0000011C40EA8280 49] iPadPro129, [0000011C40CE7800][0000011C40ED8400 49] iPadPro97, [0000011C40B08200][0000011C40EDC580 49] iPadPro2_129, [0000011C40CE5C00][0000011C40EE0700 49] iPad5, [0000011C40B0A500][0000011C40EE4880 49] iPad6, [0000011C40CE5800][0000011C40EE8A00 49] iPad7, [0000011C40B09F00][0000011C40EECB80 49] iPad8, [0000011C40CE4900][0000011C40EF0D00 49] iPadPro11, [0000011C40B0A400][0000011C40EF4E80 49] iPadPro2_11, [0000011C40CE5F00][0000011C40EF9000 49] iPadPro3_129, [0000011C40B0B700][0000011C40EFD180 49] iPadPro4_129, [0000011C40CE4300][0000011C40F01300 49] AppleTV, [0000011C40B09100][0000011C40F05480 49] AppleTV4K, [0000011C40CE6400][0000011C40F09600 49] TVOS, [0000011C40B0B100][0000011C3FE8B740 49] Mac, [0000011C40CE5100][0000011C40F0D880 49] MacClient, [0000011C40CEB700][0000011C40F119C0 49] MacNoEditor, [0000011C40D70B00][0000011C40F15B00 49] MacServer, [0000011C40CE8A00][0000011C40F1DC80 49] Linux, [0000011C40D70600][0000011C40F20140 49] LinuxAArch64, [0000011C40CEBC00][0000011C40F242C0 49] LinuxNoEditor, [0000011C40D70E00][0000011C40F28440 49] LinuxAArch64NoEditor, [0000011C40CE8D00][0000011C40F2C5C0 49] LinuxClient, [0000011C40D70200][0000011C40F30740 49] LinuxAArch64Client, [0000011C40CEA100][0000011C40F348C0 49] LinuxServer, [0000011C40CE4700][0000011C40F38A40 49] LinuxAArch64Server, [0000011C40CE9E00][0000011C40F3CBC0 49] Android, [0000011C40CE7B00][0000011C40F40D40 49] Android_Low, [0000011C40CEA000][0000011C40F44EC0 49] Android_Mid, [0000011C40CE6C00][0000011C40F49040 49] Android_High, [0000011C40CEBE00][0000011C40F4D1C0 49] Android_Default, [0000011C40CE7600][0000011C40F51340 49] Android_Adreno4xx, [0000011C40CEA600][0000011C40F554C0 49] Android_Adreno5xx_Low, [0000011C40CE4E00][0000011C40F59640 49] Android_Adreno5xx, [0000011C40CE9900][0000011C40F5D7C0 49] Android_Adreno6xx, [0000011C40CE5200][0000011C40F19900 49] Android_Adreno6xx_Vulkan, [0000011C40CE8700][0000011C40F61A40 49] Android_Mali_T6xx, [0000011C40CE7E00][0000011C40F65B80 49] Android_Mali_T7xx, [0000011C40CE9800][0000011C40F6DD00 49] Android_Mali_T8xx, [0000011C40CE5A00][0000011C40F701C0 49] Android_Mali_G71, [0000011C40CE9500][0000011C40F74340 49] Android_Mali_G72, [0000011C40CE5300][0000011C40F784C0 49] Android_Mali_G72_Vulkan, [0000011C40CE8900][0000011C40F7C640 49] Android_Mali_G76, [0000011C40CE6B00][0000011C40F807C0 49] Android_Mali_G76_Vulkan, [0000011C40CEB900][0000011C40F84940 49] Android_Mali_G77, [0000011C40CE7400][0000011C40F88AC0 49] Android_Mali_G77_Vulkan, [0000011C40CEB600][0000011C40F8CC40 49] Android_Vulkan_SM5, [0000011C40CE7D00][0000011C40F90DC0 49] Android_PowerVR_G6xxx, [0000011C40CEB400][0000011C40F94F40 49] Android_PowerVR_GT7xxx, [0000011C40CE6800][0000011C40F990C0 49] Android_PowerVR_GE8xxx, [0000011C40CEA700][0000011C40F9D240 49] Android_PowerVR_GM9xxx, [0000011C40CE7F00][0000011C40FA13C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000011C40CEA400][0000011C40FA5540 49] Android_TegraK1, [0000011C40CE6200][0000011C40FA96C0 49] Android_Unknown_Vulkan, [0000011C40CEBB00][0000011C40FAD840 49] Lumin, [0000011C40CE9D00][0000011C40F69980 49] Lumin_Desktop, [0000011C40B62900][0000011C40FB1AC0 49] HoloLens, 
+[2021.05.03-13.24.14:036][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.03-13.24.14:036][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.03-13.24.14:036][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.03-13.24.14:036][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.03-13.24.14:036][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.03-13.24.14:052][  0]LogNetVersion: IndanaJones 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 844448525)
+[2021.05.03-13.24.14:379][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.03-13.24.14:407][  0]LogPackageLocalizationCache: Processed 25 localized package path(s) for 1 prioritized culture(s) in 0.028093 seconds
+[2021.05.03-13.24.14:412][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.03-13.24.14:412][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.03-13.24.14:412][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.03-13.24.14:694][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.03-13.24.14:698][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.03-13.24.14:755][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.05.03-13.24.14:755][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.05.03-13.24.14:755][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.05.03-13.24.14:778][  0]SourceControl: Source control is disabled
+[2021.05.03-13.24.14:778][  0]SourceControl: Source control is disabled
+[2021.05.03-13.24.14:783][  0]SourceControl: Source control is disabled
+[2021.05.03-13.24.14:786][  0]SourceControl: Source control is disabled
+[2021.05.03-13.24.14:793][  0]SourceControl: Source control is disabled
+[2021.05.03-13.24.14:798][  0]LogUProjectInfo: Found projects:
+[2021.05.03-13.24.14:967][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.03-13.24.14:980][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.03-13.24.14:980][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.03-13.24.15:037][  0]LogCollectionManager: Loaded 0 collections in 0.000441 seconds
+[2021.05.03-13.24.15:054][  0]LogFileCache: Scanning file cache for directory 'D:/projet unreal/IndianaJones/Saved/Collections/' took 0.00s
+[2021.05.03-13.24.15:054][  0]LogFileCache: Scanning file cache for directory 'D:/projet unreal/IndianaJones/Content/Developers/jfx/Collections/' took 0.00s
+[2021.05.03-13.24.15:054][  0]LogFileCache: Scanning file cache for directory 'D:/projet unreal/IndianaJones/Content/Collections/' took 0.00s
+[2021.05.03-13.24.15:054][  0]LogOcInput: OculusInput pre-init called
+[2021.05.03-13.24.15:064][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.03-13.24.15:064][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.03-13.24.15:101][  0]LogEngine: Initializing Engine...
+[2021.05.03-13.24.20:166][  0]LogHMD: Failed to initialize OpenVR with code 309
+[2021.05.03-13.24.20:166][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.03-13.24.20:167][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.03-13.24.20:262][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.03-13.24.20:270][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.03-13.24.20:278][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.03-13.24.20:281][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.03-13.24.20:281][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.03-13.24.20:281][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-13.24.20:281][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-13.24.20:281][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-13.24.20:281][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-13.24.20:281][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-13.24.20:281][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-13.24.20:281][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-13.24.20:281][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-13.24.20:281][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-13.24.20:281][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-13.24.20:290][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-13.24.20:290][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-13.24.20:314][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-13.24.20:315][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-13.24.20:316][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-13.24.20:316][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-13.24.20:317][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-13.24.20:317][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-13.24.20:317][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-13.24.20:318][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-13.24.20:318][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-13.24.20:318][  0]LogInit: FAudioDevice initialized.
+[2021.05.03-13.24.20:318][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.03-13.24.20:318][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.03-13.24.20:363][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/jfx/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.03-13.24.20:364][  0]LogInit: Texture streaming: Enabled
+[2021.05.03-13.24.20:373][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.03-13.24.20:376][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.03-13.24.20:376][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.03-13.24.20:377][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.03-13.24.20:399][  0]LogInit: Transaction tracking system initialized
+[2021.05.03-13.24.20:417][  0]BlueprintLog: New page: Editor Load
+[2021.05.03-13.24.20:464][  0]LocalizationService: Localization service is disabled
+[2021.05.03-13.24.20:486][  0]TimingProfiler: Initialize
+[2021.05.03-13.24.20:486][  0]TimingProfiler: OnSessionChanged
+[2021.05.03-13.24.20:486][  0]LoadingProfiler: Initialize
+[2021.05.03-13.24.20:487][  0]LoadingProfiler: OnSessionChanged
+[2021.05.03-13.24.20:487][  0]NetworkingProfiler: Initialize
+[2021.05.03-13.24.20:487][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.03-13.24.20:487][  0]MemoryProfiler: Initialize
+[2021.05.03-13.24.20:487][  0]MemoryProfiler: OnSessionChanged
+[2021.05.03-13.24.20:585][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.03-13.24.20:585][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.03-13.24.20:735][  0]LogFileCache: Scanning file cache for directory 'D:/projet unreal/IndianaJones/Content/' took 0.00s
+[2021.05.03-13.24.20:891][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.03-13.24.20:893][  0]SourceControl: Source control is disabled
+[2021.05.03-13.24.20:893][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.502
+[2021.05.03-13.24.20:893][  0]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/Leveltest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-13.24.20:893][  0]LightingResults: New page: Lighting Build
+[2021.05.03-13.24.20:894][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.24.20:894][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.24.20:894][  0]MapCheck: New page: Map Check
+[2021.05.03-13.24.20:894][  0]LightingResults: New page: Lighting Build
+[2021.05.03-13.24.20:900][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.03-13.24.21:047][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-13.24.21:047][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-13.24.21:047][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-13.24.21:048][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-13.24.21:048][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-13.24.21:048][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-13.24.21:048][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-13.24.21:048][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-13.24.21:049][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-13.24.21:049][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-13.24.21:049][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-13.24.21:106][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-13.24.21:106][  0]LoadErrors: Failed to load /Game/Statues/StanLee/Stan_Lee.Stan_Lee Referenced by FbxStaticMeshImportData_0
+[2021.05.03-13.24.21:106][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-13.24.21:106][  0]LoadErrors: Failed to load /Game/Statues/StanLee/Stan_LeeMat.Stan_LeeMat Referenced by Stan_Lee
+[2021.05.03-13.24.21:106][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-13.24.21:106][  0]LoadErrors: Failed to load /Game/Statues/StanLee/Stan_LeeMat.Stan_LeeMat Referenced by Stan_Lee
+[2021.05.03-13.24.21:111][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-13.24.21:111][  0]LoadErrors: Failed to load /Game/Statues/StanLee/Stan_Lee.Stan_Lee Referenced by FbxStaticMeshImportData_0
+[2021.05.03-13.24.21:111][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-13.24.21:111][  0]LoadErrors: Failed to load /Game/Statues/StanLee/StandMat.StandMat Referenced by Stand
+[2021.05.03-13.24.21:111][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-13.24.21:111][  0]LoadErrors: Failed to load /Game/Statues/StanLee/StandMat.StandMat Referenced by Stand
+[2021.05.03-13.24.21:254][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Leveltest'.
+[2021.05.03-13.24.21:255][  0]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-13.24.21:277][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-13.24.21:284][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.05.03-13.24.21:286][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-13.24.21:286][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,11ms to complete.
+[2021.05.03-13.24.21:286][  0]LogFileHelpers: Loading map 'Leveltest' took 0.393
+[2021.05.03-13.24.21:288][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.897
+[2021.05.03-13.24.21:392][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-13.24.21:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-13.24.21:401][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-13.24.21:406][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-13.24.21:417][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3648 classes and 890 folders.
+[2021.05.03-13.24.21:419][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.03-13.24.21:420][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.03-13.24.21:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.03-13.24.21:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.05.03-13.24.21:421][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.03-13.24.21:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.03-13.24.21:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.05.03-13.24.21:421][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.03-13.24.21:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.03-13.24.21:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.03-13.24.21:422][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-13.24.21:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.03-13.24.21:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.05.03-13.24.21:422][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.03-13.24.21:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.03-13.24.21:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.05.03-13.24.21:423][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.03-13.24.21:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.03-13.24.21:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.03-13.24.21:423][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.03-13.24.21:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.03-13.24.21:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.03-13.24.21:424][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.03-13.24.21:424][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:424][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.03-13.24.21:424][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.05.03-13.24.21:424][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.03-13.24.21:425][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:425][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.03-13.24.21:425][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.03-13.24.21:425][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.03-13.24.21:425][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:425][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.03-13.24.21:425][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.03-13.24.21:426][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.03-13.24.21:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.03-13.24.21:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.05.03-13.24.21:426][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.03-13.24.21:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.03-13.24.21:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.05.03-13.24.21:427][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-13.24.21:427][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:427][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.03-13.24.21:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.05.03-13.24.21:427][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.03-13.24.21:427][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:427][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.03-13.24.21:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.03-13.24.21:428][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.03-13.24.21:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.03-13.24.21:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.03-13.24.21:428][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.03-13.24.21:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.03-13.24.21:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.05.03-13.24.21:429][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.03-13.24.21:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.03-13.24.21:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.05.03-13.24.21:429][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.03-13.24.21:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.03-13.24.21:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.05.03-13.24.21:430][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-13.24.21:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.03-13.24.21:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.03-13.24.21:431][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-13.24.21:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.03-13.24.21:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.05.03-13.24.21:431][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.03-13.24.21:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.03-13.24.21:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.05.03-13.24.21:432][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.03-13.24.21:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.03-13.24.21:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.03-13.24.21:432][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.03-13.24.21:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.03-13.24.21:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.03-13.24.21:433][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.03-13.24.21:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.03-13.24.21:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.03-13.24.21:434][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-13.24.21:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.03-13.24.21:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.05.03-13.24.21:434][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.03-13.24.21:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-13.24.21:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.03-13.24.21:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.03-13.24.21:473][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.03-13.24.21:474][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.05.03-13.24.21:776][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.05.03-13.24.21:826][  0]LogSlate: Took 0.000480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.03-13.24.21:828][  0]LogSlate: Took 0.000675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.03-13.24.21:834][  0]LogSlate: Took 0.000591 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.03-13.24.21:923][  0]LogRenderer: Reallocating scene render targets to support 1632x808 Format 10 NumSamples 1 (Frame:1).
+[2021.05.03-13.24.22:003][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.03-13.24.22:003][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.03-13.24.22:003][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.03-13.24.22:003][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.03-13.24.22:003][  0]LogLoad: (Engine Initialization) Total time: 15.61 seconds
+[2021.05.03-13.24.22:003][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.03-13.24.22:003][  0]LogInit: First time updating LLM stats...
+[2021.05.03-13.24.22:060][  0]LogAssetRegistry: Asset discovery search completed in 8.2860 seconds
+[2021.05.03-13.24.22:060][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.03-13.24.22:083][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.03-13.24.22:126][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.03-13.24.22:130][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/projet unreal/IndianaJones/Content/' took 0.11s
+[2021.05.03-13.24.37:038][311]LogSlate: Window 'Message Log' being destroyed
+[2021.05.03-13.24.37:044][311]LogSlate: Window 'Message Log' being destroyed
+[2021.05.03-13.24.46:408][417]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2021.05.03-13.24.46:442][417]LogConcert: [Success] Launched Unreal Multi-User Server
+[2021.05.03-13.24.48:056][460]LogConcert: Display: Server DESKTOP-ETOPL2V discovered.
+[2021.05.03-13.24.58:621][156]LogSlate: Window 'Delete Session Confirmation' being destroyed
+[2021.05.03-13.24.58:627][156]Message dialog closed, result: Yes, title: Delete Session Confirmation, text: Do you really want to delete the session "IndianaJFDENIS" from the server "DESKTOP-ETOPL2V"?
+[2021.05.03-13.24.58:631][156]LogConcert: [Pending] Deleting Session...
+[2021.05.03-13.24.59:467][225]LogConcert: [Success] Deleted Session 'IndianaJFDENIS'
+[2021.05.03-13.25.13:331][859]LogConcert: [Pending] Creating Session 'jfdenisserveur'...
+[2021.05.03-13.25.13:331][859]LogConcert: [Pending] Creating Session 'jfdenisserveur'... - Validating Workspace...
+[2021.05.03-13.25.13:334][859]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.03-13.25.13:534][866]LogConcert: [Pending] Creating Session 'jfdenisserveur'... - Attempting Remote Connection...
+[2021.05.03-13.25.13:586][867]SourceControl: Source control is disabled
+[2021.05.03-13.25.13:586][867]SourceControl: Source control is disabled
+[2021.05.03-13.25.13:654][867]LogConcert: Display: Initialized Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.25.13:654][867]LogConcert: Display: Connecting to Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.25.13:755][869]LogConcert: Display: Connected to Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.25.13:774][870]LogConcert: [Success] Created Session 'jfdenisserveur'
+[2021.05.03-13.25.13:774][870]LogConcert: Display: Synced activity '1' produced by endpoint '277CBCA44F79BA3236E6C0A90786D64B': JF joined the session.
+[2021.05.03-13.25.18:275][396]LogSlate: Window 'Multi-User Browser' being destroyed
+[2021.05.03-13.25.18:279][396]LogSlate: Window 'Multi-User Browser' being destroyed
+[2021.05.03-13.25.49:847][146]LogUdpMessaging: Initializing bridge on interface 25.29.148.20:0 to multicast group 230.0.0.1:6666.
+[2021.05.03-13.25.50:952][146]LogUdpMessaging: Warning: Invalid UDP Messaging Static Endpoint ''
+[2021.05.03-13.25.50:952][146]LogUdpMessaging: Initializing bridge on interface 25.29.148.20:0 to multicast group 230.0.0.1:6666.
+[2021.05.03-13.26.21:072][358]LogUdpMessaging: Initializing bridge on interface 25.29.148.20:0 to multicast group 230.0.0.1:6666.
+[2021.05.03-13.26.28:314][220]LogConcert: Display: Disconnected from Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.28:314][220]SourceControl: Source control is disabled
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/Engine/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/IndianaJones/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/Paper2D/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/AnimationSharing/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/GeometryMode/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/SpeedTreeImporter/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/DatasmithContent/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/ChaosClothEditor/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/ChaosNiagara/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/ChaosSolverPlugin/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/GeometryProcessing/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/MotoSynth/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/Niagara/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/MagicLeap/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/MagicLeapPassableWorld/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/MediaCompositing/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/AudioSynesthesia/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/PostSplashScreen/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/Synthesis/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/MultiUserTakes/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/Takes/' was aborted.
+[2021.05.03-13.26.28:317][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/OculusVR/' was aborted.
+[2021.05.03-13.26.28:318][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/SteamVR/' was aborted.
+[2021.05.03-13.26.28:318][220]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/ConcertSyncClient/' was aborted.
+[2021.05.03-13.26.28:323][220]LogConcert: Display: Shutdown Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.30:411][430]LogConcert: Display: Server DESKTOP-ETOPL2V lost.
+[2021.05.03-13.26.30:435][433]LogConcert: Display: Server DESKTOP-ETOPL2V discovered.
+[2021.05.03-13.26.31:771][591]LogConcert: [Pending] Joining Session...
+[2021.05.03-13.26.31:771][591]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2021.05.03-13.26.31:994][601]LogConcert: [Pending] Joining Session... - Attempting Remote Connection...
+[2021.05.03-13.26.32:022][602]SourceControl: Source control is disabled
+[2021.05.03-13.26.32:022][602]SourceControl: Source control is disabled
+[2021.05.03-13.26.32:022][602]LogConcert: Display: Initialized Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.32:022][602]LogConcert: Display: Connecting to Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.32:114][604]LogConcert: Display: Connected to Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.32:114][604]LogConcert: Display: User 'jfx' (Endpoint: 277CBCA44F79BA3236E6C0A90786D64B) joined Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.32:137][605]LogConcert: Display: Synced activity '2' produced by endpoint '18EFE300432696E9E33628A27B1CC9BD': JF joined the session.
+[2021.05.03-13.26.32:137][605]LogConcert: [Success] Joined Session 'jfdenisserveur'
+[2021.05.03-13.26.40:566][567]LogConcert: Display: User 'jfx' (Endpoint: 277CBCA44F79BA3236E6C0A90786D64B) left Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.40:572][567]LogConcert: Display: Disconnected from Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.40:572][567]SourceControl: Source control is disabled
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/Engine/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/IndianaJones/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/Paper2D/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/AnimationSharing/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/GeometryMode/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/SpeedTreeImporter/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/DatasmithContent/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/ChaosClothEditor/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/ChaosNiagara/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/ChaosSolverPlugin/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/GeometryProcessing/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/MotoSynth/' was aborted.
+[2021.05.03-13.26.40:575][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/Niagara/' was aborted.
+[2021.05.03-13.26.40:576][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/MagicLeap/' was aborted.
+[2021.05.03-13.26.40:576][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/MagicLeapPassableWorld/' was aborted.
+[2021.05.03-13.26.40:576][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/MediaCompositing/' was aborted.
+[2021.05.03-13.26.40:576][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/AudioSynesthesia/' was aborted.
+[2021.05.03-13.26.40:576][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/PostSplashScreen/' was aborted.
+[2021.05.03-13.26.40:576][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/Synthesis/' was aborted.
+[2021.05.03-13.26.40:576][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/MultiUserTakes/' was aborted.
+[2021.05.03-13.26.40:576][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/Takes/' was aborted.
+[2021.05.03-13.26.40:576][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/OculusVR/' was aborted.
+[2021.05.03-13.26.40:576][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/SteamVR/' was aborted.
+[2021.05.03-13.26.40:576][567]LogDirectoryWatcher: A directory notification for 'D:/projet unreal/IndianaJones/Intermediate/Concert/MultiUser/B22A2A804D20E2D12DDA1C94086948D5/15D1C1AE435BEA1EC0C1B3B7E16BA448/Sandbox/ConcertSyncClient/' was aborted.
+[2021.05.03-13.26.40:581][567]LogConcert: Display: Shutdown Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.41:576][630]LogConcert: Display: Server DESKTOP-ETOPL2V lost.
+[2021.05.03-13.26.41:590][632]LogConcert: Display: Server DESKTOP-ETOPL2V discovered.
+[2021.05.03-13.26.46:353][810]LogSlate: Window 'Delete Session Confirmation' being destroyed
+[2021.05.03-13.26.46:359][810]Message dialog closed, result: No, title: Delete Session Confirmation, text: Do you really want to delete the session "jfdenisserveur" from the server "DESKTOP-ETOPL2V"?
+[2021.05.03-13.26.47:271][915]LogConcert: [Pending] Joining Session...
+[2021.05.03-13.26.47:271][915]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2021.05.03-13.26.47:483][925]LogConcert: [Pending] Joining Session... - Attempting Remote Connection...
+[2021.05.03-13.26.47:511][926]SourceControl: Source control is disabled
+[2021.05.03-13.26.47:511][926]SourceControl: Source control is disabled
+[2021.05.03-13.26.47:511][926]LogConcert: Display: Initialized Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.47:511][926]LogConcert: Display: Connecting to Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.47:604][928]LogConcert: Display: Connected to Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.47:604][928]LogConcert: Display: User 'jfx' (Endpoint: 277CBCA44F79BA3236E6C0A90786D64B) joined Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.47:604][928]LogConcert: Display: User 'dende' (Endpoint: E7C20816424B8006388DEDA89FB1080B) joined Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.26.47:703][929]LogConcert: Display: Synced activity '3' produced by endpoint '18EFE300432696E9E33628A27B1CC9BD': JF left the session.
+[2021.05.03-13.26.47:703][929]LogConcert: Display: Synced activity '4' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den joined the session.
+[2021.05.03-13.26.47:703][929]LogConcert: Display: Synced activity '5' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF joined the session.
+[2021.05.03-13.26.47:703][929]LogConcert: [Success] Joined Session 'jfdenisserveur'
+[2021.05.03-13.27.14:620][819]LogConcert: Display: User 'jfx' (Endpoint: 277CBCA44F79BA3236E6C0A90786D64B) left Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.27.14:621][819]LogConcert: Display: Synced activity '6' produced by endpoint '277CBCA44F79BA3236E6C0A90786D64B': JF left the session.
+[2021.05.03-13.27.17:998][208]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.03-13.27.19:020][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.05.03-13.27.19:021][324]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-13.27.19:039][324]LightingResults: New page: Lighting Build
+[2021.05.03-13.27.19:039][324]LoadErrors: New page: Loading map: LevelLostRuins.umap
+[2021.05.03-13.27.19:041][324]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.27.19:041][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.27.19:041][324]MapCheck: New page: Map Check
+[2021.05.03-13.27.19:041][324]LightingResults: New page: Lighting Build
+[2021.05.03-13.27.19:044][324]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-13.27.19:047][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.05.03-13.27.19:081][324]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelLostRuins'.
+[2021.05.03-13.27.19:082][324]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-13.27.19:090][324]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-13.27.19:103][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.03-13.27.19:124][324]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-13.27.19:124][324]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,162ms to complete.
+[2021.05.03-13.27.19:124][324]LogFileHelpers: Loading map 'LevelLostRuins' took 0.103
+[2021.05.03-13.27.19:125][324]LogSlate: Window 'Open Level' being destroyed
+[2021.05.03-13.27.35:767][ 46]LogSlate: Window 'New Level' being destroyed
+[2021.05.03-13.27.35:779][ 46]LightingResults: New page: Lighting Build
+[2021.05.03-13.27.35:779][ 46]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.27.35:780][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.27.35:780][ 46]MapCheck: New page: Map Check
+[2021.05.03-13.27.35:780][ 46]LightingResults: New page: Lighting Build
+[2021.05.03-13.27.35:785][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-13.27.35:790][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.03-13.27.35:792][ 46]LogAIModule: Creating AISystem for world Untitled
+[2021.05.03-13.27.35:792][ 46]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.03-13.27.35:793][ 46]LoadErrors: New page: New Map
+[2021.05.03-13.27.40:660][626]LogEditorViewport: Clicking Background
+[2021.05.03-13.27.46:163][263]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.03-13.27.48:450][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.05.03-13.28.10:018][530]LogSlate: Window 'Save Level As' being destroyed
+[2021.05.03-13.28.10:029][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins1" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-13.28.10:035][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.03-13.28.10:037][530]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins1931AABA7404890884DAC05BEEDEE8409.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins1.umap'
+[2021.05.03-13.28.10:055][530]LogFileHelpers: Saving map 'LevelLostRuins1' took 0.028
+[2021.05.03-13.28.10:062][530]AssetCheck: New page: Asset Save: LevelLostRuins1
+[2021.05.03-13.28.10:062][530]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins1.LevelLostRuins1
+[2021.05.03-13.28.10:072][531]LogConcert: Display: Synced activity '7' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF saved package /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.28.26:889][464]LogContentBrowser: Attempting asset rename: LevelLostRuins -> LevelLostRuins0
+[2021.05.03-13.28.26:953][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins0_BuiltData" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0_BuiltData.uasset" SILENT=true
+[2021.05.03-13.28.26:983][464]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins0_BuiltDataA16B95A0497CE6FEFE7826829990781F.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0_BuiltData.uasset'
+[2021.05.03-13.28.27:153][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins_BuiltData" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins_BuiltData.uasset" SILENT=true
+[2021.05.03-13.28.27:154][464]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins_BuiltDataEC78CA79413CAA7AB1C84BAAA44C028D.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins_BuiltData.uasset'
+[2021.05.03-13.28.27:163][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins0" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-13.28.27:185][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.05.03-13.28.27:231][464]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins047471FC4492CDAA03D00C783D76BAD1D.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0.umap'
+[2021.05.03-13.28.27:305][464]LogFileHelpers: Saving map 'LevelLostRuins0' took 0.143
+[2021.05.03-13.28.27:305][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap" SILENT=true
+[2021.05.03-13.28.27:306][464]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuinsF2F9F3C84971C33EDB191C8950C223F7.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap'
+[2021.05.03-13.28.27:359][464]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.03-13.28.27:359][464]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/LevelLostRuins.LevelLostRuins
+[2021.05.03-13.28.27:359][464]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/LevelLostRuins_BuiltData.LevelLostRuins_BuiltData
+[2021.05.03-13.28.27:359][464]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins0.LevelLostRuins0
+[2021.05.03-13.28.27:359][464]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/LevelLostRuins0_BuiltData.LevelLostRuins0_BuiltData
+[2021.05.03-13.28.27:366][465]LogConcert: Display: Synced activity '8' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked /Game/Levels/LevelLostRuins_BuiltData.
+[2021.05.03-13.28.27:366][465]LogConcert: Display: Synced activity '9' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked /Game/Levels/LevelLostRuins0_BuiltData.
+[2021.05.03-13.28.27:366][465]LogConcert: Display: Synced activity '10' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.28.28:911][605]LogConcert: Display: Synced activity '11' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF saved package /Game/Levels/LevelLostRuins0_BuiltData.
+[2021.05.03-13.28.28:911][605]LogConcert: Display: Synced activity '12' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF unlocked /Game/Levels/LevelLostRuins0_BuiltData.
+[2021.05.03-13.28.28:912][605]LogConcert: Display: Synced activity '13' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF renamed package /Game/Levels/LevelLostRuins_BuiltData to /Game/Levels/LevelLostRuins0_BuiltData.
+[2021.05.03-13.28.28:912][605]LogConcert: Display: Synced activity '14' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF unlocked /Game/Levels/LevelLostRuins_BuiltData.
+[2021.05.03-13.28.28:961][605]LogConcert: Display: Synced activity '15' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF saved package /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.28.28:961][605]LogConcert: Display: Synced activity '16' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF unlocked /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.28.28:963][605]LogConcert: Display: Synced activity '17' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF renamed package /Game/Levels/LevelLostRuins to /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.28.38:968][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins0" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-13.28.38:982][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.03-13.28.39:023][796]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins0431284E9417AE76B583088AEFCCCD692.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0.umap'
+[2021.05.03-13.28.39:091][796]LogFileHelpers: Saving map 'LevelLostRuins0' took 0.122
+[2021.05.03-13.28.39:107][796]AssetCheck: New page: Asset Save: LevelLostRuins0
+[2021.05.03-13.28.39:107][796]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins0.LevelLostRuins0
+[2021.05.03-13.28.39:349][819]LogConcert: Display: Synced activity '18' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF saved package /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.28.41:573][ 82]LogConcert: Display: Synced activity '19' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den created BoxBrush2 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.28.41:575][ 82]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/LevelLostRuins1.LevelLostRuins1:PersistentLevel.BoxBrush2.CubeBuilder_0'
+[2021.05.03-13.28.46:736][680]LogConcert: Display: Synced activity '20' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den renamed BoxBrush2 to Brush_1 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.28.47:358][752]LogConcert: Display: Synced activity '21' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified None in None, plus -1 other action.
+[2021.05.03-13.28.49:950][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins1" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-13.28.49:955][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.03-13.28.49:958][ 54]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins1B6E4DAE1423A1A13E31072AF3753F8D6.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins1.umap'
+[2021.05.03-13.28.49:972][ 54]LogFileHelpers: Saving map 'LevelLostRuins1' took 0.022
+[2021.05.03-13.28.49:986][ 54]AssetCheck: New page: Asset Save: LevelLostRuins1
+[2021.05.03-13.28.49:986][ 54]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins1.LevelLostRuins1
+[2021.05.03-13.28.49:997][ 55]LogConcert: Display: Synced activity '22' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF saved package /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.29.00:489][295]LogConcert: Display: Synced activity '23' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified None in None, plus -1 other action.
+[2021.05.03-13.29.01:580][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.03-13.29.01:598][421]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelLostRuins0.LevelLostRuins0
+[2021.05.03-13.29.01:598][421]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-13.29.01:599][421]LightingResults: New page: Lighting Build
+[2021.05.03-13.29.01:599][421]LoadErrors: New page: Loading map: LevelLostRuins0.umap
+[2021.05.03-13.29.01:641][421]LogWorld: UWorld::CleanupWorld for LevelLostRuins1, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.29.01:641][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.29.01:641][421]MapCheck: New page: Map Check
+[2021.05.03-13.29.01:641][421]LightingResults: New page: Lighting Build
+[2021.05.03-13.29.01:645][421]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-13.29.01:647][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.03-13.29.01:647][421]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelLostRuins0'.
+[2021.05.03-13.29.01:655][421]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-13.29.01:655][421]LogAIModule: Creating AISystem for world LevelLostRuins0
+[2021.05.03-13.29.01:663][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.03-13.29.01:671][421]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-13.29.01:671][421]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,103ms to complete.
+[2021.05.03-13.29.01:671][421]LogFileHelpers: Loading map 'LevelLostRuins0' took 0.072
+[2021.05.03-13.29.09:288][312]Cmd: SELECT NONE
+[2021.05.03-13.29.11:811][438]LogConcert: Display: Synced activity '24' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den created Polys_2 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.29.21:182][ 49]LogConcert: Display: Synced activity '25' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den created Polys_3 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.29.34:252][ 88]LogConcert: Display: Synced activity '26' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den created Polys_4 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.29.46:724][426]LogConcert: Display: Synced activity '27' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den created BoxBrush2 in /Game/Levels/LevelLostRuins1, plus 2 other actions.
+[2021.05.03-13.29.48:318][499]LogConcert: Display: Synced activity '28' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den locked BoxBrush2.BrushComponent0 in /Game/Levels/LevelLostRuins1, plus 1 other resource.
+[2021.05.03-13.29.49:884][607]LogConcert: Display: Synced activity '29' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified BoxBrush2.BrushComponent0 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.29.49:885][607]LogConcert: Display: Synced activity '30' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den unlocked BoxBrush2.BrushComponent0 in /Game/Levels/LevelLostRuins1, plus 1 other resource.
+[2021.05.03-13.30.30:332][ 79]LogConcert: Display: Synced activity '31' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den deleted BoxBrush2 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.30.31:163][178]LogConcert: Display: Synced activity '32' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified None in None, plus -1 other action.
+[2021.05.03-13.30.31:234][186]LogConcert: Display: Synced activity '33' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den deleted BoxBrush in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.30.36:405][737]LogConcert: Display: Synced activity '34' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified None in None, plus -1 other action.
+[2021.05.03-13.30.39:958][161]LogConcert: Display: Synced activity '35' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den deleted Polys_9 in /Game/Levels/LevelLostRuins1, plus 1 other action.
+[2021.05.03-13.30.40:187][185]LogConcert: Display: Synced activity '36' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified None in None, plus -1 other action.
+[2021.05.03-13.30.40:489][218]LogConcert: Display: Synced activity '37' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den deleted Polys_8 in /Game/Levels/LevelLostRuins1, plus 1 other action.
+[2021.05.03-13.30.40:811][248]LogConcert: Display: Synced activity '38' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den deleted Polys_7 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.30.40:989][257]LogConcert: Display: Synced activity '39' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den renamed BoxBrush2 to BoxBrush_0 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.30.41:357][286]LogConcert: Display: Synced activity '40' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den locked BoxBrush.BrushComponent0 in /Game/Levels/LevelLostRuins1, plus 1 other resource.
+[2021.05.03-13.30.41:499][295]LogConcert: Display: Synced activity '41' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified BoxBrush.BrushComponent0 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.30.41:500][295]LogConcert: Display: Synced activity '42' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den unlocked BoxBrush.BrushComponent0 in /Game/Levels/LevelLostRuins1, plus 1 other resource.
+[2021.05.03-13.30.41:614][305]LogConcert: Display: Synced activity '43' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den deleted Polys_10 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.30.41:937][338]LogConcert: Display: Synced activity '44' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den deleted Polys_4 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.30.42:276][374]LogConcert: Display: Synced activity '45' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den deleted Polys_3 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.30.42:561][403]LogConcert: Display: Synced activity '46' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den deleted Polys_2 in /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.30.42:878][437]LogConcert: Display: Synced activity '47' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified None in None, plus -1 other action.
+[2021.05.03-13.30.56:809][ 90]LogConcert: Display: Synced activity '48' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified None in None, plus -1 other action.
+[2021.05.03-13.30.58:021][219]LogConcert: Display: Synced activity '49' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified BoxBrush4.Model_0.Polys_0 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.30.59:523][383]LogConcert: Display: Synced activity '50' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified BoxBrush4.Model_0.Polys_0 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.31.00:207][449]LogConcert: Display: Synced activity '51' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified None in None, plus -1 other action.
+[2021.05.03-13.31.00:719][494]LogConcert: Display: Synced activity '52' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified None in None, plus -1 other action.
+[2021.05.03-13.31.01:435][563]LogConcert: Display: Synced activity '53' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified None in None, plus -1 other action.
+[2021.05.03-13.31.02:777][707]LogConcert: Display: Synced activity '54' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified None in None, plus -1 other action.
+[2021.05.03-13.31.19:536][696]LogConcert: Display: Synced activity '55' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den created BoxBrush31 in /Game/Levels/LevelLostRuins0, plus 4 other actions.
+[2021.05.03-13.31.19:568][696]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/LevelLostRuins0.LevelLostRuins0:PersistentLevel.BoxBrush33.Model_0'
+[2021.05.03-13.31.19:568][696]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/LevelLostRuins0.LevelLostRuins0:PersistentLevel.BoxBrush32.Model_0'
+[2021.05.03-13.31.19:568][696]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/LevelLostRuins0.LevelLostRuins0:PersistentLevel.BoxBrush31.Model_0'
+[2021.05.03-13.31.19:569][696]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/LevelLostRuins0.LevelLostRuins0:PersistentLevel.ModelComponent_50'
+[2021.05.03-13.31.19:966][740]LogConcert: Display: Synced activity '56' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den locked BoxBrush31.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 5 other resources.
+[2021.05.03-13.31.21:470][910]LogConcert: Display: Synced activity '57' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified BoxBrush31.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 2 other actions.
+[2021.05.03-13.31.21:500][910]LogConcert: Display: Synced activity '58' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den unlocked BoxBrush33.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 5 other resources.
+[2021.05.03-13.31.25:329][359]LogConcert: Display: Synced activity '59' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den locked BoxBrush31.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 5 other resources.
+[2021.05.03-13.31.26:463][485]LogConcert: Display: Synced activity '60' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den modified BoxBrush31.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 2 other actions.
+[2021.05.03-13.31.26:492][485]LogConcert: Display: Synced activity '61' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den unlocked BoxBrush33.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 5 other resources.
+[2021.05.03-13.31.32:786][216]LogEditorViewport: Clicking Background
+[2021.05.03-13.31.34:565][426]LogEditorViewport: Clicking Background
+[2021.05.03-13.31.39:003][946]LogConcert: Display: Synced activity '62' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den deleted Polys_4 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.31.39:687][ 14]LogConcert: Display: Synced activity '63' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den deleted Polys_3 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.31.50:924][350]MapCheck: New page: Map Check
+[2021.05.03-13.31.50:936][350]LogSlate: Took 0.001765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.03-13.31.50:937][350]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.03-13.31.50:937][350]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.03-13.31.51:167][350]LogWorld: UWorld::CleanupWorld for LevelLostRuins0, bSessionEnded=true, bCleanupResources=false
+[2021.05.03-13.31.51:220][350]LogEditorServer: Cleared 4 NULL BSP materials after rebuild.
+[2021.05.03-13.31.51:220][350]LightingResults: New page: Lighting Build - 3 mai 2021 à 17:31:51
+[2021.05.03-13.31.51:244][350]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.03-13.31.51:285][350]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.03-13.31.51:293][350]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.03-13.31.51:809][350]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.03-13.31.51:809][350]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18112
+[2021.05.03-13.31.58:190][350]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.03-13.31.58:191][350]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.03-13.31.58:191][350]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.03-13.31.58:191][350]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.03-13.31.58:191][350]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.03-13.31.58:191][350]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.03-13.31.58:313][350]LogEditorBuildUtils: Build time 0:07
+[2021.05.03-13.31.58:368][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.03-13.32.01:211][565]Job is a success!
+[2021.05.03-13.32.01:309][567]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2021.05.03-13.32.01:309][567]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.03-13.32.01:309][567]LogVolumetricLightmapImport:      BrickData (all levels) 0.8Mb (trimmed 1.4Mb due to 0.010000 MinBrickError)
+[2021.05.03-13.32.01:309][567]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.03-13.32.01:309][567]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2021.05.03-13.32.01:309][567]LogVolumetricLightmapImport:          1: 11.8% covering 31.2% of volume
+[2021.05.03-13.32.01:309][567]LogVolumetricLightmapImport:          2: 87.6% covering 3.6% of volume
+[2021.05.03-13.32.01:309][567]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.03-13.32.01:309][567]LogVolumetricLightmapImport:          LevelLostRuins0 			 169 bricks 	 100.0% (Persistent Level)
+[2021.05.03-13.32.01:664][567]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2021.05.03-13.32.01:664][567]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.05.03-13.32.01:664][567]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.05.03-13.32.01:723][567]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2021.05.03-13.32.01:725][567]LogStaticLightingSystem: LevelLostRuins0_BuiltData storing lightmap data for 75 meshes in 1 LightmapResourceClusters (75.0 Meshes per cluster).
+[2021.05.03-13.32.01:739][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.03-13.32.01:769][567]Lightmass on DESKTOP-ETOPL2V: 2.92 sec total, 165 ms importing, 28 ms setup, 347 ms photons, 2.33 sec processing, 0 ms extra exporting [334/334 mappings]. Threads: 35.0 sec total, 7.00 sec processing.
+[2021.05.03-13.32.01:791][567]LogStaticLightingSystem: Illumination: 10.5 sec (169 ms encoding lightmaps, 95 ms encoding shadowmaps)
+[2021.05.03-13.32.01:791][567]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 2 textures
+[2021.05.03-13.32.01:791][567]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 1 textures
+[2021.05.03-13.32.02:207][567]DumpUnbuiltLightIteractions
+[2021.05.03-13.32.02:207][567]Lights with unbuilt interactions: 0
+[2021.05.03-13.32.02:207][567]
+[2021.05.03-13.32.02:207][567]Primitives with unbuilt interactions: 0
+[2021.05.03-13.32.02:246][568]LogConcert: Display: Synced activity '64' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked /Game/Levels/LevelLostRuins0_BuiltData.
+[2021.05.03-13.32.02:247][568]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.03-13.32.02:247][568]MapCheck: New page: LevelLostRuins0 - 3 mai 2021 à 17:32:02
+[2021.05.03-13.32.02:247][568]MapCheck: Warning: DesktopPresence_C_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.05.03-13.32.02:248][568]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,469ms to complete.
+[2021.05.03-13.32.10:202][477]LogSlate: Window 'Message Log' being destroyed
+[2021.05.03-13.32.10:207][477]LogSlate: Window 'Message Log' being destroyed
+[2021.05.03-13.32.18:282][409]LogConcert: Display: Synced activity '65' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified None in None, plus -1 other action.
+[2021.05.03-13.32.40:719][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.05.03-13.32.40:736][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins0" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-13.32.40:740][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.05.03-13.32.40:784][924]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins026A1DF9D41EF52835EE5118581084349.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0.umap'
+[2021.05.03-13.32.40:867][924]LogFileHelpers: Saving map 'LevelLostRuins0' took 0.132
+[2021.05.03-13.32.40:868][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins0_BuiltData" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0_BuiltData.uasset" SILENT=true
+[2021.05.03-13.32.40:901][924]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins0_BuiltDataC7F32F884AF63808F33034AD02B588F5.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0_BuiltData.uasset'
+[2021.05.03-13.32.41:110][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins0_BuiltData" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0_BuiltData.uasset" SILENT=true
+[2021.05.03-13.32.41:152][924]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins0_BuiltData8FD103534BBAAA39EB4218A95322B219.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0_BuiltData.uasset'
+[2021.05.03-13.32.41:405][924]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.03-13.32.41:405][924]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins0.LevelLostRuins0
+[2021.05.03-13.32.41:405][924]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/LevelLostRuins0_BuiltData.LevelLostRuins0_BuiltData
+[2021.05.03-13.32.41:484][925]LogConcert: Display: Synced activity '66' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF saved package /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.32.42:767][ 28]LogConcert: Display: Synced activity '67' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF saved package /Game/Levels/LevelLostRuins0_BuiltData.
+[2021.05.03-13.32.42:767][ 28]LogConcert: Display: Synced activity '68' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF unlocked /Game/Levels/LevelLostRuins0_BuiltData.
+[2021.05.03-13.32.43:161][ 49]LogConcert: Display: Synced activity '69' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF saved package /Game/Levels/LevelLostRuins0_BuiltData.
+[2021.05.03-13.32.43:498][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.05.03-13.32.43:524][ 84]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelLostRuins1.LevelLostRuins1
+[2021.05.03-13.32.43:524][ 84]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-13.32.43:524][ 84]LightingResults: New page: Lighting Build
+[2021.05.03-13.32.43:525][ 84]LoadErrors: New page: Loading map: LevelLostRuins1.umap
+[2021.05.03-13.32.43:525][ 84]LogWorld: UWorld::CleanupWorld for LevelLostRuins0, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.32.43:525][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.32.43:525][ 84]MapCheck: New page: Map Check
+[2021.05.03-13.32.43:525][ 84]LightingResults: New page: Lighting Build
+[2021.05.03-13.32.43:529][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-13.32.43:532][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.03-13.32.43:532][ 84]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelLostRuins1'.
+[2021.05.03-13.32.43:537][ 84]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-13.32.43:537][ 84]LogAIModule: Creating AISystem for world LevelLostRuins1
+[2021.05.03-13.32.43:543][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.03-13.32.43:550][ 84]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-13.32.43:550][ 84]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,077ms to complete.
+[2021.05.03-13.32.43:550][ 84]LogFileHelpers: Loading map 'LevelLostRuins1' took 0.026
+[2021.05.03-13.32.43:583][ 85]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/LevelLostRuins1.LevelLostRuins1:PersistentLevel.ModelComponent_2'
+[2021.05.03-13.32.43:602][ 85]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/LevelLostRuins1.LevelLostRuins1:PersistentLevel.BoxBrush.Model_0'
+[2021.05.03-13.32.44:660][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.03-13.32.44:675][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins1" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-13.32.44:679][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.03-13.32.44:681][203]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins1E95B716C4C4BECEDD7F4DEBBF78F43E9.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins1.umap'
+[2021.05.03-13.32.44:697][203]LogFileHelpers: Saving map 'LevelLostRuins1' took 0.022
+[2021.05.03-13.32.44:711][203]AssetCheck: New page: Asset Save: LevelLostRuins1
+[2021.05.03-13.32.44:711][203]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins1.LevelLostRuins1
+[2021.05.03-13.32.44:720][204]LogConcert: Display: Synced activity '70' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF saved package /Game/Levels/LevelLostRuins1.
+[2021.05.03-13.32.46:897][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.05.03-13.32.46:934][464]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelLostRuins0.LevelLostRuins0
+[2021.05.03-13.32.46:934][464]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-13.32.46:934][464]LightingResults: New page: Lighting Build
+[2021.05.03-13.32.46:934][464]LoadErrors: New page: Loading map: LevelLostRuins0.umap
+[2021.05.03-13.32.46:961][464]LogWorld: UWorld::CleanupWorld for LevelLostRuins1, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.32.46:961][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.32.46:961][464]MapCheck: New page: Map Check
+[2021.05.03-13.32.46:961][464]LightingResults: New page: Lighting Build
+[2021.05.03-13.32.46:966][464]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-13.32.46:968][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.03-13.32.46:968][464]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelLostRuins0'.
+[2021.05.03-13.32.46:980][464]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-13.32.46:980][464]LogAIModule: Creating AISystem for world LevelLostRuins0
+[2021.05.03-13.32.46:986][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.03-13.32.46:994][464]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-13.32.46:994][464]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2021.05.03-13.32.46:994][464]LogFileHelpers: Loading map 'LevelLostRuins0' took 0.060
+[2021.05.03-13.32.50:768][912]LogConcert: Display: User 'dende' (Endpoint: 95876096432EAA62549875B17CF4206F) joined Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.32.50:769][912]LogConcert: Display: Synced activity '71' produced by endpoint '95876096432EAA62549875B17CF4206F': Den joined the session.
+[2021.05.03-13.33.09:876][165]LogConcert: Display: Synced activity '72' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified None in None, plus -1 other action.
+[2021.05.03-13.33.10:692][261]LogConcert: Display: Synced activity '73' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked BoxBrush19.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.33.12:656][471]LogConcert: Display: Synced activity '74' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified BoxBrush19.BrushComponent0 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.33.12:657][471]LogConcert: Display: Synced activity '75' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF unlocked BoxBrush19.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.33.18:441][157]LogConcert: Display: User 'dende' (Endpoint: E7C20816424B8006388DEDA89FB1080B) left Concert session 'jfdenisserveur' (Id: 15D1C1AE435BEA1EC0C1B3B7E16BA448, Owner: jfx).
+[2021.05.03-13.33.18:441][157]LogConcert: Display: Synced activity '76' produced by endpoint 'E7C20816424B8006388DEDA89FB1080B': Den left the session.
+[2021.05.03-13.33.19:093][234]LogConcert: Display: Synced activity '77' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked BoxBrush19.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.33.20:001][317]LogConcert: Display: Synced activity '78' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified BoxBrush19.BrushComponent0 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.33.20:001][317]LogConcert: Display: Synced activity '79' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF unlocked BoxBrush19.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.33.21:659][513]LogConcert: Display: Synced activity '80' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked BoxBrush19.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.33.23:062][657]LogConcert: Display: Synced activity '81' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified BoxBrush19.BrushComponent0 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.33.23:062][657]LogConcert: Display: Synced activity '82' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF unlocked BoxBrush19.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.33.27:157][107]LogConcert: Display: Synced activity '83' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF created Polys_5 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.33.31:061][560]MapCheck: New page: Map Check
+[2021.05.03-13.33.31:071][560]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.03-13.33.31:072][560]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.03-13.33.31:288][560]LogWorld: UWorld::CleanupWorld for LevelLostRuins0, bSessionEnded=true, bCleanupResources=false
+[2021.05.03-13.33.31:346][560]LightingResults: New page: Lighting Build - 3 mai 2021 à 17:33:31
+[2021.05.03-13.33.31:352][560]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.03-13.33.31:356][560]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.03-13.33.31:356][560]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.03-13.33.31:357][560]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.03-13.33.31:357][560]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18112
+[2021.05.03-13.33.35:922][560]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.03-13.33.35:923][560]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.03-13.33.35:923][560]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.03-13.33.35:923][560]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.03-13.33.35:923][560]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.03-13.33.35:923][560]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.03-13.33.36:020][560]LogEditorBuildUtils: Build time 0:04
+[2021.05.03-13.33.36:087][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.03-13.33.39:401][807]Job is a success!
+[2021.05.03-13.33.39:492][808]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2021.05.03-13.33.39:492][808]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.03-13.33.39:492][808]LogVolumetricLightmapImport:      BrickData (all levels) 0.9Mb (trimmed 1.1Mb due to 0.010000 MinBrickError)
+[2021.05.03-13.33.39:492][808]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.03-13.33.39:492][808]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2021.05.03-13.33.39:492][808]LogVolumetricLightmapImport:          1: 11.3% covering 31.2% of volume
+[2021.05.03-13.33.39:492][808]LogVolumetricLightmapImport:          2: 88.1% covering 3.8% of volume
+[2021.05.03-13.33.39:492][808]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.03-13.33.39:492][808]LogVolumetricLightmapImport:          LevelLostRuins0 			 177 bricks 	 100.0% (Persistent Level)
+[2021.05.03-13.33.39:849][808]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2021.05.03-13.33.39:849][808]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.05.03-13.33.39:849][808]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.05.03-13.33.39:889][808]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2021.05.03-13.33.39:891][808]LogStaticLightingSystem: LevelLostRuins0_BuiltData storing lightmap data for 60 meshes in 1 LightmapResourceClusters (60.0 Meshes per cluster).
+[2021.05.03-13.33.39:897][808]Lightmass on DESKTOP-ETOPL2V: 3.37 sec total, 168 ms importing, 30 ms setup, 240 ms photons, 2.89 sec processing, 0 ms extra exporting [343/343 mappings]. Threads: 43.4 sec total, 9.56 sec processing.
+[2021.05.03-13.33.39:906][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.03-13.33.39:950][808]LogStaticLightingSystem: Illumination: 8.56 sec (168 ms encoding lightmaps, 90 ms encoding shadowmaps)
+[2021.05.03-13.33.39:950][808]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 2 textures
+[2021.05.03-13.33.39:950][808]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 1 textures
+[2021.05.03-13.33.40:932][808]DumpUnbuiltLightIteractions
+[2021.05.03-13.33.40:932][808]Lights with unbuilt interactions: 0
+[2021.05.03-13.33.40:932][808]
+[2021.05.03-13.33.40:932][808]Primitives with unbuilt interactions: 0
+[2021.05.03-13.33.40:967][809]LogConcert: Display: Synced activity '84' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked /Game/Levels/LevelLostRuins0_BuiltData.
+[2021.05.03-13.33.40:968][809]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.03-13.33.40:968][809]MapCheck: New page: LevelLostRuins0 - 3 mai 2021 à 17:33:40
+[2021.05.03-13.33.40:968][809]MapCheck: Warning: DesktopPresence_C_1 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.05.03-13.33.40:968][809]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,472ms to complete.
+[2021.05.03-13.34.20:844][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins0" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-13.34.20:848][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.05.03-13.34.20:892][246]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins0B3D89EDE43F432B1C5F790AB937B2AB0.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0.umap'
+[2021.05.03-13.34.20:981][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins0_BuiltData" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0_BuiltData.uasset" SILENT=true
+[2021.05.03-13.34.21:014][246]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins0_BuiltDataE816AF254DA728735E51CFBC0C9556CD.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0_BuiltData.uasset'
+[2021.05.03-13.34.21:214][246]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.03-13.34.21:214][246]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/LevelLostRuins0_BuiltData.LevelLostRuins0_BuiltData
+[2021.05.03-13.34.21:214][246]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins0.LevelLostRuins0
+[2021.05.03-13.34.21:311][249]LogConcert: Display: Synced activity '85' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF saved package /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.34.22:930][390]LogConcert: Display: Synced activity '86' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF saved package /Game/Levels/LevelLostRuins0_BuiltData.
+[2021.05.03-13.34.22:930][390]LogConcert: Display: Synced activity '87' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF unlocked /Game/Levels/LevelLostRuins0_BuiltData.
+[2021.05.03-13.34.25:856][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.05.03-13.34.25:876][738]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelLostRuins0.LevelLostRuins0
+[2021.05.03-13.34.25:876][738]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-13.34.25:876][738]LightingResults: New page: Lighting Build
+[2021.05.03-13.34.25:876][738]LoadErrors: New page: Loading map: LevelLostRuins0.umap
+[2021.05.03-13.34.25:876][738]LogWorld: UWorld::CleanupWorld for LevelLostRuins0, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.34.25:877][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.34.25:877][738]MapCheck: New page: Map Check
+[2021.05.03-13.34.25:877][738]LightingResults: New page: Lighting Build
+[2021.05.03-13.34.25:881][738]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-13.34.25:883][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.03-13.34.25:901][738]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelLostRuins0'.
+[2021.05.03-13.34.25:902][738]LogAIModule: Creating AISystem for world LevelLostRuins0
+[2021.05.03-13.34.25:909][738]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-13.34.25:916][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.03-13.34.25:924][738]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-13.34.25:924][738]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2021.05.03-13.34.25:924][738]LogFileHelpers: Loading map 'LevelLostRuins0' took 0.048
+[2021.05.03-13.34.28:430][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.03-13.34.28:444][ 36]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelLostRuins0.LevelLostRuins0
+[2021.05.03-13.34.28:444][ 36]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-13.34.28:444][ 36]LightingResults: New page: Lighting Build
+[2021.05.03-13.34.28:444][ 36]LoadErrors: New page: Loading map: LevelLostRuins0.umap
+[2021.05.03-13.34.28:491][ 36]LogWorld: UWorld::CleanupWorld for LevelLostRuins0, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.34.28:491][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.34.28:492][ 36]MapCheck: New page: Map Check
+[2021.05.03-13.34.28:492][ 36]LightingResults: New page: Lighting Build
+[2021.05.03-13.34.28:497][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-13.34.28:499][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.03-13.34.28:518][ 36]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelLostRuins0'.
+[2021.05.03-13.34.28:519][ 36]LogAIModule: Creating AISystem for world LevelLostRuins0
+[2021.05.03-13.34.28:527][ 36]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-13.34.28:533][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.03-13.34.28:541][ 36]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-13.34.28:541][ 36]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,093ms to complete.
+[2021.05.03-13.34.28:541][ 36]LogFileHelpers: Loading map 'LevelLostRuins0' took 0.097
+[2021.05.03-13.35.01:016][856]LogConcert: Display: Synced activity '88' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified None in None, plus -1 other action.
+[2021.05.03-13.35.24:349][618]LogConcert: Display: Synced activity '89' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified None in None, plus -1 other action.
+[2021.05.03-13.35.39:997][463]LogConcert: Display: Synced activity '90' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified BoxBrush27 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.35.41:029][576]LogConcert: Display: Synced activity '91' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified None in None, plus -1 other action.
+[2021.05.03-13.35.41:694][637]LogConcert: Display: Synced activity '92' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified None in None, plus -1 other action.
+[2021.05.03-13.35.42:323][693]LogConcert: Display: Synced activity '93' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified None in None, plus -1 other action.
+[2021.05.03-13.35.48:494][397]LogConcert: Display: Synced activity '94' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified None in None, plus -1 other action.
+[2021.05.03-13.35.50:029][571]LogConcert: Display: Synced activity '95' produced by endpoint '95876096432EAA62549875B17CF4206F': Den created BoxBrush34 in /Game/Levels/LevelLostRuins0, plus 4 other actions.
+[2021.05.03-13.35.50:059][571]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/LevelLostRuins0.LevelLostRuins0:PersistentLevel.BoxBrush36.Model_0'
+[2021.05.03-13.35.50:059][571]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/LevelLostRuins0.LevelLostRuins0:PersistentLevel.BoxBrush35.Model_0'
+[2021.05.03-13.35.50:060][571]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/LevelLostRuins0.LevelLostRuins0:PersistentLevel.BoxBrush34.Model_0'
+[2021.05.03-13.35.50:585][630]LogConcert: Display: Synced activity '96' produced by endpoint '95876096432EAA62549875B17CF4206F': Den locked BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 5 other resources.
+[2021.05.03-13.35.53:655][984]LogConcert: Display: Synced activity '97' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 2 other actions.
+[2021.05.03-13.35.53:688][984]LogConcert: Display: Synced activity '98' produced by endpoint '95876096432EAA62549875B17CF4206F': Den unlocked BoxBrush36.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 5 other resources.
+[2021.05.03-13.36.01:544][919]LogConcert: Display: Synced activity '99' produced by endpoint '95876096432EAA62549875B17CF4206F': Den locked BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 5 other resources.
+[2021.05.03-13.36.02:975][ 78]LogConcert: Display: Synced activity '100' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 2 other actions.
+[2021.05.03-13.36.03:006][ 78]LogConcert: Display: Synced activity '101' produced by endpoint '95876096432EAA62549875B17CF4206F': Den unlocked BoxBrush36.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 5 other resources.
+[2021.05.03-13.36.03:438][125]LogConcert: Display: Synced activity '102' produced by endpoint '95876096432EAA62549875B17CF4206F': Den locked BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 5 other resources.
+[2021.05.03-13.36.04:231][210]LogConcert: Display: Synced activity '103' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 2 other actions.
+[2021.05.03-13.36.04:262][210]LogConcert: Display: Synced activity '104' produced by endpoint '95876096432EAA62549875B17CF4206F': Den unlocked BoxBrush36.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 5 other resources.
+[2021.05.03-13.36.05:310][332]LogConcert: Display: Synced activity '105' produced by endpoint '95876096432EAA62549875B17CF4206F': Den locked BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 5 other resources.
+[2021.05.03-13.36.06:029][409]LogConcert: Display: Synced activity '106' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 2 other actions.
+[2021.05.03-13.36.06:057][409]LogConcert: Display: Synced activity '107' produced by endpoint '95876096432EAA62549875B17CF4206F': Den unlocked BoxBrush36.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 5 other resources.
+[2021.05.03-13.36.17:847][776]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.03-13.36.17:851][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-13.36.17:851][776]PIE: New page: PIE session: LevelLostRuins0 (3 mai 2021 à 17:36:17)
+[2021.05.03-13.36.17:852][776]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.03-13.36.17:853][776]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.03-13.36.17:853][776]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelLostRuins0
+[2021.05.03-13.36.17:868][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014391s)
+[2021.05.03-13.36.17:869][776]LogAIModule: Creating AISystem for world LevelLostRuins0
+[2021.05.03-13.36.17:869][776]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2021.05.03-13.36.17:869][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelLostRuins0.LevelLostRuins0 to /Game/Levels/UEDPIE_0_LevelLostRuins0.LevelLostRuins0 (0.015448s)
+[2021.05.03-13.36.17:874][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.03-13.36.17:876][776]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.03-13.36.17:876][776]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-13.36.17:876][776]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-13.36.17:876][776]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-13.36.17:876][776]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-13.36.17:876][776]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-13.36.17:876][776]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-13.36.17:876][776]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-13.36.17:876][776]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-13.36.17:876][776]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-13.36.17:876][776]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-13.36.17:879][776]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-13.36.17:879][776]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-13.36.17:891][776]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-13.36.17:891][776]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-13.36.17:891][776]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-13.36.17:891][776]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-13.36.17:892][776]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-13.36.17:892][776]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-13.36.17:892][776]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-13.36.17:905][776]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-13.36.17:905][776]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-13.36.17:905][776]LogInit: FAudioDevice initialized.
+[2021.05.03-13.36.17:905][776]LogAudio: Display: Audio Device (ID: 2) registered with world 'LevelLostRuins0'.
+[2021.05.03-13.36.17:915][776]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-13.36.17:917][776]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelLostRuins0.LevelLostRuins0 up for play (max tick rate 0) at 2021.05.03-15.36.17
+[2021.05.03-13.36.17:918][776]LogWorld: Bringing up level for play took: 0.001558
+[2021.05.03-13.36.17:918][776]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.05.03-13.36.17:921][776]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.05.03-13.36.17:923][776]PIE: Server logged in
+[2021.05.03-13.36.17:924][776]PIE: Play in editor total start time 0,073 seconds.
+[2021.05.03-13.36.20:834][122]LogNet: Browse: /Game/Levels/Leveltest
+[2021.05.03-13.36.20:834][122]LogLoad: LoadMap: /Game/Levels/Leveltest
+[2021.05.03-13.36.20:834][122]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelLostRuins0
+[2021.05.03-13.36.20:834][122]LogWorld: UWorld::CleanupWorld for LevelLostRuins0, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.36.20:834][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.36.20:875][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-13.36.20:877][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.03-13.36.20:889][122]LogAudio: Display: Audio Device (ID: 2) registered with world 'Leveltest'.
+[2021.05.03-13.36.20:890][122]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-13.36.20:890][122]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-13.36.20:906][122]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.05.03-15.36.20
+[2021.05.03-13.36.20:907][122]LogWorld: Bringing up level for play took: 0.015552
+[2021.05.03-13.36.20:908][122]LogLoad: Took 0.074774 seconds to LoadMap(/Game/Levels/Leveltest)
+[2021.05.03-13.36.23:692][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-13.36.23:692][447]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-13.36.23:692][447]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-13.36.23:692][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.36.23:698][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-13.36.23:705][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-13.36.23:710][447]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-13.36.23:710][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-13.36.23:711][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-13.36.23:725][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-13.36.23:727][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.03-13.36.23:751][448]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.05.03-13.36.32:530][482]LogConcert: Display: Synced activity '108' produced by endpoint '95876096432EAA62549875B17CF4206F': Den deleted Polys_7 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.36.33:228][548]LogConcert: Display: Synced activity '109' produced by endpoint '95876096432EAA62549875B17CF4206F': Den deleted Polys_5 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.36.33:835][604]LogConcert: Display: Synced activity '110' produced by endpoint '95876096432EAA62549875B17CF4206F': Den deleted Polys_4 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.36.34:210][634]LogConcert: Display: Synced activity '111' produced by endpoint '95876096432EAA62549875B17CF4206F': Den deleted Polys_3 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.36.36:218][857]LogConcert: Display: Synced activity '112' produced by endpoint '95876096432EAA62549875B17CF4206F': Den renamed BoxBrush36 to BoxBrush20_2 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.36.41:270][443]LogConcert: Display: Synced activity '113' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified None in None, plus -1 other action.
+[2021.05.03-13.36.54:598][  0]LogConcert: Display: Synced activity '114' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified None in None, plus -1 other action.
+[2021.05.03-13.37.00:811][725]LogConcert: Display: Synced activity '115' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified None in None, plus -1 other action.
+[2021.05.03-13.37.03:687][ 50]LogConcert: Display: Synced activity '116' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified None in None, plus -1 other action.
+[2021.05.03-13.37.05:336][230]LogConcert: Display: Synced activity '117' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified None in None, plus -1 other action.
+[2021.05.03-13.37.06:940][405]LogConcert: Display: Synced activity '118' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified None in None, plus -1 other action.
+[2021.05.03-13.37.10:185][782]MapCheck: New page: Map Check
+[2021.05.03-13.37.10:199][782]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.03-13.37.10:200][782]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.03-13.37.10:421][782]LogWorld: UWorld::CleanupWorld for LevelLostRuins0, bSessionEnded=true, bCleanupResources=false
+[2021.05.03-13.37.10:467][782]LightingResults: New page: Lighting Build - 3 mai 2021 à 17:37:10
+[2021.05.03-13.37.10:472][782]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.03-13.37.10:475][782]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.03-13.37.10:475][782]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.03-13.37.10:476][782]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.03-13.37.10:476][782]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18112
+[2021.05.03-13.37.15:047][782]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.03-13.37.15:047][782]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.03-13.37.15:047][782]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.03-13.37.15:047][782]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.03-13.37.15:047][782]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.03-13.37.15:047][782]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.03-13.37.15:143][782]LogEditorBuildUtils: Build time 0:04
+[2021.05.03-13.37.15:186][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.05.03-13.37.17:961][977]Job is a success!
+[2021.05.03-13.37.18:059][978]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2021.05.03-13.37.18:060][978]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.03-13.37.18:060][978]LogVolumetricLightmapImport:      BrickData (all levels) 0.9Mb (trimmed 1.1Mb due to 0.010000 MinBrickError)
+[2021.05.03-13.37.18:060][978]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.03-13.37.18:060][978]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2021.05.03-13.37.18:060][978]LogVolumetricLightmapImport:          1: 11.3% covering 31.2% of volume
+[2021.05.03-13.37.18:060][978]LogVolumetricLightmapImport:          2: 88.1% covering 3.8% of volume
+[2021.05.03-13.37.18:060][978]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.03-13.37.18:060][978]LogVolumetricLightmapImport:          LevelLostRuins0 			 177 bricks 	 100.0% (Persistent Level)
+[2021.05.03-13.37.18:417][978]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2021.05.03-13.37.18:417][978]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.05.03-13.37.18:417][978]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.05.03-13.37.18:455][978]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2021.05.03-13.37.18:455][978]Lightmass on DESKTOP-ETOPL2V: 2.86 sec total, 170 ms importing, 30 ms setup, 227 ms photons, 2.40 sec processing, 0 ms extra exporting [343/343 mappings]. Threads: 36.0 sec total, 7.81 sec processing.
+[2021.05.03-13.37.18:458][978]LogStaticLightingSystem: LevelLostRuins0_BuiltData storing lightmap data for 60 meshes in 1 LightmapResourceClusters (60.0 Meshes per cluster).
+[2021.05.03-13.37.18:471][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.05.03-13.37.18:510][978]LogStaticLightingSystem: Illumination: 8.00 sec (166 ms encoding lightmaps, 89 ms encoding shadowmaps)
+[2021.05.03-13.37.18:510][978]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 2 textures
+[2021.05.03-13.37.18:510][978]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 1 textures
+[2021.05.03-13.37.19:057][978]DumpUnbuiltLightIteractions
+[2021.05.03-13.37.19:057][978]Lights with unbuilt interactions: 0
+[2021.05.03-13.37.19:057][978]
+[2021.05.03-13.37.19:057][978]Primitives with unbuilt interactions: 0
+[2021.05.03-13.37.19:101][979]LogConcert: Display: Synced activity '119' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked /Game/Levels/LevelLostRuins0_BuiltData.
+[2021.05.03-13.37.19:102][979]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.03-13.37.19:102][979]MapCheck: New page: LevelLostRuins0 - 3 mai 2021 à 17:37:19
+[2021.05.03-13.37.19:103][979]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,557ms to complete.
+[2021.05.03-13.37.58:476][621]LogConcert: Display: Synced activity '120' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified None in None, plus -1 other action.
+[2021.05.03-13.38.00:477][859]Cmd: DUPLICATE
+[2021.05.03-13.38.00:477][859]Cmd: ACTOR DUPLICATE
+[2021.05.03-13.38.00:995][889]LogConcert: Display: Synced activity '121' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF created BoxBrush34 in /Game/Levels/LevelLostRuins0, plus 2 other actions.
+[2021.05.03-13.38.07:545][666]LogConcert: Display: Synced activity '122' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.38.09:368][857]LogConcert: Display: Synced activity '123' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.38.09:368][857]LogConcert: Display: Synced activity '124' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF unlocked BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.38.13:302][250]LogConcert: Display: Synced activity '125' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.38.14:370][352]LogConcert: Display: Synced activity '126' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.38.14:370][352]LogConcert: Display: Synced activity '127' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF unlocked BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.38.15:492][440]LogConcert: Display: Synced activity '128' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.38.16:743][564]LogConcert: Display: Synced activity '129' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.38.16:744][564]LogConcert: Display: Synced activity '130' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF unlocked BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.38.20:061][910]LogConcert: Display: Synced activity '131' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF locked BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.38.20:794][973]LogConcert: Display: Synced activity '132' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF modified BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0.
+[2021.05.03-13.38.20:795][973]LogConcert: Display: Synced activity '133' produced by endpoint 'FA124F3B49BE82E97FCC2CAAB2CAD4F4': JF unlocked BoxBrush34.BrushComponent0 in /Game/Levels/LevelLostRuins0, plus 1 other resource.
+[2021.05.03-13.38.44:609][759]LogConcert: Display: Synced activity '134' produced by endpoint '95876096432EAA62549875B17CF4206F': Den modified None in None, plus -1 other action.
+[2021.05.03-13.38.44:658][759]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.03-13.38.44:658][759]LogWindows: Windows GetLastError: L’opération a réussi. (0)
