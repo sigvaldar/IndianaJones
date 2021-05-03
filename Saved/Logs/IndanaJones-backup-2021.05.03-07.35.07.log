@@ -1,0 +1,1686 @@
+﻿Log file open, 05/03/21 09:11:36
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: IndanaJones
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.236679
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.03-07.11.37:070][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.03-07.11.37:070][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.03-07.11.37:070][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-07.11.37:070][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.03-07.11.37:070][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-07.11.37:070][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-07.11.37:070][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.03-07.11.37:070][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.03-07.11.37:070][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.03-07.11.37:070][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.03-07.11.37:070][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.03-07.11.37:070][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.03-07.11.37:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-07.11.37:071][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-07.11.37:137][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:137][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.03-07.11.37:137][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.03-07.11.37:138][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:138][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.03-07.11.37:139][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.03-07.11.37:139][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.03-07.11.37:139][  0]LogHAL: Display: Platform has ~ 32 GB [34287493120 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.03-07.11.37:139][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.03-07.11.37:139][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.03-07.11.37:139][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.03-07.11.37:140][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-07.11.37:140][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.03-07.11.37:140][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.03-07.11.37:140][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.03-07.11.37:140][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.03-07.11.37:140][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.03-07.11.37:140][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.03-07.11.37:140][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.03-07.11.37:140][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-07.11.37:140][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Editor.ini]
+[2021.05.03-07.11.37:140][  0]LogInit: Computer: DESKTOP-ETOPL2V
+[2021.05.03-07.11.37:140][  0]LogInit: User: jfx
+[2021.05.03-07.11.37:140][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.05.03-07.11.37:140][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.03-07.11.37:140][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.05.03-07.11.37:140][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.03-07.11.37:140][  0]LogMemory: Process Physical Memory: 141.16 MB used, 141.16 MB peak
+[2021.05.03-07.11.37:140][  0]LogMemory: Process Virtual Memory: 129.44 MB used, 129.44 MB peak
+[2021.05.03-07.11.37:140][  0]LogMemory: Physical Memory: 10484.74 MB used,  22214.36 MB free, 32699.10 MB total
+[2021.05.03-07.11.37:140][  0]LogMemory: Virtual Memory: 134196040.00 MB used,  21690.20 MB free, 134217728.00 MB total
+[2021.05.03-07.11.37:144][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.03-07.11.37:178][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.03-07.11.37:179][  0]LogInit: Using OS detected language (fr-FR).
+[2021.05.03-07.11.37:179][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.05.03-07.11.37:181][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.05.03-07.11.37:181][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.05.03-07.11.37:181][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.05.03-07.11.37:181][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.05.03-07.11.37:181][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.05.03-07.11.37:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.05.03-07.11.37:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.05.03-07.11.37:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.05.03-07.11.37:182][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.03-07.11.37:194][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.03-07.11.37:214][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.03-07.11.37:214][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.03-07.11.38:504][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.03-07.11.38:504][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.03-07.11.38:504][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.03-07.11.38:612][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2021.05.03-07.11.38:612][  0]LogD3D11RHI:       8011/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.03-07.11.38:614][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.03-07.11.38:614][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.03-07.11.38:614][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.03-07.11.38:624][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.03-07.11.38:624][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.03-07.11.38:624][  0]LogWindows: EnumDisplayDevices:
+[2021.05.03-07.11.38:624][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2021.05.03-07.11.38:624][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2021.05.03-07.11.38:624][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.05.03-07.11.38:625][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.05.03-07.11.38:625][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.03-07.11.38:625][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2021.05.03-07.11.38:625][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.05.03-07.11.38:625][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.05.03-07.11.38:625][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2021.05.03-07.11.38:709][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.03-07.11.38:709][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.03-07.11.38:709][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.03-07.11.38:710][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2021.05.03-07.11.38:742][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.03-07.11.38:743][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.03-07.11.39:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.03-07.11.39:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.03-07.11.39:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.03-07.11.39:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.03-07.11.39:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.03-07.11.39:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.03-07.11.39:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.03-07.11.39:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.03-07.11.39:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.03-07.11.39:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.03-07.11.39:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.03-07.11.39:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.03-07.11.39:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.03-07.11.39:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.03-07.11.39:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.03-07.11.39:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.03-07.11.39:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.03-07.11.39:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.03-07.11.39:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.03-07.11.39:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.03-07.11.39:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.03-07.11.39:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.03-07.11.39:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.03-07.11.39:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.03-07.11.39:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.03-07.11.39:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.03-07.11.39:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.03-07.11.39:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.03-07.11.39:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.03-07.11.39:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.03-07.11.39:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.03-07.11.39:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.03-07.11.39:204][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.03-07.11.39:212][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.03-07.11.39:272][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.03-07.11.39:272][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../projet unreal/IndianaJones/Intermediate/Shaders/WorkingDirectory/23912/).
+[2021.05.03-07.11.39:272][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jfx/AppData/Local/Temp/UnrealShaderWorkingDir/E6EAFB974D9AF6990796F5993FF53F87/'.
+[2021.05.03-07.11.39:272][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.03-07.11.39:272][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.03-07.11.39:948][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.03-07.11.40:006][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/jfx/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.03-07.11.40:006][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jfx/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.03-07.11.40:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../projet unreal/IndianaJones/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.03-07.11.40:006][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.03-07.11.40:007][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../projet unreal/IndianaJones/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.03-07.11.40:007][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.03-07.11.40:016][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.03-07.11.40:016][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.03-07.11.40:016][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.03-07.11.40:022][  0]LogDerivedDataCache: Speed tests for C:/Users/jfx/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.03-07.11.40:022][  0]LogDerivedDataCache: Display: Performance to C:/Users/jfx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1811.20MBs, RandomWriteSpeed=176.25MBs. Assigned SpeedClass 'Local'
+[2021.05.03-07.11.40:023][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jfx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.03-07.11.40:023][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.03-07.11.40:023][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.03-07.11.40:072][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.03-07.11.40:072][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.03-07.11.40:099][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2021.05.03-07.11.40:302][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.03-07.11.40:302][  0]LogInit: Active device profile: [000001948B4FB200][000001948A9A8580 49] Windows
+[2021.05.03-07.11.40:302][  0]LogInit: Profiles: [000001948B4FB200][000001948A9A8580 49] Windows, [000001948B4D0F00][000001948A9B0700 49] WindowsNoEditor, [000001948B4F9000][000001948A9B4880 49] WindowsServer, [000001948B4D2D00][000001948A9D8A00 49] WindowsClient, [000001948B4FAC00][000001948A9DCB80 49] IOS, [000001948B4D1600][000001948A9E0D00 49] iPadAir, [000001948B4F9600][000001948A9E4E80 49] iPadAir2, [000001948B484A00][000001948A9ED140 49] IPadPro, [000001948B484B00][000001948A9E9180 49] iPadAir3, [000001948B4FA900][000001948A9F7300 49] iPadAir4, [000001948B487400][000001948AA27480 49] iPadMini2, [000001948B4F9700][000001948A9AD5C0 49] iPadMini3, [000001948B487B00][000001948AA2B700 49] iPadMini4, [000001948B4F8300][000001948AA2F840 49] iPadMini5, [000001948B4D2700][000001948AA3BAC0 49] iPhone6, [000001948B4D2600][000001948AA33B00 49] iPodTouch6, [000001948B485000][000001948AA42100 49] iPhone7, [000001948B486F00][000001948AA3E140 49] iPodTouch7, [000001948B4D3000][000001948AA462C0 49] iPhone5S, [000001948B487600][000001948AA4A440 49] iPhone6Plus, [000001948B4D2300][000001948AA4E5C0 49] iPhone6S, [000001948B484500][000001948AA52740 49] iPhone6SPlus, [000001948B4D1B00][000001948AA568C0 49] iPhone7Plus, [000001948B487800][000001948AA5AA40 49] iPhoneSE, [000001948B4D0D00][000001948BA70BC0 49] iPhone8, [000001948B485400][000001948BA74D40 49] iPhone8Plus, [000001948B4D0200][000001948BA78EC0 49] iPhoneX, [000001948B485C00][000001948BA7D040 49] iPhoneXS, [000001948B4D0800][000001948BA811C0 49] iPhoneXSMax, [000001948B485700][000001948BA85340 49] iPhoneXR, [000001948B4D0500][000001948BA894C0 49] iPhone11, [000001948B485800][000001948BA8D640 49] iPhone11Pro, [000001948B4D0100][000001948AA37780 49] iPhone11ProMax, [000001948B486000][000001948BA918C0 49] iPhoneSE2, [000001948B4D0600][000001948BA95A00 49] iPhone12Mini, [000001948B485D00][000001948BA9DB80 49] iPhone12, [000001948B4D0C00][000001948BAA1D00 49] iPhone12Pro, [000001948B487500][000001948BAA41C0 49] iPhone12ProMax, [000001948B4D2100][000001948BAA8340 49] iPadPro105, [000001948B486700][000001948BAAC4C0 49] iPadPro129, [000001948B4D3800][000001948BAB0640 49] iPadPro97, [000001948B484200][000001948BAB47C0 49] iPadPro2_129, [000001948B4D1C00][000001948BAB8940 49] iPad5, [000001948B486500][000001948BABCAC0 49] iPad6, [000001948B4D1800][000001948BAC0C40 49] iPad7, [000001948B485F00][000001948BAC4DC0 49] iPad8, [000001948B4D0900][000001948BAC8F40 49] iPadPro11, [000001948B486400][000001948BACD0C0 49] iPadPro2_11, [000001948B4D1F00][000001948BAD1240 49] iPadPro3_129, [000001948B487700][000001948BAD53C0 49] iPadPro4_129, [000001948B4D0300][000001948BAD9540 49] AppleTV, [000001948B485100][000001948BADD6C0 49] AppleTV4K, [000001948B4D2400][000001948BA99800 49] TVOS, [000001948B487100][000001948BAE1940 49] Mac, [000001948B4D1100][000001948BAE5A80 49] MacClient, [000001948B4FB700][000001948BAEDC00 49] MacNoEditor, [000001948B558B00][000001948BAF00C0 49] MacServer, [000001948B4F8A00][000001948BAF4240 49] Linux, [000001948B558600][000001948BAF83C0 49] LinuxAArch64, [000001948B4FBC00][000001948BAFC540 49] LinuxNoEditor, [000001948B558E00][000001948BB006C0 49] LinuxAArch64NoEditor, [000001948B4F8D00][000001948BB04840 49] LinuxClient, [000001948B558200][000001948BB089C0 49] LinuxAArch64Client, [000001948B4FA100][000001948BB0CB40 49] LinuxServer, [000001948B4D0700][000001948BB10CC0 49] LinuxAArch64Server, [000001948B4F9E00][000001948BB14E40 49] Android, [000001948B4D3B00][000001948BB18FC0 49] Android_Low, [000001948B4FA000][000001948BB1D140 49] Android_Mid, [000001948B4D2C00][000001948BB212C0 49] Android_High, [000001948B4FBE00][000001948BB25440 49] Android_Default, [000001948B4D3600][000001948BB295C0 49] Android_Adreno4xx, [000001948B4FA600][000001948BB2D740 49] Android_Adreno5xx_Low, [000001948B4D0E00][000001948BAE9880 49] Android_Adreno5xx, [000001948B4F9900][000001948BB319C0 49] Android_Adreno6xx, [000001948B4D1200][000001948BB35B00 49] Android_Adreno6xx_Vulkan, [000001948B4F8700][000001948BB39C40 49] Android_Mali_T6xx, [000001948B4D3E00][000001948BB40100 49] Android_Mali_T7xx, [000001948B4F9800][000001948BB44280 49] Android_Mali_T8xx, [000001948B4D1A00][000001948BB48400 49] Android_Mali_G71, [000001948B4F9500][000001948BB4C580 49] Android_Mali_G72, [000001948B4D1300][000001948BB50700 49] Android_Mali_G72_Vulkan, [000001948B4F8900][000001948BB54880 49] Android_Mali_G76, [000001948B4D2B00][000001948BB58A00 49] Android_Mali_G76_Vulkan, [000001948B4FB900][000001948BB5CB80 49] Android_Mali_G77, [000001948B4D3400][000001948BB60D00 49] Android_Mali_G77_Vulkan, [000001948B4FB600][000001948BB64E80 49] Android_Vulkan_SM5, [000001948B4D3D00][000001948BB69000 49] Android_PowerVR_G6xxx, [000001948B4FB400][000001948BB6D180 49] Android_PowerVR_GT7xxx, [000001948B4D2800][000001948BB71300 49] Android_PowerVR_GE8xxx, [000001948B4FA700][000001948BB75480 49] Android_PowerVR_GM9xxx, [000001948B4D3F00][000001948BB79600 49] Android_PowerVR_GM9xxx_Vulkan, [000001948B4FA400][000001948BB7D780 49] Android_TegraK1, [000001948B4D2200][000001948BB3D8C0 49] Android_Unknown_Vulkan, [000001948B4FBB00][000001948BB81A00 49] Lumin, [000001948B4F9D00][000001948BB85B40 49] Lumin_Desktop, [000001948B4FE900][000001948BB89C80 49] HoloLens, 
+[2021.05.03-07.11.40:410][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.03-07.11.40:410][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.03-07.11.40:410][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.03-07.11.40:410][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.03-07.11.40:410][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.03-07.11.40:433][  0]LogNetVersion: IndanaJones 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 844448525)
+[2021.05.03-07.11.40:821][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.03-07.11.40:884][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.063063 seconds
+[2021.05.03-07.11.40:890][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.03-07.11.40:890][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.03-07.11.40:890][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.03-07.11.41:207][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.03-07.11.41:211][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.03-07.11.41:257][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.05.03-07.11.41:257][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.05.03-07.11.41:257][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.05.03-07.11.41:278][  0]SourceControl: Source control is disabled
+[2021.05.03-07.11.41:278][  0]SourceControl: Source control is disabled
+[2021.05.03-07.11.41:280][  0]SourceControl: Source control is disabled
+[2021.05.03-07.11.41:283][  0]SourceControl: Source control is disabled
+[2021.05.03-07.11.41:290][  0]SourceControl: Source control is disabled
+[2021.05.03-07.11.41:305][  0]LogUProjectInfo: Found projects:
+[2021.05.03-07.11.41:489][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.03-07.11.41:504][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.03-07.11.41:504][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.03-07.11.41:546][  0]LogCollectionManager: Loaded 0 collections in 0.000489 seconds
+[2021.05.03-07.11.41:563][  0]LogFileCache: Scanning file cache for directory 'D:/projet unreal/IndianaJones/Saved/Collections/' took 0.00s
+[2021.05.03-07.11.41:563][  0]LogFileCache: Scanning file cache for directory 'D:/projet unreal/IndianaJones/Content/Developers/jfx/Collections/' took 0.00s
+[2021.05.03-07.11.41:563][  0]LogFileCache: Scanning file cache for directory 'D:/projet unreal/IndianaJones/Content/Collections/' took 0.00s
+[2021.05.03-07.11.41:563][  0]LogOcInput: OculusInput pre-init called
+[2021.05.03-07.11.41:572][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.03-07.11.41:572][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.03-07.11.41:614][  0]LogEngine: Initializing Engine...
+[2021.05.03-07.11.41:616][  0]LogHMD: SteamVR initialized.  Driver: driver4vr  Display: Driver4VR
+[2021.05.03-07.11.41:616][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.03-07.11.41:712][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.03-07.11.41:719][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.03-07.11.41:730][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.03-07.11.41:734][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.03-07.11.41:734][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.03-07.11.41:734][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-07.11.41:734][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-07.11.41:734][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-07.11.41:734][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-07.11.41:734][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-07.11.41:734][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-07.11.41:734][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-07.11.41:734][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-07.11.41:734][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-07.11.41:734][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-07.11.41:743][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.11.41:743][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.11.41:769][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-07.11.41:770][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-07.11.41:772][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-07.11.41:772][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-07.11.41:772][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-07.11.41:772][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-07.11.41:772][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-07.11.41:773][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-07.11.41:773][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-07.11.41:773][  0]LogInit: FAudioDevice initialized.
+[2021.05.03-07.11.41:773][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.03-07.11.41:773][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.03-07.11.41:823][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/jfx/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.03-07.11.41:823][  0]LogInit: Texture streaming: Enabled
+[2021.05.03-07.11.41:836][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.03-07.11.41:839][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.03-07.11.41:839][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.03-07.11.41:840][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.03-07.11.41:862][  0]LogInit: Transaction tracking system initialized
+[2021.05.03-07.11.41:879][  0]BlueprintLog: New page: Editor Load
+[2021.05.03-07.11.41:933][  0]LocalizationService: Localization service is disabled
+[2021.05.03-07.11.41:954][  0]TimingProfiler: Initialize
+[2021.05.03-07.11.41:954][  0]TimingProfiler: OnSessionChanged
+[2021.05.03-07.11.41:954][  0]LoadingProfiler: Initialize
+[2021.05.03-07.11.41:954][  0]LoadingProfiler: OnSessionChanged
+[2021.05.03-07.11.41:954][  0]NetworkingProfiler: Initialize
+[2021.05.03-07.11.41:954][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.03-07.11.41:954][  0]MemoryProfiler: Initialize
+[2021.05.03-07.11.41:954][  0]MemoryProfiler: OnSessionChanged
+[2021.05.03-07.11.42:065][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.03-07.11.42:065][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.03-07.11.42:196][  0]LogFileCache: Scanning file cache for directory 'D:/projet unreal/IndianaJones/Content/' took 0.01s
+[2021.05.03-07.11.42:355][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.03-07.11.42:357][  0]SourceControl: Source control is disabled
+[2021.05.03-07.11.42:357][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.171
+[2021.05.03-07.11.42:357][  0]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/Leveltest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-07.11.42:358][  0]LightingResults: New page: Lighting Build
+[2021.05.03-07.11.42:358][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.11.42:358][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.11.42:358][  0]MapCheck: New page: Map Check
+[2021.05.03-07.11.42:358][  0]LightingResults: New page: Lighting Build
+[2021.05.03-07.11.42:365][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.05.03-07.11.43:077][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-07.11.43:077][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-07.11.43:077][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-07.11.43:077][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-07.11.43:077][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-07.11.43:077][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-07.11.43:085][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-07.11.43:085][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-07.11.43:085][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-07.11.43:085][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-07.11.43:085][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-07.11.43:237][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-07.11.43:237][  0]LoadErrors: Failed to load /Game/Statues/StanLee/Stan_Lee.Stan_Lee Referenced by FbxStaticMeshImportData_0
+[2021.05.03-07.11.43:237][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-07.11.43:238][  0]LoadErrors: Failed to load /Game/Statues/StanLee/StandMat.StandMat Referenced by Stand
+[2021.05.03-07.11.43:238][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-07.11.43:238][  0]LoadErrors: Failed to load /Game/Statues/StanLee/StandMat.StandMat Referenced by Stand
+[2021.05.03-07.11.43:238][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-07.11.43:238][  0]LoadErrors: Failed to load /Game/Statues/StanLee/Stan_Lee.Stan_Lee Referenced by FbxStaticMeshImportData_0
+[2021.05.03-07.11.43:239][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-07.11.43:239][  0]LoadErrors: Failed to load /Game/Statues/StanLee/Stan_LeeMat.Stan_LeeMat Referenced by Stan_Lee
+[2021.05.03-07.11.43:239][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-07.11.43:239][  0]LoadErrors: Failed to load /Game/Statues/StanLee/Stan_LeeMat.Stan_LeeMat Referenced by Stan_Lee
+[2021.05.03-07.11.43:538][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Leveltest'.
+[2021.05.03-07.11.43:538][  0]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-07.11.43:568][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-07.11.43:577][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.05.03-07.11.43:579][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-07.11.43:579][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,073ms to complete.
+[2021.05.03-07.11.43:579][  0]LogFileHelpers: Loading map 'Leveltest' took 1.221
+[2021.05.03-07.11.43:581][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.394
+[2021.05.03-07.11.43:736][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.11.43:742][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.11.43:746][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.11.43:752][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.11.43:792][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0074 seconds. Added 3601 classes and 859 folders.
+[2021.05.03-07.11.43:800][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.03-07.11.43:826][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.03-07.11.43:826][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:826][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.03-07.11.43:826][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.03-07.11.43:839][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.03-07.11.43:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.03-07.11.43:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.03-07.11.43:847][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.03-07.11.43:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.03-07.11.43:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.03-07.11.43:855][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-07.11.43:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.03-07.11.43:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.05.03-07.11.43:862][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.03-07.11.43:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.03-07.11.43:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.05.03-07.11.43:868][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.03-07.11.43:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.03-07.11.43:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.05.03-07.11.43:875][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.03-07.11.43:875][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:875][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.03-07.11.43:875][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.05.03-07.11.43:883][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.03-07.11.43:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.03-07.11.43:883][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.05.03-07.11.43:891][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.03-07.11.43:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:891][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.03-07.11.43:891][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.05.03-07.11.43:898][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.03-07.11.43:898][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:898][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.03-07.11.43:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.05.03-07.11.43:906][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.03-07.11.43:906][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.03-07.11.43:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.05.03-07.11.43:914][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.03-07.11.43:914][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:914][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.03-07.11.43:914][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.05.03-07.11.43:921][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-07.11.43:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.03-07.11.43:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.05.03-07.11.43:928][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.03-07.11.43:928][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:928][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.03-07.11.43:928][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.05.03-07.11.43:936][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.03-07.11.43:936][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:936][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.03-07.11.43:936][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.05.03-07.11.43:944][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.03-07.11.43:944][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:944][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.03-07.11.43:944][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.05.03-07.11.43:953][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.03-07.11.43:953][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:953][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.03-07.11.43:953][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.05.03-07.11.43:960][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.03-07.11.43:960][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:960][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.03-07.11.43:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.05.03-07.11.43:969][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-07.11.43:969][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:969][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.03-07.11.43:969][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2021.05.03-07.11.43:980][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-07.11.43:980][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:980][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.03-07.11.43:980][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.05.03-07.11.43:987][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.03-07.11.43:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.03-07.11.43:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2021.05.03-07.11.43:994][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.03-07.11.43:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.43:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.03-07.11.43:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.05.03-07.11.44:002][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.03-07.11.44:002][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.44:002][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.03-07.11.44:002][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2021.05.03-07.11.44:010][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.03-07.11.44:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.44:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.03-07.11.44:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2021.05.03-07.11.44:018][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-07.11.44:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.44:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.03-07.11.44:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000124
+[2021.05.03-07.11.44:025][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.03-07.11.44:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-07.11.44:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.03-07.11.44:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000129
+[2021.05.03-07.11.44:311][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.03-07.11.44:315][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.05.03-07.11.44:395][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.03-07.11.44:397][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.03-07.11.44:407][  0]LogSlate: Took 0.005730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.03-07.11.44:579][  0]LogRenderer: Reallocating scene render targets to support 1632x808 Format 10 NumSamples 1 (Frame:1).
+[2021.05.03-07.11.44:751][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.03-07.11.44:751][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.03-07.11.44:751][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.03-07.11.44:751][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.03-07.11.44:751][  0]LogLoad: (Engine Initialization) Total time: 8.56 seconds
+[2021.05.03-07.11.44:751][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.03-07.11.44:751][  0]LogInit: First time updating LLM stats...
+[2021.05.03-07.11.44:762][  0]LogSteamVRInputDevice: Display: SteamVR runtime 1.5.17 loaded.
+[2021.05.03-07.11.44:764][  0]LogSteamVRInputDevice: Display: Action Manifest Path: ../../../../projet unreal/IndianaJones/Config/SteamVRBindings/steamvr_manifest.json
+[2021.05.03-07.11.44:764][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: ../../../../projet unreal/IndianaJones/Config/SteamVRBindings
+[2021.05.03-07.11.44:768][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: ../../../../projet unreal/IndianaJones/Config/SteamVRBindings
+[2021.05.03-07.11.44:788][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest ../../../../projet unreal/IndianaJones/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2021.05.03-07.11.44:794][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [23912][application.generated.ue.third-person-bp-game-template-15973114.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2021.05.03-07.11.44:794][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: D:/projet unreal/IndianaJones/Config/SteamVRBindings/steamvr_manifest.json
+[2021.05.03-07.11.44:794][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2021.05.03-07.11.44:794][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2021.05.03-07.11.44:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:797][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:798][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:799][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Turn axis
+[2021.05.03-07.11.44:799][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:799][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/LookUpRate axis
+[2021.05.03-07.11.44:799][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:799][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/LookUp axis
+[2021.05.03-07.11.44:799][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:800][  0]LogSteamVRInputDevice: Display: Action Manifest Path: ../../../../projet unreal/IndianaJones/Config/SteamVRBindings/steamvr_manifest.json
+[2021.05.03-07.11.44:800][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: ../../../../projet unreal/IndianaJones/Config/SteamVRBindings
+[2021.05.03-07.11.44:802][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: ../../../../projet unreal/IndianaJones/Config/SteamVRBindings
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest ../../../../projet unreal/IndianaJones/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [23912][application.generated.ue.third-person-bp-game-template-15973114.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: D:/projet unreal/IndianaJones/Config/SteamVRBindings/steamvr_manifest.json
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:806][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Jump
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveForward axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MoveRight axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TurnRate axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/Turn axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/LookUpRate axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/LookUp axis
+[2021.05.03-07.11.44:808][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.05.03-07.11.44:832][  0]LogAssetRegistry: Asset discovery search completed in 4.7342 seconds
+[2021.05.03-07.11.44:833][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.03-07.11.44:875][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.03-07.11.44:919][  0]LogSlate: Took 0.011691 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.03-07.11.44:926][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/projet unreal/IndianaJones/Content/' took 0.11s
+[2021.05.03-07.11.45:791][ 22]LogSlate: Took 0.008318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.03-07.11.46:912][128]LogSlate: Window 'Message Log' being destroyed
+[2021.05.03-07.11.46:918][128]LogSlate: Window 'Message Log' being destroyed
+[2021.05.03-07.11.49:109][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Traps/DirectDanger/BP_WallTrap.BP_WallTrap
+[2021.05.03-07.11.49:791][363]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 126 classes and 0 folders.
+[2021.05.03-07.11.50:615][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/triggerThings/BP_Button.BP_Button
+[2021.05.03-07.11.50:893][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.05.03-07.11.51:164][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/triggerThings/BP_Doors.BP_Doors
+[2021.05.03-07.11.51:441][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/triggerThings/artefacts/BP_StanLee.BP_StanLee
+[2021.05.03-07.11.51:729][363]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.03-07.11.51:895][364]LogSlate: Took 0.006004 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.03-07.11.55:293][712]LogSlate: Window 'BP_WallTrap' being destroyed
+[2021.05.03-07.13.00:224][462]LogHMD: SteamVR Shutting down.
+[2021.05.03-07.13.15:019][142]LogEditorViewport: Clicking on Actor (LMB): BP_StanLee_C (BP_StanLee)
+[2021.05.03-07.13.18:456][547]Cmd: DUPLICATE
+[2021.05.03-07.13.18:456][547]Cmd: ACTOR DUPLICATE
+[2021.05.03-07.13.27:344][587]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.03-07.13.27:349][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-07.13.27:353][587]PIE: New page: PIE session: Leveltest (3 mai 2021 à 11:13:27)
+[2021.05.03-07.13.27:354][587]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.03-07.13.27:356][587]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.03-07.13.27:356][587]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.13.27:363][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007146s)
+[2021.05.03-07.13.27:364][587]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-07.13.27:364][587]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2021.05.03-07.13.27:364][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.008211s)
+[2021.05.03-07.13.27:397][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.05.03-07.13.27:399][587]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.03-07.13.27:399][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-07.13.27:399][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-07.13.27:399][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-07.13.27:399][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-07.13.27:399][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-07.13.27:399][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-07.13.27:399][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-07.13.27:399][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-07.13.27:399][587]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-07.13.27:399][587]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-07.13.27:402][587]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.13.27:402][587]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.13.27:414][587]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-07.13.27:414][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-07.13.27:414][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-07.13.27:414][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-07.13.27:415][587]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-07.13.27:415][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-07.13.27:415][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-07.13.27:426][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-07.13.27:426][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-07.13.27:426][587]LogInit: FAudioDevice initialized.
+[2021.05.03-07.13.27:426][587]LogAudio: Display: Audio Device (ID: 2) registered with world 'Leveltest'.
+[2021.05.03-07.13.27:433][587]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-07.13.27:437][587]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.05.03-09.13.27
+[2021.05.03-07.13.27:438][587]LogWorld: Bringing up level for play took: 0.002196
+[2021.05.03-07.13.27:438][587]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.05.03-07.13.27:445][587]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.05.03-07.13.27:464][587]PIE: Server logged in
+[2021.05.03-07.13.27:466][587]PIE: Play in editor total start time 0,118 seconds.
+[2021.05.03-07.13.29:726][818]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.13.31:251][  1]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.13.32:418][141]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.13.35:869][555]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.13.36:143][588]LogBlueprintUserMessages: [BP_StanLee2] Ramassé
+[2021.05.03-07.13.36:334][611]LogBlueprintUserMessages: [BP_StanLee2] Ramassé
+[2021.05.03-07.13.36:335][611]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.13.36:335][611]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.13.37:610][764]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.13.37:894][798]LogBlueprintUserMessages: [BP_StanLee_2] Ramassé
+[2021.05.03-07.13.38:068][819]LogBlueprintUserMessages: [BP_StanLee_2] Ramassé
+[2021.05.03-07.13.39:866][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.13.39:866][ 30]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.13.39:867][ 30]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.13.39:867][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.13.39:875][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-07.13.39:890][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.13.39:923][ 30]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.13.39:924][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.13.39:925][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.13.39:937][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.13.39:955][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.05.03-07.13.39:984][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.05.03-07.13.48:671][ 37]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.05.03-07.13.58:504][212]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.03-07.14.03:067][695]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.03-07.14.04:134][821]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.03-07.14.05:566][991]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.03-07.14.07:431][213]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.03-07.14.07:946][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.03-07.14.13:784][953]MapCheck: New page: Map Check
+[2021.05.03-07.14.13:811][953]LogSlate: Took 0.014002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.03-07.14.13:812][953]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.03-07.14.13:812][953]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.03-07.14.13:816][953]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=false
+[2021.05.03-07.14.13:858][953]LightingResults: New page: Lighting Build - 3 mai 2021 à 11:14:13
+[2021.05.03-07.14.13:971][953]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.03-07.14.14:240][953]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.03-07.14.14:250][953]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.03-07.14.14:762][953]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.03-07.14.14:762][953]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23912
+[2021.05.03-07.14.21:546][953]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.03-07.14.21:550][953]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.03-07.14.21:550][953]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.03-07.14.21:550][953]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.03-07.14.21:550][953]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.03-07.14.21:550][953]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.03-07.14.21:663][953]LogEditorBuildUtils: Build time 0:07
+[2021.05.03-07.14.21:761][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.05.03-07.14.25:525][964]Job is a success!
+[2021.05.03-07.14.25:947][965]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2021.05.03-07.14.25:947][965]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.03-07.14.25:947][965]LogVolumetricLightmapImport:      BrickData (all levels) 1.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.05.03-07.14.25:947][965]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.03-07.14.25:947][965]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2021.05.03-07.14.25:947][965]LogVolumetricLightmapImport:          1: 7.3% covering 25.0% of volume
+[2021.05.03-07.14.25:947][965]LogVolumetricLightmapImport:          2: 92.2% covering 4.9% of volume
+[2021.05.03-07.14.25:947][965]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.03-07.14.25:947][965]LogVolumetricLightmapImport:          Leveltest 			 219 bricks 	 100.0% (Persistent Level)
+[2021.05.03-07.14.26:113][965]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2021.05.03-07.14.26:113][965]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.05.03-07.14.26:113][965]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.05.03-07.14.26:113][965]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2021.05.03-07.14.26:113][965]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2021.05.03-07.14.26:113][965]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2021.05.03-07.14.26:229][965]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 512X64)
+[2021.05.03-07.14.26:229][965]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2021.05.03-07.14.26:230][965]LogStaticLightingSystem: Leveltest_BuiltData storing lightmap data for 13 meshes in 2 LightmapResourceClusters (6.5 Meshes per cluster).
+[2021.05.03-07.14.26:234][965]Lightmass on DESKTOP-ETOPL2V: 3.60 sec total, 204 ms importing, 27 ms setup, 462 ms photons, 2.86 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 43.0 sec total, 3.62 sec processing.
+[2021.05.03-07.14.26:267][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.05.03-07.14.26:282][965]LogStaticLightingSystem: Illumination: 12.0 sec (131 ms encoding lightmaps, 85 ms encoding shadowmaps)
+[2021.05.03-07.14.26:283][965]LogStaticLightingSystem: Lightmap texture memory:  2.8 MB (0.2 MB streaming, 2.7 MB non-streaming), 4 textures
+[2021.05.03-07.14.26:283][965]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2021.05.03-07.14.26:555][965]DumpUnbuiltLightIteractions
+[2021.05.03-07.14.26:555][965]Lights with unbuilt interactions: 0
+[2021.05.03-07.14.26:555][965]
+[2021.05.03-07.14.26:555][965]Primitives with unbuilt interactions: 0
+[2021.05.03-07.14.26:601][966]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.03-07.14.26:601][966]MapCheck: New page: Leveltest - 3 mai 2021 à 11:14:26
+[2021.05.03-07.14.26:603][966]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,57ms to complete.
+[2021.05.03-07.14.35:240][137]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.03-07.14.35:244][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-07.14.35:244][137]PIE: New page: PIE session: Leveltest (3 mai 2021 à 11:14:35)
+[2021.05.03-07.14.35:275][137]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.14.35:282][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007336s)
+[2021.05.03-07.14.35:283][137]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-07.14.35:284][137]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2021.05.03-07.14.35:284][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.008561s)
+[2021.05.03-07.14.35:317][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.05.03-07.14.35:319][137]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.03-07.14.35:319][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-07.14.35:319][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-07.14.35:319][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-07.14.35:319][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-07.14.35:319][137]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-07.14.35:319][137]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-07.14.35:319][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-07.14.35:319][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-07.14.35:319][137]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-07.14.35:319][137]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-07.14.35:322][137]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.14.35:322][137]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.14.35:333][137]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-07.14.35:334][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-07.14.35:334][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-07.14.35:334][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-07.14.35:334][137]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-07.14.35:334][137]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-07.14.35:334][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-07.14.35:346][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-07.14.35:346][137]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-07.14.35:346][137]LogInit: FAudioDevice initialized.
+[2021.05.03-07.14.35:346][137]LogAudio: Display: Audio Device (ID: 3) registered with world 'Leveltest'.
+[2021.05.03-07.14.35:356][137]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-07.14.35:359][137]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.05.03-09.14.35
+[2021.05.03-07.14.35:359][137]LogWorld: Bringing up level for play took: 0.002171
+[2021.05.03-07.14.35:359][137]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.05.03-07.14.35:361][137]PIE: Server logged in
+[2021.05.03-07.14.35:362][137]PIE: Play in editor total start time 0,119 seconds.
+[2021.05.03-07.14.40:093][703]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.14.47:310][566]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.14.51:944][122]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.14.52:585][199]LogBlueprintUserMessages: [BP_StanLee2] Ramassé
+[2021.05.03-07.14.53:261][280]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.14.58:983][963]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.15.00:050][ 91]LogBlueprintUserMessages: [BP_StanLee_2] Ramassé
+[2021.05.03-07.15.05:469][739]LogBlueprintUserMessages: [BP_Button3_3] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.15.07:688][  5]LogBlueprintUserMessages: [BP_Button3_3] 1.0
+[2021.05.03-07.15.09:178][184]LogBlueprintUserMessages: [BP_Button2] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.15.14:906][868]LogBlueprintUserMessages: [BP_Button_2] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.15.20:565][547]LogBlueprintUserMessages: [BP_Button2] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.15.25:235][102]LogBlueprintUserMessages: [BP_Button3_3] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.15.32:735][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.15.32:735][997]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.15.32:735][997]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.15.32:736][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.15.32:741][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-07.15.32:754][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.15.32:785][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.15.32:786][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.15.32:787][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.15.32:803][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.05.03-07.15.32:839][998]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.05.03-07.15.41:750][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.05.03-07.15.41:773][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndianaJones/Content/Levels/Leveltest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-07.15.41:803][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.03-07.15.41:825][ 22]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LeveltestCB06926F4A6EF571B178A7B7E0B83BAA.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/Leveltest.umap'
+[2021.05.03-07.15.41:835][ 22]LogFileHelpers: Saving map 'Leveltest' took 0.062
+[2021.05.03-07.15.41:835][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest_BuiltData" FILE="../../../../projet unreal/IndianaJones/Content/Levels/Leveltest_BuiltData.uasset" SILENT=true
+[2021.05.03-07.15.41:860][ 22]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/Leveltest_BuiltDataBE7AFB964748520C2AC730A7A1ED596A.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/Leveltest_BuiltData.uasset'
+[2021.05.03-07.15.41:874][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/triggerThings/BP_Button" FILE="../../../../projet unreal/IndianaJones/Content/triggerThings/BP_Button.uasset" SILENT=true
+[2021.05.03-07.15.41:908][ 22]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_Button24D05A14429A303EA4B3D3A4F7BBC459.tmp' to '../../../../projet unreal/IndianaJones/Content/triggerThings/BP_Button.uasset'
+[2021.05.03-07.15.41:926][ 22]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.03-07.15.41:926][ 22]LogContentValidation: Display: Validating Blueprint /Game/triggerThings/BP_Button.BP_Button
+[2021.05.03-07.15.41:926][ 22]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Leveltest_BuiltData.Leveltest_BuiltData
+[2021.05.03-07.15.41:926][ 22]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.05.03-07.16.42:212][949]LogSlate: Window 'New Level' being destroyed
+[2021.05.03-07.16.42:217][949]LightingResults: New page: Lighting Build
+[2021.05.03-07.16.42:219][949]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.16.42:219][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.16.42:219][949]MapCheck: New page: Map Check
+[2021.05.03-07.16.42:219][949]LightingResults: New page: Lighting Build
+[2021.05.03-07.16.42:252][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.16.42:256][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.05.03-07.16.42:260][949]LogAIModule: Creating AISystem for world Untitled
+[2021.05.03-07.16.42:262][949]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.03-07.16.42:263][949]LoadErrors: New page: New Map
+[2021.05.03-07.16.48:011][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.05.03-07.16.52:279][115]LogEditorViewport: Clicking Background
+[2021.05.03-07.16.55:609][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.05.03-07.16.59:068][918]LogEditorViewport: Clicking Background
+[2021.05.03-07.17.00:670][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.03-07.17.08:546][ 31]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.03-07.17.10:724][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.05.03-07.17.10:788][285]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.03-07.17.38:866][285]LogSlate: Window 'Save Level As' being destroyed
+[2021.05.03-07.17.38:875][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-07.17.38:913][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.03-07.17.38:915][285]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins8E82FF974530657E25EFD190C131A4FC.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap'
+[2021.05.03-07.17.38:923][285]LogFileHelpers: Saving map 'LevelLostRuins' took 0.050
+[2021.05.03-07.17.38:932][285]AssetCheck: New page: Asset Save: LevelLostRuins
+[2021.05.03-07.17.38:932][285]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins.LevelLostRuins
+[2021.05.03-07.18.23:637][561]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.03-07.18.40:141][501]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.05.03-07.18.58:107][627]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.05.03-07.19.02:524][150]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.03-07.19.02:528][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-07.19.02:528][150]PIE: New page: PIE session: LevelLostRuins (3 mai 2021 à 11:19:02)
+[2021.05.03-07.19.02:555][150]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-07.19.02:557][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001314s)
+[2021.05.03-07.19.02:557][150]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-07.19.02:557][150]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2021.05.03-07.19.02:557][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelLostRuins.LevelLostRuins to /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins (0.002473s)
+[2021.05.03-07.19.02:631][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.05.03-07.19.02:633][150]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-07.19.02:633][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-07.19.02:633][150]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-07.19.02:636][150]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.19.02:636][150]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.19.02:648][150]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-07.19.02:649][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-07.19.02:649][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-07.19.02:649][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-07.19.02:649][150]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-07.19.02:649][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-07.19.02:649][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-07.19.02:661][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-07.19.02:661][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-07.19.02:661][150]LogInit: FAudioDevice initialized.
+[2021.05.03-07.19.02:661][150]LogAudio: Display: Audio Device (ID: 4) registered with world 'LevelLostRuins'.
+[2021.05.03-07.19.02:666][150]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-07.19.02:666][150]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins up for play (max tick rate 0) at 2021.05.03-09.19.02
+[2021.05.03-07.19.02:667][150]LogWorld: Bringing up level for play took: 0.000355
+[2021.05.03-07.19.02:667][150]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.05.03-07.19.02:670][150]PIE: Server logged in
+[2021.05.03-07.19.02:670][150]PIE: Play in editor total start time 0,143 seconds.
+[2021.05.03-07.19.10:686][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.19.10:686][106]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-07.19.10:686][106]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.19.10:686][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.19.10:691][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-07.19.10:702][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.19.10:740][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.19.10:740][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.19.10:741][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.19.10:755][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.19.10:772][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.05.03-07.19.10:799][107]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.05.03-07.19.35:847][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.03-07.19.35:851][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-07.19.35:851][ 31]PIE: New page: PIE session: LevelLostRuins (3 mai 2021 à 11:19:35)
+[2021.05.03-07.19.35:885][ 31]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-07.19.35:886][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001381s)
+[2021.05.03-07.19.35:887][ 31]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-07.19.35:887][ 31]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2021.05.03-07.19.35:887][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelLostRuins.LevelLostRuins to /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins (0.002271s)
+[2021.05.03-07.19.35:920][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.05.03-07.19.35:924][ 31]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-07.19.35:924][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-07.19.35:925][ 31]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-07.19.35:925][ 31]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-07.19.35:927][ 31]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.19.35:927][ 31]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.19.35:939][ 31]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-07.19.35:939][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-07.19.35:939][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-07.19.35:940][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-07.19.35:940][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-07.19.35:940][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-07.19.35:940][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-07.19.35:951][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-07.19.35:951][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-07.19.35:951][ 31]LogInit: FAudioDevice initialized.
+[2021.05.03-07.19.35:951][ 31]LogAudio: Display: Audio Device (ID: 5) registered with world 'LevelLostRuins'.
+[2021.05.03-07.19.35:961][ 31]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-07.19.35:962][ 31]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins up for play (max tick rate 0) at 2021.05.03-09.19.35
+[2021.05.03-07.19.35:962][ 31]LogWorld: Bringing up level for play took: 0.000334
+[2021.05.03-07.19.35:962][ 31]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.05.03-07.19.35:964][ 31]PIE: Server logged in
+[2021.05.03-07.19.35:965][ 31]PIE: Play in editor total start time 0,115 seconds.
+[2021.05.03-07.19.48:685][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.19.48:685][552]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-07.19.48:685][552]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.19.48:685][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.19.48:695][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-07.19.48:706][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.19.48:736][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.19.48:736][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.19.48:737][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.19.48:750][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.19.48:753][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.05.03-07.19.48:785][553]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.05.03-07.20.45:994][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-07.20.46:024][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.05.03-07.20.46:031][625]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins2C4A03A84D955565F48A8FBA69710DFC.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap'
+[2021.05.03-07.20.46:056][625]AssetCheck: New page: Asset Save: LevelLostRuins
+[2021.05.03-07.20.46:056][625]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins.LevelLostRuins
+[2021.05.03-07.20.56:794][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.05.03-07.20.56:797][894]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/Leveltest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-07.20.56:806][894]LightingResults: New page: Lighting Build
+[2021.05.03-07.20.56:806][894]LoadErrors: New page: Loading map: Leveltest.umap
+[2021.05.03-07.20.56:845][894]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.20.56:845][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.20.56:845][894]MapCheck: New page: Map Check
+[2021.05.03-07.20.56:845][894]LightingResults: New page: Lighting Build
+[2021.05.03-07.20.56:872][894]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.20.56:876][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.05.03-07.20.56:885][894]LogAudio: Display: Audio Device (ID: 1) registered with world 'Leveltest'.
+[2021.05.03-07.20.56:886][894]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-07.20.56:906][894]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-07.20.56:938][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.05.03-07.20.56:954][894]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-07.20.56:954][894]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,094ms to complete.
+[2021.05.03-07.20.56:954][894]LogFileHelpers: Loading map 'Leveltest' took 0.158
+[2021.05.03-07.20.56:955][894]LogSlate: Window 'Open Level' being destroyed
+[2021.05.03-07.21.16:799][603]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.03-07.21.16:803][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-07.21.16:803][603]PIE: New page: PIE session: Leveltest (3 mai 2021 à 11:21:16)
+[2021.05.03-07.21.16:835][603]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.21.16:842][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006538s)
+[2021.05.03-07.21.16:842][603]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-07.21.16:843][603]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2021.05.03-07.21.16:843][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.007425s)
+[2021.05.03-07.21.16:873][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.05.03-07.21.16:876][603]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-07.21.16:876][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-07.21.16:876][603]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-07.21.16:879][603]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.21.16:879][603]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.21.16:890][603]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-07.21.16:890][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-07.21.16:890][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-07.21.16:890][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-07.21.16:891][603]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-07.21.16:891][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-07.21.16:891][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-07.21.16:904][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-07.21.16:904][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-07.21.16:904][603]LogInit: FAudioDevice initialized.
+[2021.05.03-07.21.16:904][603]LogAudio: Display: Audio Device (ID: 6) registered with world 'Leveltest'.
+[2021.05.03-07.21.16:912][603]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-07.21.16:915][603]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.05.03-09.21.16
+[2021.05.03-07.21.16:915][603]LogWorld: Bringing up level for play took: 0.002267
+[2021.05.03-07.21.16:915][603]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.05.03-07.21.16:918][603]PIE: Server logged in
+[2021.05.03-07.21.16:919][603]PIE: Play in editor total start time 0,116 seconds.
+[2021.05.03-07.21.21:743][180]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.21.59:398][693]LogBlueprintUserMessages: [BP_Button3_3] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.00:441][818]LogBlueprintUserMessages: [BP_Button3_3] 1.0
+[2021.05.03-07.22.04:216][271]LogBlueprintUserMessages: [BP_Button3_3] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.09:607][918]LogBlueprintUserMessages: [BP_Button3_3] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.09:641][922]LogBlueprintUserMessages: [BP_Button2] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.21:701][369]LogBlueprintUserMessages: [BP_Button3_3] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.21:859][388]LogBlueprintUserMessages: [BP_Button2] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.27:558][ 72]LogBlueprintUserMessages: [BP_Button_2] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.42:323][842]LogBlueprintUserMessages: [BP_PressureP4_8] 1.0
+[2021.05.03-07.22.44:057][ 50]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.22.48:515][585]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.22.49:281][672]LogBlueprintUserMessages: [BP_StanLee2] Ramassé
+[2021.05.03-07.22.49:473][695]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.22.49:473][695]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.22.50:840][859]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.22.51:858][981]LogBlueprintUserMessages: [BP_StanLee_2] Ramassé
+[2021.05.03-07.22.52:532][ 62]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.23.15:386][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.23.15:386][798]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.23.15:386][798]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.23.15:386][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.23.15:394][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-07.23.15:398][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.23.15:430][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.23.15:430][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.23.15:431][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.23.15:447][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.05.03-07.23.15:469][799]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.05.03-07.23.58:397][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh3)
+[2021.05.03-07.24.01:954][538]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button3)
+[2021.05.03-07.25.25:582][346]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button2)
+[2021.05.03-07.27.04:085][905]LogEditorViewport: Clicking on Actor (LMB): BP_WallTrap_C (BP_WallTrap)
+[2021.05.03-07.27.19:488][716]BlueprintLog: New page: Compile BP_StanLee
+[2021.05.03-07.27.19:545][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.05.03-07.27.20:497][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/triggerThings/artefacts/BP_StanLee" FILE="../../../../projet unreal/IndianaJones/Content/triggerThings/artefacts/BP_StanLee.uasset" SILENT=true
+[2021.05.03-07.27.20:514][822]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_StanLee508CE11D4F690306472FE4AB4549CCF8.tmp' to '../../../../projet unreal/IndianaJones/Content/triggerThings/artefacts/BP_StanLee.uasset'
+[2021.05.03-07.27.20:526][822]AssetCheck: New page: Asset Save: BP_StanLee
+[2021.05.03-07.27.20:526][822]LogContentValidation: Display: Validating Blueprint /Game/triggerThings/artefacts/BP_StanLee.BP_StanLee
+[2021.05.03-07.28.14:743][200]LogEditorTransaction: Undo Rename Node
+[2021.05.03-07.28.28:736][821]BlueprintLog: New page: Compile BP_Button
+[2021.05.03-07.28.28:803][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.05.03-07.28.29:299][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/triggerThings/BP_Button" FILE="../../../../projet unreal/IndianaJones/Content/triggerThings/BP_Button.uasset" SILENT=true
+[2021.05.03-07.28.29:331][869]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_Button2275012249D112E5DE76EB9530FF51F4.tmp' to '../../../../projet unreal/IndianaJones/Content/triggerThings/BP_Button.uasset'
+[2021.05.03-07.28.29:341][869]AssetCheck: New page: Asset Save: BP_Button
+[2021.05.03-07.28.29:342][869]LogContentValidation: Display: Validating Blueprint /Game/triggerThings/BP_Button.BP_Button
+[2021.05.03-07.28.56:310][ 22]LogRenderer: Reallocating scene render targets to support 1632x996 Format 10 NumSamples 1 (Frame:1).
+[2021.05.03-07.29.35:257][652]BlueprintLog: New page: Compile BP_WallTrap
+[2021.05.03-07.29.35:327][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.05.03-07.29.36:020][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/DirectDanger/BP_WallTrap" FILE="../../../../projet unreal/IndianaJones/Content/Traps/DirectDanger/BP_WallTrap.uasset" SILENT=true
+[2021.05.03-07.29.36:033][722]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_WallTrapFA3A7EF543AA78FB0E81BB84B6AFBFF2.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/DirectDanger/BP_WallTrap.uasset'
+[2021.05.03-07.29.36:051][722]AssetCheck: New page: Asset Save: BP_WallTrap
+[2021.05.03-07.29.36:051][722]LogContentValidation: Display: Validating Blueprint /Game/Traps/DirectDanger/BP_WallTrap.BP_WallTrap
+[2021.05.03-07.32.04:999][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/DirectDanger/BP_WallTrap" FILE="../../../../projet unreal/IndianaJones/Content/Traps/DirectDanger/BP_WallTrap.uasset" SILENT=true
+[2021.05.03-07.32.05:011][292]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_WallTrap0002392A4E4E5E12B3B674B08CAF9E02.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/DirectDanger/BP_WallTrap.uasset'
+[2021.05.03-07.32.05:023][292]AssetCheck: New page: Asset Save: BP_WallTrap
+[2021.05.03-07.32.05:023][292]LogContentValidation: Display: Validating Blueprint /Game/Traps/DirectDanger/BP_WallTrap.BP_WallTrap
+[2021.05.03-07.32.06:748][499]BlueprintLog: New page: Compile BP_WallTrap
+[2021.05.03-07.32.06:812][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.05.03-07.32.07:388][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/DirectDanger/BP_WallTrap" FILE="../../../../projet unreal/IndianaJones/Content/Traps/DirectDanger/BP_WallTrap.uasset" SILENT=true
+[2021.05.03-07.32.07:401][558]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_WallTrapB0879B674719A0FDFF05779E896D9F9C.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/DirectDanger/BP_WallTrap.uasset'
+[2021.05.03-07.32.07:413][558]AssetCheck: New page: Asset Save: BP_WallTrap
+[2021.05.03-07.32.07:413][558]LogContentValidation: Display: Validating Blueprint /Game/Traps/DirectDanger/BP_WallTrap.BP_WallTrap
+[2021.05.03-07.32.11:346][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.03-07.32.11:352][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-07.32.11:352][ 21]PIE: New page: PIE session: Leveltest (3 mai 2021 à 11:32:11)
+[2021.05.03-07.32.11:384][ 21]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.32.11:391][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006828s)
+[2021.05.03-07.32.11:392][ 21]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-07.32.11:392][ 21]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2021.05.03-07.32.11:392][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.007792s)
+[2021.05.03-07.32.11:425][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.05.03-07.32.11:427][ 21]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.05.03-07.32.11:427][ 21]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-07.32.11:427][ 21]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-07.32.11:427][ 21]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-07.32.11:427][ 21]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-07.32.11:427][ 21]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-07.32.11:427][ 21]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-07.32.11:427][ 21]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-07.32.11:427][ 21]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-07.32.11:427][ 21]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-07.32.11:427][ 21]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-07.32.11:430][ 21]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.32.11:430][ 21]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.32.11:442][ 21]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-07.32.11:442][ 21]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-07.32.11:442][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-07.32.11:442][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-07.32.11:442][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-07.32.11:442][ 21]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-07.32.11:442][ 21]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-07.32.11:454][ 21]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-07.32.11:454][ 21]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-07.32.11:454][ 21]LogInit: FAudioDevice initialized.
+[2021.05.03-07.32.11:454][ 21]LogAudio: Display: Audio Device (ID: 7) registered with world 'Leveltest'.
+[2021.05.03-07.32.11:462][ 21]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-07.32.11:465][ 21]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.05.03-09.32.11
+[2021.05.03-07.32.11:465][ 21]LogWorld: Bringing up level for play took: 0.002277
+[2021.05.03-07.32.11:465][ 21]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.05.03-07.32.11:468][ 21]PIE: Server logged in
+[2021.05.03-07.32.11:468][ 21]PIE: Play in editor total start time 0,119 seconds.
+[2021.05.03-07.32.15:021][443]LogNet: Browse: /Game/Levels/Leveltest
+[2021.05.03-07.32.15:021][443]LogLoad: LoadMap: /Game/Levels/Leveltest
+[2021.05.03-07.32.15:021][443]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.32.15:021][443]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.32.15:022][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.32.15:084][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.32.15:087][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.05.03-07.32.15:088][443]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.32.15:095][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006627s)
+[2021.05.03-07.32.15:096][443]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-07.32.15:096][443]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2021.05.03-07.32.15:096][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.007486s)
+[2021.05.03-07.32.15:096][443]LogAudio: Display: Audio Device (ID: 7) registered with world 'Leveltest'.
+[2021.05.03-07.32.15:096][443]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-07.32.15:098][443]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.05.03-09.32.15
+[2021.05.03-07.32.15:098][443]LogWorld: Bringing up level for play took: 0.001398
+[2021.05.03-07.32.15:100][443]LogLoad: Took 0.079144 seconds to LoadMap(/Game/Levels/UEDPIE_0_Leveltest)
+[2021.05.03-07.32.19:931][ 17]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.32.26:963][861]LogNet: Browse: /Game/Levels/Leveltest
+[2021.05.03-07.32.26:963][861]LogLoad: LoadMap: /Game/Levels/Leveltest
+[2021.05.03-07.32.26:963][861]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.32.26:963][861]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.32.26:964][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.32.27:034][861]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.32.27:038][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.05.03-07.32.27:040][861]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.32.27:046][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006693s)
+[2021.05.03-07.32.27:047][861]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-07.32.27:047][861]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2021.05.03-07.32.27:047][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.007589s)
+[2021.05.03-07.32.27:047][861]LogAudio: Display: Audio Device (ID: 7) registered with world 'Leveltest'.
+[2021.05.03-07.32.27:047][861]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-07.32.27:049][861]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.05.03-09.32.27
+[2021.05.03-07.32.27:049][861]LogWorld: Bringing up level for play took: 0.001461
+[2021.05.03-07.32.27:051][861]LogLoad: Took 0.088907 seconds to LoadMap(/Game/Levels/UEDPIE_0_Leveltest)
+[2021.05.03-07.32.28:905][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.32.28:906][ 75]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.32.28:906][ 75]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.32.28:907][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.32.28:912][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-07.32.28:922][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.32.28:951][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.32.28:951][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.32.28:952][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.32.28:964][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.32.28:968][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.05.03-07.32.29:006][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_19
