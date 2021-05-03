@@ -1342,3 +1342,225 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.03-07.15.41:926][ 22]LogContentValidation: Display: Validating Blueprint /Game/triggerThings/BP_Button.BP_Button
 [2021.05.03-07.15.41:926][ 22]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Leveltest_BuiltData.Leveltest_BuiltData
 [2021.05.03-07.15.41:926][ 22]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.05.03-07.16.42:212][949]LogSlate: Window 'New Level' being destroyed
+[2021.05.03-07.16.42:217][949]LightingResults: New page: Lighting Build
+[2021.05.03-07.16.42:219][949]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.16.42:219][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.16.42:219][949]MapCheck: New page: Map Check
+[2021.05.03-07.16.42:219][949]LightingResults: New page: Lighting Build
+[2021.05.03-07.16.42:252][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.16.42:256][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.05.03-07.16.42:260][949]LogAIModule: Creating AISystem for world Untitled
+[2021.05.03-07.16.42:262][949]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.03-07.16.42:263][949]LoadErrors: New page: New Map
+[2021.05.03-07.16.48:011][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.05.03-07.16.52:279][115]LogEditorViewport: Clicking Background
+[2021.05.03-07.16.55:609][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.05.03-07.16.59:068][918]LogEditorViewport: Clicking Background
+[2021.05.03-07.17.00:670][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.03-07.17.08:546][ 31]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.03-07.17.10:724][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.05.03-07.17.10:788][285]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.03-07.17.38:866][285]LogSlate: Window 'Save Level As' being destroyed
+[2021.05.03-07.17.38:875][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-07.17.38:913][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.03-07.17.38:915][285]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins8E82FF974530657E25EFD190C131A4FC.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap'
+[2021.05.03-07.17.38:923][285]LogFileHelpers: Saving map 'LevelLostRuins' took 0.050
+[2021.05.03-07.17.38:932][285]AssetCheck: New page: Asset Save: LevelLostRuins
+[2021.05.03-07.17.38:932][285]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins.LevelLostRuins
+[2021.05.03-07.18.23:637][561]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.03-07.18.40:141][501]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.05.03-07.18.58:107][627]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.05.03-07.19.02:524][150]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.03-07.19.02:528][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-07.19.02:528][150]PIE: New page: PIE session: LevelLostRuins (3 mai 2021 à 11:19:02)
+[2021.05.03-07.19.02:555][150]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-07.19.02:557][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001314s)
+[2021.05.03-07.19.02:557][150]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-07.19.02:557][150]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2021.05.03-07.19.02:557][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelLostRuins.LevelLostRuins to /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins (0.002473s)
+[2021.05.03-07.19.02:631][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.05.03-07.19.02:633][150]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-07.19.02:633][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-07.19.02:633][150]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-07.19.02:633][150]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-07.19.02:636][150]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.19.02:636][150]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.19.02:648][150]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-07.19.02:649][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-07.19.02:649][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-07.19.02:649][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-07.19.02:649][150]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-07.19.02:649][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-07.19.02:649][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-07.19.02:661][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-07.19.02:661][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-07.19.02:661][150]LogInit: FAudioDevice initialized.
+[2021.05.03-07.19.02:661][150]LogAudio: Display: Audio Device (ID: 4) registered with world 'LevelLostRuins'.
+[2021.05.03-07.19.02:666][150]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-07.19.02:666][150]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins up for play (max tick rate 0) at 2021.05.03-09.19.02
+[2021.05.03-07.19.02:667][150]LogWorld: Bringing up level for play took: 0.000355
+[2021.05.03-07.19.02:667][150]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.05.03-07.19.02:670][150]PIE: Server logged in
+[2021.05.03-07.19.02:670][150]PIE: Play in editor total start time 0,143 seconds.
+[2021.05.03-07.19.10:686][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.19.10:686][106]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-07.19.10:686][106]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.19.10:686][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.19.10:691][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-07.19.10:702][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.19.10:740][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.19.10:740][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.19.10:741][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.19.10:755][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.19.10:772][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.05.03-07.19.10:799][107]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.05.03-07.19.35:847][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.03-07.19.35:851][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-07.19.35:851][ 31]PIE: New page: PIE session: LevelLostRuins (3 mai 2021 à 11:19:35)
+[2021.05.03-07.19.35:885][ 31]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-07.19.35:886][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001381s)
+[2021.05.03-07.19.35:887][ 31]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-07.19.35:887][ 31]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2021.05.03-07.19.35:887][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelLostRuins.LevelLostRuins to /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins (0.002271s)
+[2021.05.03-07.19.35:920][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.05.03-07.19.35:924][ 31]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-07.19.35:924][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-07.19.35:924][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-07.19.35:925][ 31]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-07.19.35:925][ 31]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-07.19.35:927][ 31]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.19.35:927][ 31]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.19.35:939][ 31]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-07.19.35:939][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-07.19.35:939][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-07.19.35:940][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-07.19.35:940][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-07.19.35:940][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-07.19.35:940][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-07.19.35:951][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-07.19.35:951][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-07.19.35:951][ 31]LogInit: FAudioDevice initialized.
+[2021.05.03-07.19.35:951][ 31]LogAudio: Display: Audio Device (ID: 5) registered with world 'LevelLostRuins'.
+[2021.05.03-07.19.35:961][ 31]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-07.19.35:962][ 31]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins up for play (max tick rate 0) at 2021.05.03-09.19.35
+[2021.05.03-07.19.35:962][ 31]LogWorld: Bringing up level for play took: 0.000334
+[2021.05.03-07.19.35:962][ 31]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.05.03-07.19.35:964][ 31]PIE: Server logged in
+[2021.05.03-07.19.35:965][ 31]PIE: Play in editor total start time 0,115 seconds.
+[2021.05.03-07.19.48:685][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.19.48:685][552]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-07.19.48:685][552]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.19.48:685][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.19.48:695][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-07.19.48:706][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.19.48:736][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.19.48:736][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.19.48:737][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.19.48:750][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.19.48:753][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.05.03-07.19.48:785][553]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.05.03-07.20.45:994][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-07.20.46:024][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.05.03-07.20.46:031][625]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins2C4A03A84D955565F48A8FBA69710DFC.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap'
+[2021.05.03-07.20.46:056][625]AssetCheck: New page: Asset Save: LevelLostRuins
+[2021.05.03-07.20.46:056][625]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins.LevelLostRuins
+[2021.05.03-07.20.56:794][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.05.03-07.20.56:797][894]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/Leveltest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-07.20.56:806][894]LightingResults: New page: Lighting Build
+[2021.05.03-07.20.56:806][894]LoadErrors: New page: Loading map: Leveltest.umap
+[2021.05.03-07.20.56:845][894]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.20.56:845][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.20.56:845][894]MapCheck: New page: Map Check
+[2021.05.03-07.20.56:845][894]LightingResults: New page: Lighting Build
+[2021.05.03-07.20.56:872][894]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.20.56:876][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.05.03-07.20.56:885][894]LogAudio: Display: Audio Device (ID: 1) registered with world 'Leveltest'.
+[2021.05.03-07.20.56:886][894]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-07.20.56:906][894]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-07.20.56:938][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.05.03-07.20.56:954][894]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-07.20.56:954][894]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,094ms to complete.
+[2021.05.03-07.20.56:954][894]LogFileHelpers: Loading map 'Leveltest' took 0.158
+[2021.05.03-07.20.56:955][894]LogSlate: Window 'Open Level' being destroyed
+[2021.05.03-07.21.16:799][603]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.03-07.21.16:803][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-07.21.16:803][603]PIE: New page: PIE session: Leveltest (3 mai 2021 à 11:21:16)
+[2021.05.03-07.21.16:835][603]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.21.16:842][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006538s)
+[2021.05.03-07.21.16:842][603]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-07.21.16:843][603]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2021.05.03-07.21.16:843][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveltest.Leveltest to /Game/Levels/UEDPIE_0_Leveltest.Leveltest (0.007425s)
+[2021.05.03-07.21.16:873][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.05.03-07.21.16:876][603]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-07.21.16:876][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-07.21.16:876][603]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-07.21.16:876][603]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-07.21.16:879][603]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.21.16:879][603]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.21.16:890][603]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-07.21.16:890][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-07.21.16:890][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-07.21.16:890][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-07.21.16:891][603]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-07.21.16:891][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-07.21.16:891][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-07.21.16:904][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-07.21.16:904][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-07.21.16:904][603]LogInit: FAudioDevice initialized.
+[2021.05.03-07.21.16:904][603]LogAudio: Display: Audio Device (ID: 6) registered with world 'Leveltest'.
+[2021.05.03-07.21.16:912][603]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-07.21.16:915][603]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Leveltest.Leveltest up for play (max tick rate 0) at 2021.05.03-09.21.16
+[2021.05.03-07.21.16:915][603]LogWorld: Bringing up level for play took: 0.002267
+[2021.05.03-07.21.16:915][603]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.05.03-07.21.16:918][603]PIE: Server logged in
+[2021.05.03-07.21.16:919][603]PIE: Play in editor total start time 0,116 seconds.
+[2021.05.03-07.21.21:743][180]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.21.59:398][693]LogBlueprintUserMessages: [BP_Button3_3] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.00:441][818]LogBlueprintUserMessages: [BP_Button3_3] 1.0
+[2021.05.03-07.22.04:216][271]LogBlueprintUserMessages: [BP_Button3_3] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.09:607][918]LogBlueprintUserMessages: [BP_Button3_3] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.09:641][922]LogBlueprintUserMessages: [BP_Button2] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.21:701][369]LogBlueprintUserMessages: [BP_Button3_3] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.21:859][388]LogBlueprintUserMessages: [BP_Button2] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.27:558][ 72]LogBlueprintUserMessages: [BP_Button_2] Appuyez sur E pour activer le bouton.
+[2021.05.03-07.22.42:323][842]LogBlueprintUserMessages: [BP_PressureP4_8] 1.0
+[2021.05.03-07.22.44:057][ 50]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.22.48:515][585]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.22.49:281][672]LogBlueprintUserMessages: [BP_StanLee2] Ramassé
+[2021.05.03-07.22.49:473][695]LogBlueprintUserMessages: [BP_StanLee2] Appuies sur F pour ramasser.
+[2021.05.03-07.22.49:473][695]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.22.50:840][859]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.22.51:858][981]LogBlueprintUserMessages: [BP_StanLee_2] Ramassé
+[2021.05.03-07.22.52:532][ 62]LogBlueprintUserMessages: [BP_StanLee_2] Appuies sur F pour ramasser.
+[2021.05.03-07.23.15:386][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.23.15:386][798]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Leveltest
+[2021.05.03-07.23.15:386][798]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.23.15:386][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.23.15:394][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-07.23.15:398][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.23.15:430][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-07.23.15:430][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.23.15:431][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-07.23.15:447][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.05.03-07.23.15:469][799]LogPlayLevel: Display: Destroying online subsystem :Context_17
