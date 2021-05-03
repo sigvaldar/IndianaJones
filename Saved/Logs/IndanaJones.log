@@ -867,3 +867,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.03-13.43.27:019][754]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.03-13.43.27:019][754]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins.LevelLostRuins
 [2021.05.03-13.43.27:019][754]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/LevelLostRuins_BuiltData.LevelLostRuins_BuiltData
+[2021.05.03-13.45.25:644][914]Cmd: DELETE
+[2021.05.03-13.45.25:644][914]Cmd: ACTOR DELETE
+[2021.05.03-13.45.25:652][914]LogEditorActor: Deleted Actor: Brush
+[2021.05.03-13.45.25:658][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.03-13.45.25:695][914]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.05.03-13.45.28:906][297]LogEditorViewport: Clicking on Actor (LMB): BP_Spike_C (BP_Spike)
+[2021.05.03-13.46.57:257][767]Cmd: DELETE
+[2021.05.03-13.46.57:257][767]Cmd: ACTOR DELETE
+[2021.05.03-13.46.57:262][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.03-13.46.57:263][767]LogEditorActor: Deleted 0 Actors (0.006 secs)
+[2021.05.03-13.47.59:183][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-13.47.59:187][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.03-13.47.59:228][ 66]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuinsB20C73274B2C6C29890070990E02D2FF.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap'
+[2021.05.03-13.47.59:239][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins_BuiltData" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins_BuiltData.uasset" SILENT=true
+[2021.05.03-13.47.59:273][ 66]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins_BuiltData805A46EF4EC8EED3A49E5CB5C6F2423D.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins_BuiltData.uasset'
+[2021.05.03-13.47.59:282][ 66]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.03-13.47.59:282][ 66]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins.LevelLostRuins
+[2021.05.03-13.47.59:282][ 66]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/LevelLostRuins_BuiltData.LevelLostRuins_BuiltData
+[2021.05.03-13.48.00:153][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
