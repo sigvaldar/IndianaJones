@@ -1,0 +1,1911 @@
+﻿Log file open, 05/03/21 19:07:25
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: IndanaJones
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.183156
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MultiUserTakes
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-17.07.26:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.03-17.07.26:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-17.07.26:065][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-17.07.26:118][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.03-17.07.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.03-17.07.26:119][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.03-17.07.26:119][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.03-17.07.26:119][  0]LogHAL: Display: Platform has ~ 32 GB [34287493120 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.03-17.07.26:119][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.03-17.07.26:119][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.03-17.07.26:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.03-17.07.26:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.03-17.07.26:120][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:120][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.03-17.07.26:120][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.03-17.07.26:120][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Scalability.ini]
+[2021.05.03-17.07.26:120][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.03-17.07.26:120][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.03-17.07.26:120][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.03-17.07.26:120][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.03-17.07.26:120][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.03-17.07.26:120][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.03-17.07.26:120][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.03-17.07.26:120][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Engine.ini]
+[2021.05.03-17.07.26:120][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/projet unreal/IndianaJones/Saved/Config/Windows/Editor.ini]
+[2021.05.03-17.07.26:120][  0]LogInit: Computer: DESKTOP-ETOPL2V
+[2021.05.03-17.07.26:120][  0]LogInit: User: jfx
+[2021.05.03-17.07.26:120][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.05.03-17.07.26:120][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.03-17.07.26:120][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.05.03-17.07.26:120][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.03-17.07.26:120][  0]LogMemory: Process Physical Memory: 141.32 MB used, 141.33 MB peak
+[2021.05.03-17.07.26:120][  0]LogMemory: Process Virtual Memory: 129.44 MB used, 129.44 MB peak
+[2021.05.03-17.07.26:120][  0]LogMemory: Physical Memory: 10555.19 MB used,  22143.91 MB free, 32699.10 MB total
+[2021.05.03-17.07.26:120][  0]LogMemory: Virtual Memory: 134198312.00 MB used,  19416.53 MB free, 134217728.00 MB total
+[2021.05.03-17.07.26:124][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.03-17.07.26:151][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.03-17.07.26:152][  0]LogInit: Using OS detected language (fr-FR).
+[2021.05.03-17.07.26:152][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.05.03-17.07.26:153][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.05.03-17.07.26:153][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.05.03-17.07.26:153][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.05.03-17.07.26:153][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.05.03-17.07.26:154][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.05.03-17.07.26:154][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.05.03-17.07.26:154][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.05.03-17.07.26:154][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.05.03-17.07.26:154][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.03-17.07.26:161][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.03-17.07.26:177][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.03-17.07.26:177][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.03-17.07.31:359][  0]LogHMD: Failed to initialize OpenVR with code 309
+[2021.05.03-17.07.31:359][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.03-17.07.31:359][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.03-17.07.31:359][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.03-17.07.31:436][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2021.05.03-17.07.31:436][  0]LogD3D11RHI:       8011/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.03-17.07.31:437][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.03-17.07.31:437][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.03-17.07.31:437][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.03-17.07.31:442][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.03-17.07.31:442][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.03-17.07.31:442][  0]LogWindows: EnumDisplayDevices:
+[2021.05.03-17.07.31:442][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2021.05.03-17.07.31:442][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2021.05.03-17.07.31:443][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.05.03-17.07.31:443][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.05.03-17.07.31:443][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.03-17.07.31:443][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2021.05.03-17.07.31:443][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.05.03-17.07.31:443][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.05.03-17.07.31:443][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2021.05.03-17.07.31:512][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.03-17.07.31:512][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.03-17.07.31:512][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.03-17.07.31:513][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2021.05.03-17.07.31:529][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.03-17.07.31:530][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.03-17.07.31:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.03-17.07.31:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.03-17.07.31:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.03-17.07.31:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.03-17.07.31:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.03-17.07.31:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.03-17.07.31:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.03-17.07.31:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.03-17.07.31:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.03-17.07.31:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.03-17.07.31:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.03-17.07.31:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.03-17.07.31:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.03-17.07.31:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.03-17.07.31:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.03-17.07.31:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.03-17.07.31:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.03-17.07.31:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.03-17.07.31:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.03-17.07.31:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.03-17.07.31:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.03-17.07.31:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.03-17.07.31:829][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.03-17.07.31:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.03-17.07.31:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.03-17.07.31:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.03-17.07.31:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.03-17.07.31:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.03-17.07.31:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.03-17.07.31:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.03-17.07.31:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.03-17.07.31:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.03-17.07.31:880][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.03-17.07.31:886][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.03-17.07.31:927][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.03-17.07.31:927][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../projet unreal/IndianaJones/Intermediate/Shaders/WorkingDirectory/21764/).
+[2021.05.03-17.07.31:927][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jfx/AppData/Local/Temp/UnrealShaderWorkingDir/3ECB542F463821EAE1C2CE9ADEC55B93/'.
+[2021.05.03-17.07.31:927][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.03-17.07.31:927][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.03-17.07.32:521][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.03-17.07.32:568][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/jfx/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.03-17.07.32:569][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jfx/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.03-17.07.32:569][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../projet unreal/IndianaJones/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.03-17.07.32:569][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.03-17.07.32:569][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../projet unreal/IndianaJones/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.03-17.07.32:569][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.03-17.07.32:577][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.03-17.07.32:577][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.03-17.07.32:577][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.03-17.07.32:582][  0]LogDerivedDataCache: Speed tests for C:/Users/jfx/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2021.05.03-17.07.32:582][  0]LogDerivedDataCache: Display: Performance to C:/Users/jfx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1825.78MBs, RandomWriteSpeed=279.48MBs. Assigned SpeedClass 'Local'
+[2021.05.03-17.07.32:582][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jfx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.03-17.07.32:583][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.03-17.07.32:583][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.03-17.07.32:619][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.03-17.07.32:619][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.03-17.07.32:641][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2021.05.03-17.07.32:807][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.03-17.07.32:807][  0]LogInit: Active device profile: [00000218F15D3100][00000218E88CC480 49] Windows
+[2021.05.03-17.07.32:807][  0]LogInit: Profiles: [00000218F15D3100][00000218E88CC480 49] Windows, [00000218F1599100][00000218E88D4600 49] WindowsNoEditor, [00000218F15D1100][00000218E88D8780 49] WindowsServer, [00000218F159AC00][00000218E88DC900 49] WindowsClient, [00000218F15D2B00][00000218E88E0A80 49] IOS, [00000218F1599700][00000218E88E4C00 49] iPadAir, [00000218F15D1700][00000218E88E8D80 49] iPadAir2, [00000218F1558900][00000218F0639040 49] IPadPro, [00000218F1558A00][00000218E88ED080 49] iPadAir3, [00000218F15D3400][00000218F063D200 49] iPadAir4, [00000218F155B200][00000218F0641380 49] iPadMini2, [00000218F15D0D00][00000218F0645500 49] iPadMini3, [00000218F1558B00][00000218E88D1640 49] iPadMini4, [00000218F15D2C00][00000218F0649780 49] iPadMini5, [00000218F159AD00][00000218F06519C0 49] iPhone6, [00000218F159A600][00000218F064DA00 49] iPodTouch6, [00000218F153FF00][00000218F065DCC0 49] iPhone7, [00000218F153FE00][00000218F0659D00 49] iPodTouch7, [00000218F159BD00][00000218F06601C0 49] iPhone5S, [00000218F153D600][00000218F0664340 49] iPhone6Plus, [00000218F1598100][00000218F067A4C0 49] iPhone6S, [00000218F153FD00][00000218F067E640 49] iPhone6SPlus, [00000218F1599300][00000218F068A7C0 49] iPhone7Plus, [00000218F153DA00][00000218F0696940 49] iPhoneSE, [00000218F159A500][00000218F06A6AC0 49] iPhone8, [00000218F153E600][00000218F06EAC40 49] iPhone8Plus, [00000218F159AE00][00000218F1720DC0 49] iPhoneX, [00000218F153DD00][00000218F1724F40 49] iPhoneXS, [00000218F159B000][00000218F17290C0 49] iPhoneXSMax, [00000218F153E300][00000218F172D240 49] iPhoneXR, [00000218F159BC00][00000218F17393C0 49] iPhone11, [00000218F153E000][00000218F173D540 49] iPhone11Pro, [00000218F1598800][00000218F0655680 49] iPhone11ProMax, [00000218F153D300][00000218F17417C0 49] iPhoneSE2, [00000218F1598500][00000218F1749900 49] iPhone12Mini, [00000218F153C800][00000218F174DA40 49] iPhone12, [00000218F1598400][00000218F1755BC0 49] iPhone12Pro, [00000218F153CF00][00000218F1759D40 49] iPhone12ProMax, [00000218F159BA00][00000218F175C200 49] iPadPro105, [00000218F153DC00][00000218F1760380 49] iPadPro129, [00000218F1599500][00000218F1764500 49] iPadPro97, [00000218F153CC00][00000218F1768680 49] iPadPro2_129, [00000218F1599400][00000218F176C800 49] iPad5, [00000218F153F100][00000218F1770980 49] iPad6, [00000218F159B700][00000218F178CB00 49] iPad7, [00000218F153CB00][00000218F1790C80 49] iPad8, [00000218F1599A00][00000218F1794E00 49] iPadPro11, [00000218F153E200][00000218F1798F80 49] iPadPro2_11, [00000218F159A200][00000218F179D100 49] iPadPro3_129, [00000218F153CA00][00000218F17C1280 49] iPadPro4_129, [00000218F159B500][00000218F17C5400 49] AppleTV, [00000218F153D400][00000218F17C9580 49] AppleTV4K, [00000218F159B400][00000218F17CD700 49] TVOS, [00000218F153D500][00000218F1751840 49] Mac, [00000218F159B300][00000218F17D1980 49] MacClient, [00000218F153D700][00000218F17D5AC0 49] MacNoEditor, [00000218F159B800][00000218F17DDC40 49] MacServer, [00000218F153C600][00000218F180C100 49] Linux, [00000218F1559100][00000218F1810280 49] LinuxAArch64, [00000218F161CB00][00000218F1814400 49] LinuxNoEditor, [00000218F1558E00][00000218F1818580 49] LinuxAArch64NoEditor, [00000218F161D100][00000218F181C700 49] LinuxClient, [00000218F1559B00][00000218F1820880 49] LinuxAArch64Client, [00000218F161C800][00000218F1824A00 49] LinuxServer, [00000218F155BB00][00000218F1828B80 49] LinuxAArch64Server, [00000218F153EF00][00000218F182CD00 49] Android, [00000218F1559500][00000218F1830E80 49] Android_Low, [00000218F153C200][00000218F1835000 49] Android_Mid, [00000218F155B600][00000218F1839180 49] Android_High, [00000218F153C100][00000218F183D300 49] Android_Default, [00000218F1559700][00000218F1841480 49] Android_Adreno4xx, [00000218F153EC00][00000218F1845600 49] Android_Adreno5xx_Low, [00000218F155A400][00000218F1849780 49] Android_Adreno5xx, [00000218F153EB00][00000218F17D98C0 49] Android_Adreno6xx, [00000218F155A800][00000218F184DA00 49] Android_Adreno6xx_Vulkan, [00000218F153ED00][00000218F1851B40 49] Android_Mali_T6xx, [00000218F155A600][00000218F1859CC0 49] Android_Mali_T7xx, [00000218F153D000][00000218F185C180 49] Android_Mali_T8xx, [00000218F1559000][00000218F1860300 49] Android_Mali_G71, [00000218F153F700][00000218F1864480 49] Android_Mali_G72, [00000218F155A300][00000218F1868600 49] Android_Mali_G72_Vulkan, [00000218F153C400][00000218F186C780 49] Android_Mali_G76, [00000218F1558800][00000218F1870900 49] Android_Mali_G76_Vulkan, [00000218F153F300][00000218F1874A80 49] Android_Mali_G77, [00000218F155B000][00000218F1878C00 49] Android_Mali_G77_Vulkan, [00000218F153E500][00000218F187CD80 49] Android_Vulkan_SM5, [00000218F1558200][00000218F1880F00 49] Android_PowerVR_G6xxx, [00000218F153CE00][00000218F1885080 49] Android_PowerVR_GT7xxx, [00000218F1558F00][00000218F1889200 49] Android_PowerVR_GE8xxx, [00000218F153D900][00000218F188D380 49] Android_PowerVR_GM9xxx, [00000218F1559F00][00000218F1891500 49] Android_PowerVR_GM9xxx_Vulkan, [00000218F153F500][00000218F1895680 49] Android_TegraK1, [00000218F155A700][00000218F1899800 49] Android_Unknown_Vulkan, [00000218F153FC00][00000218F1855940 49] Lumin, [00000218F155BA00][00000218F189DA80 49] Lumin_Desktop, [00000218F153C300][00000218F18A1BC0 49] HoloLens, 
+[2021.05.03-17.07.32:886][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.03-17.07.32:886][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.03-17.07.32:886][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.03-17.07.32:886][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.03-17.07.32:886][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.03-17.07.32:901][  0]LogNetVersion: IndanaJones 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 844448525)
+[2021.05.03-17.07.33:210][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.03-17.07.33:237][  0]LogPackageLocalizationCache: Processed 25 localized package path(s) for 1 prioritized culture(s) in 0.027172 seconds
+[2021.05.03-17.07.33:241][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.03-17.07.33:241][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.03-17.07.33:241][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.03-17.07.33:497][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.03-17.07.33:500][  0]LogUdpMessaging: Initializing bridge on interface 25.29.148.20:0 to multicast group 230.0.0.1:6666.
+[2021.05.03-17.07.33:554][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.05.03-17.07.33:554][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.05.03-17.07.33:554][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.05.03-17.07.33:568][  0]SourceControl: Source control is disabled
+[2021.05.03-17.07.33:568][  0]SourceControl: Source control is disabled
+[2021.05.03-17.07.33:573][  0]SourceControl: Source control is disabled
+[2021.05.03-17.07.33:576][  0]SourceControl: Source control is disabled
+[2021.05.03-17.07.33:578][  0]SourceControl: Source control is disabled
+[2021.05.03-17.07.33:585][  0]LogUProjectInfo: Found projects:
+[2021.05.03-17.07.33:673][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.03-17.07.33:685][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.03-17.07.33:685][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.03-17.07.33:819][  0]LogCollectionManager: Loaded 0 collections in 0.000437 seconds
+[2021.05.03-17.07.33:834][  0]LogFileCache: Scanning file cache for directory 'D:/projet unreal/IndianaJones/Saved/Collections/' took 0.00s
+[2021.05.03-17.07.33:834][  0]LogFileCache: Scanning file cache for directory 'D:/projet unreal/IndianaJones/Content/Developers/jfx/Collections/' took 0.00s
+[2021.05.03-17.07.33:834][  0]LogFileCache: Scanning file cache for directory 'D:/projet unreal/IndianaJones/Content/Collections/' took 0.00s
+[2021.05.03-17.07.33:834][  0]LogOcInput: OculusInput pre-init called
+[2021.05.03-17.07.33:841][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.03-17.07.33:841][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.03-17.07.33:876][  0]LogEngine: Initializing Engine...
+[2021.05.03-17.07.38:942][  0]LogHMD: Failed to initialize OpenVR with code 309
+[2021.05.03-17.07.38:942][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.03-17.07.38:943][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.03-17.07.39:035][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.03-17.07.39:041][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.03-17.07.39:052][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.03-17.07.39:055][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.03-17.07.39:055][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.03-17.07.39:055][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-17.07.39:055][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-17.07.39:055][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-17.07.39:055][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-17.07.39:055][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-17.07.39:055][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-17.07.39:056][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-17.07.39:056][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-17.07.39:056][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-17.07.39:056][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-17.07.39:064][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-17.07.39:064][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-17.07.39:087][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-17.07.39:090][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-17.07.39:091][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-17.07.39:091][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-17.07.39:092][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-17.07.39:092][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-17.07.39:092][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-17.07.39:093][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-17.07.39:093][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-17.07.39:093][  0]LogInit: FAudioDevice initialized.
+[2021.05.03-17.07.39:093][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.03-17.07.39:093][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.03-17.07.39:142][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/jfx/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.03-17.07.39:143][  0]LogInit: Texture streaming: Enabled
+[2021.05.03-17.07.39:154][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.03-17.07.39:156][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.03-17.07.39:156][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.03-17.07.39:157][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.03-17.07.39:176][  0]LogInit: Transaction tracking system initialized
+[2021.05.03-17.07.39:191][  0]BlueprintLog: New page: Editor Load
+[2021.05.03-17.07.39:236][  0]LocalizationService: Localization service is disabled
+[2021.05.03-17.07.39:252][  0]TimingProfiler: Initialize
+[2021.05.03-17.07.39:252][  0]TimingProfiler: OnSessionChanged
+[2021.05.03-17.07.39:252][  0]LoadingProfiler: Initialize
+[2021.05.03-17.07.39:252][  0]LoadingProfiler: OnSessionChanged
+[2021.05.03-17.07.39:252][  0]NetworkingProfiler: Initialize
+[2021.05.03-17.07.39:252][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.03-17.07.39:252][  0]MemoryProfiler: Initialize
+[2021.05.03-17.07.39:252][  0]MemoryProfiler: OnSessionChanged
+[2021.05.03-17.07.39:341][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.03-17.07.39:341][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.03-17.07.39:483][  0]LogFileCache: Scanning file cache for directory 'D:/projet unreal/IndianaJones/Content/' took 0.00s
+[2021.05.03-17.07.39:631][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.03-17.07.39:633][  0]SourceControl: Source control is disabled
+[2021.05.03-17.07.39:633][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.406
+[2021.05.03-17.07.39:633][  0]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/Leveltest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-17.07.39:633][  0]LightingResults: New page: Lighting Build
+[2021.05.03-17.07.39:634][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-17.07.39:634][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-17.07.39:634][  0]MapCheck: New page: Map Check
+[2021.05.03-17.07.39:634][  0]LightingResults: New page: Lighting Build
+[2021.05.03-17.07.39:641][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.03-17.07.39:778][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-17.07.39:778][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-17.07.39:778][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-17.07.39:778][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-17.07.39:778][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-17.07.39:778][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-17.07.39:779][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-17.07.39:779][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-17.07.39:779][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-17.07.39:779][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-17.07.39:779][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-17.07.39:796][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-17.07.39:796][  0]LoadErrors: Failed to load /Game/Statues/StanLee/Stan_Lee.Stan_Lee Referenced by FbxStaticMeshImportData_0
+[2021.05.03-17.07.39:796][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-17.07.39:796][  0]LoadErrors: Failed to load /Game/Statues/StanLee/StandMat.StandMat Referenced by Stand
+[2021.05.03-17.07.39:796][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stand.uasset: Failed to load '/Game/Statues/StanLee/StandMat': Can't find file.
+[2021.05.03-17.07.39:796][  0]LoadErrors: Failed to load /Game/Statues/StanLee/StandMat.StandMat Referenced by Stand
+[2021.05.03-17.07.39:796][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_Lee': Can't find file.
+[2021.05.03-17.07.39:796][  0]LoadErrors: Failed to load /Game/Statues/StanLee/Stan_Lee.Stan_Lee Referenced by FbxStaticMeshImportData_0
+[2021.05.03-17.07.39:797][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-17.07.39:797][  0]LoadErrors: Failed to load /Game/Statues/StanLee/Stan_LeeMat.Stan_LeeMat Referenced by Stan_Lee
+[2021.05.03-17.07.39:797][  0]LogLinker: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\triggerThings\artefacts\Stan_Lee_1.uasset: Failed to load '/Game/Statues/StanLee/Stan_LeeMat': Can't find file.
+[2021.05.03-17.07.39:797][  0]LoadErrors: Failed to load /Game/Statues/StanLee/Stan_LeeMat.Stan_LeeMat Referenced by Stan_Lee
+[2021.05.03-17.07.40:010][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Leveltest'.
+[2021.05.03-17.07.40:011][  0]LogAIModule: Creating AISystem for world Leveltest
+[2021.05.03-17.07.40:032][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-17.07.40:039][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.03-17.07.40:042][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-17.07.40:043][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,152ms to complete.
+[2021.05.03-17.07.40:043][  0]LogFileHelpers: Loading map 'Leveltest' took 0.410
+[2021.05.03-17.07.40:044][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.818
+[2021.05.03-17.07.40:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-17.07.40:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-17.07.40:156][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-17.07.40:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-17.07.40:170][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0069 seconds. Added 3648 classes and 890 folders.
+[2021.05.03-17.07.40:171][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.03-17.07.40:173][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.03-17.07.40:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.03-17.07.40:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.05.03-17.07.40:174][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.03-17.07.40:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.03-17.07.40:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.05.03-17.07.40:175][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.03-17.07.40:175][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:175][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.03-17.07.40:175][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.03-17.07.40:175][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-17.07.40:175][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:175][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.03-17.07.40:175][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.05.03-17.07.40:176][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.03-17.07.40:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.03-17.07.40:176][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.05.03-17.07.40:176][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.03-17.07.40:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.03-17.07.40:176][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.03-17.07.40:177][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.03-17.07.40:177][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:177][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.03-17.07.40:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.03-17.07.40:177][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.03-17.07.40:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.03-17.07.40:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.05.03-17.07.40:178][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.03-17.07.40:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.03-17.07.40:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.03-17.07.40:179][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.03-17.07.40:179][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:179][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.03-17.07.40:179][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.03-17.07.40:179][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.03-17.07.40:179][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:179][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.03-17.07.40:179][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.05.03-17.07.40:180][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.03-17.07.40:180][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:180][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.03-17.07.40:180][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.05.03-17.07.40:180][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-17.07.40:180][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:180][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.03-17.07.40:180][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.03-17.07.40:181][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.03-17.07.40:181][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:181][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.03-17.07.40:181][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.03-17.07.40:182][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.03-17.07.40:182][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:182][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.03-17.07.40:182][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.03-17.07.40:182][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.03-17.07.40:182][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:182][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.03-17.07.40:182][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.05.03-17.07.40:183][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.03-17.07.40:183][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:183][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.03-17.07.40:183][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.05.03-17.07.40:183][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.03-17.07.40:183][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:183][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.03-17.07.40:183][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.05.03-17.07.40:184][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-17.07.40:184][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:184][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.03-17.07.40:184][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.03-17.07.40:185][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-17.07.40:185][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:185][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.03-17.07.40:185][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.05.03-17.07.40:185][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.03-17.07.40:185][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:185][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.03-17.07.40:185][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.05.03-17.07.40:186][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.03-17.07.40:186][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:186][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.03-17.07.40:186][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.05.03-17.07.40:187][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.03-17.07.40:187][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:187][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.03-17.07.40:187][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.03-17.07.40:187][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.03-17.07.40:187][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:187][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.03-17.07.40:187][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.03-17.07.40:188][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.03-17.07.40:188][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:188][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.03-17.07.40:188][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.03-17.07.40:188][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.03-17.07.40:188][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.03-17.07.40:188][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.03-17.07.40:188][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.05.03-17.07.40:231][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.03-17.07.40:232][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.03-17.07.40:254][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.03-17.07.40:256][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.03-17.07.40:259][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.03-17.07.40:339][  0]LogRenderer: Reallocating scene render targets to support 1632x808 Format 10 NumSamples 1 (Frame:1).
+[2021.05.03-17.07.40:418][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.03-17.07.40:418][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.03-17.07.40:418][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.03-17.07.40:418][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.03-17.07.40:418][  0]LogLoad: (Engine Initialization) Total time: 15.19 seconds
+[2021.05.03-17.07.40:418][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.03-17.07.40:418][  0]LogInit: First time updating LLM stats...
+[2021.05.03-17.07.40:452][  0]LogAssetRegistry: Asset discovery search completed in 7.8118 seconds
+[2021.05.03-17.07.40:453][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.03-17.07.40:454][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.03-17.07.40:492][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.03-17.07.40:765][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/projet unreal/IndianaJones/Content/' took 0.33s
+[2021.05.03-17.07.41:775][  4]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.03-17.07.44:933][184]LogSlate: Window 'Message Log' being destroyed
+[2021.05.03-17.07.44:938][184]LogSlate: Window 'Message Log' being destroyed
+[2021.05.03-17.07.56:900][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.03-17.07.57:013][589]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelLostRuins.LevelLostRuins
+[2021.05.03-17.07.57:013][589]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-17.07.57:013][589]LightingResults: New page: Lighting Build
+[2021.05.03-17.07.57:013][589]LoadErrors: New page: Loading map: LevelLostRuins.umap
+[2021.05.03-17.07.57:014][589]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-17.07.57:014][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-17.07.57:014][589]MapCheck: New page: Map Check
+[2021.05.03-17.07.57:014][589]LightingResults: New page: Lighting Build
+[2021.05.03-17.07.57:019][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-17.07.57:031][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.05.03-17.07.57:031][589]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelLostRuins'.
+[2021.05.03-17.07.57:145][589]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-17.07.57:145][589]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-17.07.57:156][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.03-17.07.57:164][589]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-17.07.57:165][589]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,106ms to complete.
+[2021.05.03-17.07.57:165][589]LogFileHelpers: Loading map 'LevelLostRuins' took 0.152
+[2021.05.03-17.08.46:595][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.05.03-17.08.46:697][625]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.05.03-17.08.47:351][625]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.03-17.08.47:395][626]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.03-17.10.29:450][802]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe)
+[2021.05.03-17.10.33:932][334]Cmd: DELETE
+[2021.05.03-17.10.33:932][334]Cmd: ACTOR DELETE
+[2021.05.03-17.10.33:938][334]LogEditorActor: Actor BP_Axe is referenced by BP_PressureP5.
+[2021.05.03-17.10.36:145][334]LogSlate: Window 'Message' being destroyed
+[2021.05.03-17.10.36:149][334]Message dialog closed, result: No, title: Message, text: Actor BP_Axe is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+BP_PressureP5
+[2021.05.03-17.10.36:171][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.05.03-17.10.36:176][334]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2021.05.03-17.10.36:984][429]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-17.10.37:854][529]Cmd: DELETE
+[2021.05.03-17.10.37:854][529]Cmd: ACTOR DELETE
+[2021.05.03-17.10.37:857][529]LogEditorActor: Deleted Actor: BP_PressureP_C
+[2021.05.03-17.10.37:873][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.03-17.10.37:874][529]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.05.03-17.10.38:660][623]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe)
+[2021.05.03-17.10.39:004][661]Cmd: DELETE
+[2021.05.03-17.10.39:004][661]Cmd: ACTOR DELETE
+[2021.05.03-17.10.39:012][661]LogEditorActor: Deleted Actor: BP_Axe_C
+[2021.05.03-17.10.39:029][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.05.03-17.10.39:030][661]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.05.03-17.10.39:599][729]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe2)
+[2021.05.03-17.10.39:751][744]Cmd: DELETE
+[2021.05.03-17.10.39:751][744]Cmd: ACTOR DELETE
+[2021.05.03-17.10.39:760][744]LogEditorActor: Deleted Actor: BP_Axe_C
+[2021.05.03-17.10.39:776][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.05.03-17.10.39:776][744]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.05.03-17.11.15:363][832]LogEditorViewport: Clicking Background
+[2021.05.03-17.11.22:093][629]Cmd: DUPLICATE
+[2021.05.03-17.11.22:093][629]Cmd: ACTOR DUPLICATE
+[2021.05.03-17.12.06:214][773]LogGeometryMode: Warning: Unable to find BoxBrush35 Brush(s) in new BSP
+[2021.05.03-17.12.06:214][773]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.12.08:029][985]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush35)
+[2021.05.03-17.12.18:067][151]LogGeometryMode: Warning: Unable to find BoxBrush34 Brush(s) in new BSP
+[2021.05.03-17.12.18:067][151]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.12.23:422][780]LogEditorViewport: Clicking Background
+[2021.05.03-17.12.37:048][339]LogEditorViewport: Clicking Background
+[2021.05.03-17.17.57:621][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.05.03-17.17.57:633][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.03-17.17.57:721][243]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins_Auto1D0C38BCC42BD4EB6529E50B3C53EBCD3.tmp' to '../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto1.umap'
+[2021.05.03-17.17.57:723][243]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelLostRuins' took 0.122
+[2021.05.03-17.17.57:723][243]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.122
+[2021.05.03-17.19.19:343][979]LogEditorViewport: Clicking Background
+[2021.05.03-17.19.52:973][451]LogEditorViewport: Clicking Background
+[2021.05.03-17.20.01:654][308]LogEditorViewport: Clicking Background
+[2021.05.03-17.20.06:563][859]LogEditorViewport: Clicking Background
+[2021.05.03-17.20.15:589][918]LogEditorViewport: Clicking Background
+[2021.05.03-17.20.18:214][220]LogEditorViewport: Clicking Background
+[2021.05.03-17.20.21:875][645]LogSlate: Took 0.001343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.03-17.20.28:240][392]LogEditorViewport: Clicking Background
+[2021.05.03-17.20.32:956][931]LogEditorViewport: Clicking Background
+[2021.05.03-17.20.38:003][507]LogEditorViewport: Clicking Background
+[2021.05.03-17.20.52:895][223]LogGeometryMode: Warning: Unable to find BoxBrush36 Brush(s) in new BSP
+[2021.05.03-17.20.52:895][223]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.21.07:716][962]LogGeometryMode: Warning: Unable to find BoxBrush35 Brush(s) in new BSP
+[2021.05.03-17.21.07:716][962]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.21.13:032][582]LogEditorViewport: Clicking Background
+[2021.05.03-17.21.22:943][713]LogEditorViewport: Clicking Background
+[2021.05.03-17.22.35:050][713]Cmd: DUPLICATE
+[2021.05.03-17.22.35:050][713]Cmd: ACTOR DUPLICATE
+[2021.05.03-17.22.46:362][886]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush37)
+[2021.05.03-17.23.12:643][515]LogEditorViewport: Clicking Background
+[2021.05.03-17.23.22:336][223]LogEditorViewport: Clicking Background
+[2021.05.03-17.24.04:399][ 22]Cmd: EDCALLBACK SURFPROPS
+[2021.05.03-17.24.06:406][202]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush37)
+[2021.05.03-17.24.10:860][696]LogGeometryMode: Warning: Unable to find BoxBrush10 Brush(s) in new BSP
+[2021.05.03-17.24.10:860][696]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.24.18:963][615]Cmd: DUPLICATE
+[2021.05.03-17.24.18:963][615]Cmd: ACTOR DUPLICATE
+[2021.05.03-17.24.33:529][176]Cmd: DUPLICATE
+[2021.05.03-17.24.33:529][176]Cmd: ACTOR DUPLICATE
+[2021.05.03-17.24.54:654][343]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush39)
+[2021.05.03-17.24.55:205][408]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush39)
+[2021.05.03-17.25.00:197][998]LogEditorViewport: Clicking Background
+[2021.05.03-17.25.06:556][748]LogEditorViewport: Clicking Background
+[2021.05.03-17.25.12:647][249]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush39)
+[2021.05.03-17.25.31:674][431]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.25.49:223][511]Cmd: TRANSACTION UNDO
+[2021.05.03-17.25.49:223][511]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.25.49:271][511]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.25.49:271][511]LogGeometryMode: Warning: Unable to resolve BoxBrush39 Brush in new BSP, see above
+[2021.05.03-17.25.49:271][511]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.26.11:141][840]LogGeometryMode: Warning: Unable to find BoxBrush37 Brush(s) in new BSP
+[2021.05.03-17.26.11:141][840]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.26.33:714][662]LogGeometryMode: Warning: Unable to find BoxBrush38 Brush(s) in new BSP
+[2021.05.03-17.26.33:714][662]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.26.34:644][764]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush38)
+[2021.05.03-17.26.35:308][841]Cmd: EDCALLBACK SURFPROPS
+[2021.05.03-17.26.35:978][914]Cmd: EDCALLBACK SURFPROPS
+[2021.05.03-17.26.36:754][  1]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush38)
+[2021.05.03-17.26.44:956][908]LogGeometryMode: Warning: Unable to find BoxBrush37 Brush(s) in new BSP
+[2021.05.03-17.26.44:956][908]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.26.45:770][963]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush37)
+[2021.05.03-17.26.46:859][ 62]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush37)
+[2021.05.03-17.26.51:310][564]LogEditorViewport: Clicking Background
+[2021.05.03-17.27.16:131][512]Cmd: DUPLICATE
+[2021.05.03-17.27.16:131][512]Cmd: ACTOR DUPLICATE
+[2021.05.03-17.27.40:137][282]Cmd: TRANSACTION UNDO
+[2021.05.03-17.27.40:137][282]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.27.40:180][282]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.27.40:180][282]LogGeometryMode: Warning: Unable to resolve BoxBrush40 Brush in new BSP, see above
+[2021.05.03-17.27.40:180][282]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.27.45:321][855]Cmd: TRANSACTION UNDO
+[2021.05.03-17.27.45:321][855]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.27.45:368][855]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.27.45:368][855]LogGeometryMode: Warning: Unable to resolve BoxBrush40 Brush in new BSP, see above
+[2021.05.03-17.27.45:368][855]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.27.45:695][872]Cmd: TRANSACTION UNDO
+[2021.05.03-17.27.45:695][872]LogEditorTransaction: Undo Select Brush Surface
+[2021.05.03-17.27.46:403][945]Cmd: TRANSACTION UNDO
+[2021.05.03-17.27.46:403][945]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.27.46:445][945]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.27.46:445][945]LogGeometryMode: Warning: Unable to resolve BoxBrush40 Brush in new BSP, see above
+[2021.05.03-17.27.46:445][945]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.28.47:203][  3]Cmd: EDCALLBACK SURFPROPS
+[2021.05.03-17.28.47:257][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.05.03-17.28.47:265][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.03-17.28.47:356][  3]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins_Auto2FD0B643A4ED090F5034E028DF6CE69A3.tmp' to '../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto2.umap'
+[2021.05.03-17.28.47:357][  3]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelLostRuins' took 0.134
+[2021.05.03-17.28.47:357][  3]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.134
+[2021.05.03-17.28.48:266][104]Cmd: EDCALLBACK SURFPROPS
+[2021.05.03-17.28.53:173][675]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush40)
+[2021.05.03-17.29.00:184][476]LogEditorViewport: Clicking Background
+[2021.05.03-17.29.08:888][363]LogEditorViewport: Clicking Background
+[2021.05.03-17.29.40:936][  2]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush40)
+[2021.05.03-17.29.59:847][ 68]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush40)
+[2021.05.03-17.30.55:487][930]LogGeometryMode: Warning: Unable to find BoxBrush35 Brush(s) in new BSP
+[2021.05.03-17.30.55:487][930]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.30.57:794][124]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush35)
+[2021.05.03-17.31.06:317][965]LogGeometryMode: Warning: Unable to find BoxBrush37 Brush(s) in new BSP
+[2021.05.03-17.31.06:317][965]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.31.07:089][ 18]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush37)
+[2021.05.03-17.31.19:538][317]LogGeometryMode: Warning: Unable to find BoxBrush39 Brush(s) in new BSP
+[2021.05.03-17.31.19:538][317]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.31.20:332][366]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush39)
+[2021.05.03-17.31.24:901][719]Cmd: TRANSACTION UNDO
+[2021.05.03-17.31.24:901][719]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.31.24:946][719]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.31.24:946][719]LogGeometryMode: Warning: Unable to resolve BoxBrush39 Brush in new BSP, see above
+[2021.05.03-17.31.24:946][719]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.31.26:826][901]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.31.40:869][460]LogGeometryMode: Warning: Unable to find BoxBrush36 Brush(s) in new BSP
+[2021.05.03-17.31.40:869][460]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.31.41:023][461]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush36)
+[2021.05.03-17.31.42:220][578]Cmd: EDCALLBACK SURFPROPS
+[2021.05.03-17.31.42:971][639]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush36)
+[2021.05.03-17.31.44:768][769]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush36)
+[2021.05.03-17.31.53:803][718]LogGeometryMode: Warning: Unable to find BoxBrush35 Brush(s) in new BSP
+[2021.05.03-17.31.53:804][718]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.31.55:710][922]LogEditorViewport: Clicking Background
+[2021.05.03-17.32.01:080][473]Cmd: EDCALLBACK SURFPROPS
+[2021.05.03-17.32.01:670][525]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush38)
+[2021.05.03-17.32.13:821][909]LogGeometryMode: Warning: Unable to find BoxBrush39 Brush(s) in new BSP
+[2021.05.03-17.32.13:821][909]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.33.12:443][713]LogEditorViewport: Clicking Background
+[2021.05.03-17.33.25:211][229]Cmd: POLY SELECT ADJACENT ALL
+[2021.05.03-17.33.28:690][639]LogEditorViewport: Clicking Background
+[2021.05.03-17.33.46:760][774]Cmd: TRANSACTION UNDO
+[2021.05.03-17.33.46:760][774]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.33.46:783][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3604' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:783][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3604.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:783][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3605' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:783][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3605.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:783][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3606' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:783][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3606.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:783][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3607' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:783][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3607.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:783][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3608' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:783][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3608.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3609' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3609.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3610' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3610.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3611' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3611.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3612' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3612.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3613' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3613.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3614' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3614.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3615' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3615.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3616' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:784][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3616.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3617' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3617.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3618' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3618.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3619' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3619.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3620' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3620.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3621' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3621.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3622' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3622.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3623' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3623.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3624' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:785][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3624.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3625' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3625.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3626' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3626.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3627' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3627.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3628' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3628.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3629' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3629.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3630' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3630.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3631' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3631.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3632' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3632.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3633' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:786][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3633.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3634' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3634.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3635' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3635.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3636' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3636.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3637' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3637.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3638' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3638.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3639' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3639.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3640' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3640.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3641' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:787][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3641.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:788][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3642' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:788][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3642.BodySetup_0 when we are unable to.
+[2021.05.03-17.33.46:788][774]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3643' invalid (8424 verts, 0 indices).
+[2021.05.03-17.33.46:788][774]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/LevelLostRuins.LevelLostRuins:PersistentLevel.ModelComponent_3643.BodySetup_0 when we are unable to.
+[2021.05.03-17.34.01:457][470]Cmd: POLY SELECT ADJACENT ALL
+[2021.05.03-17.34.23:937][ 96]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2021.05.03-17.34.26:834][436]LogEditorViewport: Clicking Background
+[2021.05.03-17.34.35:807][473]LogEditorViewport: Clicking on Actor (LMB): BP_Doors_C (BP_Doors)
+[2021.05.03-17.34.55:696][844]Cmd: TRANSACTION UNDO
+[2021.05.03-17.34.55:696][844]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.35.19:168][137]LogEditorViewport: Clicking Background
+[2021.05.03-17.35.36:021][ 88]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.35.47:785][315]Cmd: TRANSACTION UNDO
+[2021.05.03-17.35.47:785][315]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.35.47:832][315]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.35.47:832][315]LogGeometryMode: Warning: Unable to resolve BoxBrush36 Brush in new BSP, see above
+[2021.05.03-17.35.47:832][315]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.36.01:497][765]Cmd: TRANSACTION UNDO
+[2021.05.03-17.36.01:497][765]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.36.01:542][765]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.36.01:542][765]LogGeometryMode: Warning: Unable to resolve BoxBrush36 Brush in new BSP, see above
+[2021.05.03-17.36.01:542][765]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.36.04:793][114]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.36.22:656][168]Cmd: TRANSACTION UNDO
+[2021.05.03-17.36.22:656][168]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.36.22:703][168]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.36.22:703][168]LogGeometryMode: Warning: Unable to resolve BoxBrush36 Brush in new BSP, see above
+[2021.05.03-17.36.22:703][168]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.36.23:181][192]Cmd: TRANSACTION UNDO
+[2021.05.03-17.36.23:182][192]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.36.23:226][192]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.36.23:226][192]LogGeometryMode: Warning: Unable to resolve BoxBrush36 Brush in new BSP, see above
+[2021.05.03-17.36.23:226][192]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.36.51:427][988]Cmd: TRANSACTION UNDO
+[2021.05.03-17.36.51:427][988]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.36.51:475][988]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.36.51:475][988]LogGeometryMode: Warning: Unable to resolve BoxBrush36 Brush in new BSP, see above
+[2021.05.03-17.36.51:475][988]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.36.51:983][ 12]Cmd: TRANSACTION UNDO
+[2021.05.03-17.36.51:983][ 12]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.36.52:028][ 12]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.36.52:028][ 12]LogGeometryMode: Warning: Unable to resolve BoxBrush36 Brush in new BSP, see above
+[2021.05.03-17.36.52:028][ 12]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.36.52:688][ 77]Cmd: TRANSACTION UNDO
+[2021.05.03-17.36.52:688][ 77]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.36.52:732][ 77]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.36.52:732][ 77]LogGeometryMode: Warning: Unable to resolve BoxBrush36 Brush in new BSP, see above
+[2021.05.03-17.36.52:732][ 77]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.36.56:109][464]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.37.16:843][781]LogGeometryMode: Warning: Unable to find BoxBrush35 Brush(s) in new BSP
+[2021.05.03-17.37.16:843][781]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.37.20:440][176]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.37.51:821][659]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.38.22:769][300]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.38.40:898][379]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.39.03:846][961]LogGeometryMode: Warning: Unable to find BoxBrush36 Brush(s) in new BSP
+[2021.05.03-17.39.03:846][961]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.39.07:761][361]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.39.20:460][824]Cmd: TRANSACTION UNDO
+[2021.05.03-17.39.20:460][824]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.39.20:512][824]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.39.20:512][824]LogGeometryMode: Warning: Unable to resolve BoxBrush36 Brush in new BSP, see above
+[2021.05.03-17.39.20:512][824]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.39.30:044][891]LogGeometryMode: Warning: Unable to find BoxBrush35 Brush(s) in new BSP
+[2021.05.03-17.39.30:044][891]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.39.34:632][432]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.39.42:260][306]Cmd: TRANSACTION UNDO
+[2021.05.03-17.39.42:260][306]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.39.42:312][306]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.39.42:312][306]LogGeometryMode: Warning: Unable to resolve BoxBrush35 Brush in new BSP, see above
+[2021.05.03-17.39.42:312][306]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.39.54:493][694]Cmd: TRANSACTION UNDO
+[2021.05.03-17.39.54:493][694]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.39.54:546][694]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.39.54:546][694]LogGeometryMode: Warning: Unable to resolve BoxBrush35 Brush in new BSP, see above
+[2021.05.03-17.39.54:546][694]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.40.01:004][417]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.40.12:254][730]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.40.54:417][585]LogGeometryMode: Warning: Unable to find BoxBrush36 Brush(s) in new BSP
+[2021.05.03-17.40.54:417][585]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.41.09:981][357]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.41.22:823][789]LogGeometryMode: Warning: Unable to find BoxBrush35 Brush(s) in new BSP
+[2021.05.03-17.41.22:823][789]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.41.22:923][793]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush35)
+[2021.05.03-17.41.23:618][866]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush35)
+[2021.05.03-17.41.29:236][522]Cmd: TRANSACTION UNDO
+[2021.05.03-17.41.29:236][522]LogEditorTransaction: Undo Move Actors
+[2021.05.03-17.41.29:289][522]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-17.41.29:289][522]LogGeometryMode: Warning: Unable to resolve BoxBrush35 Brush in new BSP, see above
+[2021.05.03-17.41.29:289][522]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.41.30:873][674]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.41.55:677][507]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.03-17.41.55:722][507]LogGeometryMode: Warning: Unable to find BoxBrush41 Brush(s) in new BSP
+[2021.05.03-17.41.55:722][507]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.42.04:187][501]LogEditorViewport: Clicking Background
+[2021.05.03-17.42.18:509][159]LogEditorViewport: Clicking Background
+[2021.05.03-17.42.26:804][131]LogEditorViewport: Clicking Background
+[2021.05.03-17.42.54:118][818]LogGeometryMode: Warning: Unable to find BoxBrush35 Brush(s) in new BSP
+[2021.05.03-17.42.54:118][818]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.43.10:682][699]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.44.11:894][684]LogEditorViewport: Clicking Background
+[2021.05.03-17.44.17:526][283]LogGeometryMode: Warning: Unable to find BoxBrush35 Brush(s) in new BSP
+[2021.05.03-17.44.17:526][283]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-17.44.26:232][296]LogEditorViewport: Clicking Background
+[2021.05.03-17.44.41:296][ 18]LogEditorViewport: Clicking Background
+[2021.05.03-17.44.55:122][616]LogEditorViewport: Clicking Background
+[2021.05.03-17.44.59:316][ 98]LogEditorViewport: Clicking Background
+[2021.05.03-17.45.34:122][506]LogEditorViewport: Clicking Background
+[2021.05.03-17.45.36:353][755]Cmd: EDCALLBACK SURFPROPS
+[2021.05.03-17.45.37:504][887]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush41)
+[2021.05.03-17.45.40:608][249]LogEditorViewport: Clicking Background
+[2021.05.03-17.45.49:229][231]LogEditorViewport: Clicking Background
+[2021.05.03-17.46.14:091][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.05.03-17.46.14:101][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.03-17.46.14:197][622]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins_Auto3D06B3F934047D7ECC7D88E81ACEF5997.tmp' to '../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto3.umap'
+[2021.05.03-17.46.14:199][622]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelLostRuins' took 0.155
+[2021.05.03-17.46.14:199][622]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.155
+[2021.05.03-17.49.10:131][897]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.05.03-17.49.32:782][424]LogEditorViewport: Clicking Background
+[2021.05.03-17.50.00:421][420]LogEditorViewport: Clicking Background
+[2021.05.03-17.50.26:619][465]LogEditorViewport: Clicking Background
+[2021.05.03-17.51.15:634][317]Cmd: POLY SELECT ADJACENT ALL
+[2021.05.03-17.51.37:805][942]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2021.05.03-17.51.56:263][ 60]Cmd: POLY SELECT ADJACENT ALL
+[2021.05.03-17.52.07:386][322]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2021.05.03-17.52.08:075][388]LogEditorViewport: Clicking Background
+[2021.05.03-17.52.23:736][233]LogEditorViewport: Clicking Background
+[2021.05.03-17.52.39:406][ 88]Cmd: POLY SELECT ADJACENT ALL
+[2021.05.03-17.54.08:742][109]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2021.05.03-17.54.25:026][ 31]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2021.05.03-17.56.14:209][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.05.03-17.56.14:218][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.03-17.56.14:313][677]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins_Auto426E2AD5C42754A5795514D98244F5850.tmp' to '../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto4.umap'
+[2021.05.03-17.56.14:314][677]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelLostRuins' took 0.130
+[2021.05.03-17.56.14:314][677]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.130
+[2021.05.03-18.00.22:394][708]LogEditorViewport: Clicking Background
+[2021.05.03-18.01.56:726][555]Cmd: DUPLICATE
+[2021.05.03-18.01.56:726][555]Cmd: ACTOR DUPLICATE
+[2021.05.03-18.02.00:731][ 27]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe)
+[2021.05.03-18.02.08:288][909]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe2)
+[2021.05.03-18.02.15:461][763]Cmd: DUPLICATE
+[2021.05.03-18.02.15:461][763]Cmd: ACTOR DUPLICATE
+[2021.05.03-18.02.20:304][335]Cmd: DUPLICATE
+[2021.05.03-18.02.20:304][335]Cmd: ACTOR DUPLICATE
+[2021.05.03-18.02.59:257][957]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe4)
+[2021.05.03-18.03.00:839][145]Cmd: DUPLICATE
+[2021.05.03-18.03.00:839][145]Cmd: ACTOR DUPLICATE
+[2021.05.03-18.03.39:028][683]Cmd: DUPLICATE
+[2021.05.03-18.03.39:028][683]Cmd: ACTOR DUPLICATE
+[2021.05.03-18.03.48:340][739]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe)
+[2021.05.03-18.03.52:758][263]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe2)
+[2021.05.03-18.03.57:698][848]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe3)
+[2021.05.03-18.04.00:885][221]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe2)
+[2021.05.03-18.04.05:382][756]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe4)
+[2021.05.03-18.04.08:790][158]LogEditorViewport: Clicking Background
+[2021.05.03-18.04.10:402][350]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe5)
+[2021.05.03-18.04.39:097][781]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe6)
+[2021.05.03-18.04.42:302][158]LogEditorViewport: Clicking Background
+[2021.05.03-18.04.57:134][891]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe)
+[2021.05.03-18.05.13:416][777]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe2)
+[2021.05.03-18.05.17:264][233]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Axe_C (BP_Axe3)
+[2021.05.03-18.05.18:554][385]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Axe_C (BP_Axe4)
+[2021.05.03-18.05.20:678][636]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Axe_C (BP_Axe6)
+[2021.05.03-18.05.21:643][749]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Axe_C (BP_Axe5)
+[2021.05.03-18.05.29:199][644]LogEditorViewport: Clicking Background
+[2021.05.03-18.05.30:999][859]LogEditorViewport: Clicking Background
+[2021.05.03-18.06.31:238][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.05.03-18.06.31:244][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.03-18.06.31:339][771]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins_Auto5C2F5C38347CC582A8A5BADAEBE9726FF.tmp' to '../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto5.umap'
+[2021.05.03-18.06.31:340][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelLostRuins' took 0.131
+[2021.05.03-18.06.31:340][771]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.131
+[2021.05.03-18.06.31:900][832]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe6)
+[2021.05.03-18.06.35:636][276]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe4)
+[2021.05.03-18.06.38:497][615]LogEditorViewport: Clicking Background
+[2021.05.03-18.06.39:801][770]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe)
+[2021.05.03-18.06.40:961][906]LogEditorViewport: Clicking Background
+[2021.05.03-18.06.44:648][285]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Traps/DirectDanger/BP_AxeTrap.BP_Axe
+[2021.05.03-18.06.48:179][633]LogSlate: Window 'BP_Axe' being destroyed
+[2021.05.03-18.07.07:823][958]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.03-18.07.23:729][470]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.05.03-18.09.01:961][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.05.03-18.09.01:988][150]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_PressureP10CFEFB74576BCC0BABB6FAE62A9AA12.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.05.03-18.09.02:000][150]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.05.03-18.09.02:000][150]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.05.03-18.09.11:279][260]BlueprintLog: New page: Compile BP_PressureP
+[2021.05.03-18.09.11:288][260]LogBlueprint: Warning: [AssetLog] D:\projet unreal\IndianaJones\Content\Traps\BP_PressureP.uasset: [Compiler] Can't parse default value 'None' for  My Trigger Axe 3 . Property: MyTriggerAxe3.
+[2021.05.03-18.09.11:325][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.05.03-18.09.11:769][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.05.03-18.09.11:795][306]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_PressurePD2F8E1C04E0DA5C28320CBB1D3641D51.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.05.03-18.09.11:806][306]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.05.03-18.09.11:806][306]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.05.03-18.10.58:588][830]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.10.59:198][902]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.10.59:716][963]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.10.59:818][974]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.05.03-18.11.01:188][134]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.05.03-18.11.01:772][203]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.05.03-18.11.04:522][531]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.05.03-18.11.05:464][643]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.05.03-18.11.05:573][655]LogEditorViewport: Clicking on Actor (double click): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.11.06:215][729]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.11.06:292][737]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.05.03-18.11.06:954][813]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.05.03-18.11.07:039][822]LogEditorViewport: Clicking on Actor (double click): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.11.09:529][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.11.09:616][ 83]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.05.03-18.11.10:144][143]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.05.03-18.11.10:213][150]LogEditorViewport: Clicking on Actor (double click): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.11.10:891][228]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.11.10:969][236]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.05.03-18.11.17:932][ 67]LogEditorViewport: Clicking Background
+[2021.05.03-18.11.20:248][344]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.20:248][344]LogEditorTransaction: Undo Clicking Background
+[2021.05.03-18.11.20:869][383]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.20:869][383]LogEditorTransaction: Undo Move Components
+[2021.05.03-18.11.21:529][458]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.21:529][458]LogEditorTransaction: Undo Move Components
+[2021.05.03-18.11.24:525][814]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.24:525][814]LogEditorTransaction: Undo Clicking on Components
+[2021.05.03-18.11.25:459][921]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.25:459][921]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2021.05.03-18.11.25:959][975]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.25:959][975]LogEditorTransaction: Undo Clicking on Components
+[2021.05.03-18.11.26:680][ 57]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.26:680][ 57]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2021.05.03-18.11.29:373][375]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.29:373][375]LogEditorTransaction: Undo Clicking on Components
+[2021.05.03-18.11.30:639][523]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.30:639][523]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2021.05.03-18.11.31:556][628]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.31:556][628]LogEditorTransaction: Undo Move Components
+[2021.05.03-18.11.34:618][991]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.34:618][991]LogEditorTransaction: Undo Clicking on Components
+[2021.05.03-18.11.35:981][120]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.35:981][120]LogEditorTransaction: Undo Move Actors
+[2021.05.03-18.11.36:623][195]Cmd: TRANSACTION UNDO
+[2021.05.03-18.11.36:623][195]LogEditorTransaction: Undo Move Actors
+[2021.05.03-18.12.02:219][221]Cmd: TRANSACTION UNDO
+[2021.05.03-18.12.02:219][221]LogEditorTransaction: Undo Set Scale
+[2021.05.03-18.12.08:124][887]Cmd: TRANSACTION UNDO
+[2021.05.03-18.12.08:124][887]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2021.05.03-18.12.11:536][260]Cmd: TRANSACTION UNDO
+[2021.05.03-18.12.11:536][260]LogEditorTransaction: Undo Set Scale
+[2021.05.03-18.12.42:818][928]Cmd: TRANSACTION UNDO
+[2021.05.03-18.12.42:818][928]LogEditorTransaction: Undo Move Components
+[2021.05.03-18.12.43:382][962]Cmd: TRANSACTION UNDO
+[2021.05.03-18.12.43:382][962]LogEditorTransaction: Undo Move Components
+[2021.05.03-18.12.43:738][  2]Cmd: TRANSACTION UNDO
+[2021.05.03-18.12.43:738][  2]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2021.05.03-18.12.44:067][ 36]Cmd: TRANSACTION UNDO
+[2021.05.03-18.12.44:067][ 36]LogEditorTransaction: Undo Set Scale
+[2021.05.03-18.13.24:158][790]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe)
+[2021.05.03-18.13.38:705][510]Cmd: TRANSACTION UNDO
+[2021.05.03-18.13.38:705][510]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2021.05.03-18.13.40:047][636]Cmd: TRANSACTION UNDO
+[2021.05.03-18.13.40:047][636]LogEditorTransaction: Undo Set Location
+[2021.05.03-18.13.54:470][356]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe2)
+[2021.05.03-18.14.06:027][720]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe)
+[2021.05.03-18.14.10:980][281]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe4)
+[2021.05.03-18.14.14:217][666]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Axe_C (BP_Axe6)
+[2021.05.03-18.14.14:848][739]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Axe_C (BP_Axe5)
+[2021.05.03-18.14.15:602][827]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Axe_C (BP_Axe3)
+[2021.05.03-18.14.16:167][892]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Axe_C (BP_Axe2)
+[2021.05.03-18.14.16:887][976]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Axe_C (BP_Axe)
+[2021.05.03-18.14.54:820][496]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.15.16:746][ 92]BlueprintLog: New page: Compile BP_PressureP
+[2021.05.03-18.15.16:817][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.05.03-18.15.17:565][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.05.03-18.15.17:591][175]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_PressureP23760B484C4AAB589E1C5BA529C8F541.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.05.03-18.15.17:601][175]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.05.03-18.15.17:602][175]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.05.03-18.15.44:242][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-18.15.44:243][317]PIE: New page: PIE session: LevelLostRuins (3 mai 2021 à 22:15:44)
+[2021.05.03-18.15.44:244][317]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.03-18.15.44:244][317]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.03-18.15.44:244][317]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.15.44:298][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053281s)
+[2021.05.03-18.15.44:299][317]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-18.15.44:299][317]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2021.05.03-18.15.44:300][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelLostRuins.LevelLostRuins to /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins (0.054921s)
+[2021.05.03-18.15.44:324][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.05.03-18.15.44:324][317]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.03-18.15.44:324][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-18.15.44:324][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-18.15.44:324][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-18.15.44:324][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-18.15.44:324][317]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-18.15.44:324][317]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-18.15.44:324][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-18.15.44:324][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-18.15.44:325][317]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-18.15.44:325][317]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-18.15.44:328][317]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-18.15.44:328][317]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-18.15.44:340][317]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-18.15.44:340][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-18.15.44:340][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-18.15.44:340][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-18.15.44:340][317]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-18.15.44:340][317]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-18.15.44:340][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-18.15.44:352][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-18.15.44:352][317]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-18.15.44:352][317]LogInit: FAudioDevice initialized.
+[2021.05.03-18.15.44:352][317]LogAudio: Display: Audio Device (ID: 2) registered with world 'LevelLostRuins'.
+[2021.05.03-18.15.44:361][317]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-18.15.44:377][317]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins up for play (max tick rate 0) at 2021.05.03-20.15.44
+[2021.05.03-18.15.44:377][317]LogWorld: Bringing up level for play took: 0.015476
+[2021.05.03-18.15.44:377][317]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.05.03-18.15.44:384][317]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.05.03-18.15.44:394][317]PIE: Server logged in
+[2021.05.03-18.15.44:395][317]PIE: Play in editor total start time 0,153 seconds.
+[2021.05.03-18.15.53:883][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.15.53:883][421]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.15.53:883][421]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-18.15.53:887][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.15.53:894][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-18.15.53:908][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.15.53:937][421]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-18.15.53:937][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.15.53:938][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.15.53:951][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.15.53:976][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.05.03-18.15.54:009][422]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.05.03-18.15.54:871][519]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.16.22:720][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-18.16.22:720][817]PIE: New page: PIE session: LevelLostRuins (3 mai 2021 à 22:16:22)
+[2021.05.03-18.16.22:752][817]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.16.22:791][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038393s)
+[2021.05.03-18.16.22:792][817]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-18.16.22:792][817]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2021.05.03-18.16.22:792][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelLostRuins.LevelLostRuins to /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins (0.039350s)
+[2021.05.03-18.16.22:820][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.05.03-18.16.22:822][817]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.03-18.16.22:822][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-18.16.22:822][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-18.16.22:822][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-18.16.22:822][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-18.16.22:822][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-18.16.22:822][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-18.16.22:822][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-18.16.22:822][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-18.16.22:823][817]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-18.16.22:823][817]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-18.16.22:826][817]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-18.16.22:826][817]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-18.16.22:836][817]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-18.16.22:836][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-18.16.22:836][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-18.16.22:836][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-18.16.22:837][817]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-18.16.22:837][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-18.16.22:837][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-18.16.22:849][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-18.16.22:849][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-18.16.22:849][817]LogInit: FAudioDevice initialized.
+[2021.05.03-18.16.22:849][817]LogAudio: Display: Audio Device (ID: 3) registered with world 'LevelLostRuins'.
+[2021.05.03-18.16.22:853][817]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-18.16.22:869][817]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins up for play (max tick rate 0) at 2021.05.03-20.16.22
+[2021.05.03-18.16.22:869][817]LogWorld: Bringing up level for play took: 0.015272
+[2021.05.03-18.16.22:870][817]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.05.03-18.16.22:879][817]PIE: Server logged in
+[2021.05.03-18.16.22:880][817]PIE: Play in editor total start time 0,161 seconds.
+[2021.05.03-18.16.33:703][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.16.33:703][109]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.16.33:704][109]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-18.16.33:706][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.16.33:710][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-18.16.33:723][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.16.33:747][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-18.16.33:747][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.16.33:748][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.16.33:761][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.16.33:766][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.05.03-18.16.33:786][110]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.05.03-18.17.48:628][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.05.03-18.17.48:651][ 76]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_PressurePAC00D99A404555888753CD862F37A0D8.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.05.03-18.17.48:663][ 76]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.05.03-18.17.48:663][ 76]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.05.03-18.17.59:227][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.05.03-18.17.59:240][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-18.17.59:263][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.03-18.17.59:356][337]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins492B4CAB4F8ECF564CD10F99BDD949DA.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap'
+[2021.05.03-18.17.59:366][337]LogFileHelpers: Saving map 'LevelLostRuins' took 0.127
+[2021.05.03-18.17.59:383][337]AssetCheck: New page: Asset Save: LevelLostRuins
+[2021.05.03-18.17.59:383][337]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins.LevelLostRuins
+[2021.05.03-18.18.16:088][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-18.18.16:088][281]PIE: New page: PIE session: LevelLostRuins (3 mai 2021 à 22:18:16)
+[2021.05.03-18.18.16:089][281]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.18.16:126][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038476s)
+[2021.05.03-18.18.16:127][281]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-18.18.16:127][281]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2021.05.03-18.18.16:127][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelLostRuins.LevelLostRuins to /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins (0.039402s)
+[2021.05.03-18.18.16:153][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.05.03-18.18.16:155][281]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.03-18.18.16:155][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-18.18.16:155][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-18.18.16:155][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-18.18.16:155][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-18.18.16:155][281]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-18.18.16:155][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-18.18.16:155][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-18.18.16:155][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-18.18.16:156][281]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-18.18.16:156][281]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-18.18.16:158][281]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-18.18.16:158][281]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-18.18.16:169][281]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-18.18.16:170][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-18.18.16:170][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-18.18.16:170][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-18.18.16:170][281]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-18.18.16:170][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-18.18.16:170][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-18.18.16:182][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-18.18.16:182][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-18.18.16:182][281]LogInit: FAudioDevice initialized.
+[2021.05.03-18.18.16:182][281]LogAudio: Display: Audio Device (ID: 4) registered with world 'LevelLostRuins'.
+[2021.05.03-18.18.16:190][281]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-18.18.16:206][281]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins up for play (max tick rate 0) at 2021.05.03-20.18.16
+[2021.05.03-18.18.16:206][281]LogWorld: Bringing up level for play took: 0.015431
+[2021.05.03-18.18.16:206][281]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.05.03-18.18.16:216][281]PIE: Server logged in
+[2021.05.03-18.18.16:217][281]PIE: Play in editor total start time 0,129 seconds.
+[2021.05.03-18.18.29:123][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.18.29:123][822]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.18.29:123][822]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-18.18.29:126][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.18.29:131][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-18.18.29:144][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.18.29:167][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-18.18.29:167][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.18.29:168][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.18.29:181][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.18.29:186][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.05.03-18.18.29:212][823]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.05.03-18.18.34:178][403]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.19.54:494][945]BlueprintLog: New page: Compile BP_PressureP
+[2021.05.03-18.19.54:556][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.05.03-18.19.55:165][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.05.03-18.19.55:191][ 11]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_PressurePDE46F9C147F2965ADA1F7F8578AE1B1C.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.05.03-18.19.55:203][ 11]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.05.03-18.19.55:203][ 11]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.05.03-18.20.00:098][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-18.20.00:098][583]PIE: New page: PIE session: LevelLostRuins (3 mai 2021 à 22:20:00)
+[2021.05.03-18.20.00:122][583]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.20.00:163][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040048s)
+[2021.05.03-18.20.00:163][583]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-18.20.00:164][583]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2021.05.03-18.20.00:164][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelLostRuins.LevelLostRuins to /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins (0.041097s)
+[2021.05.03-18.20.00:189][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.05.03-18.20.00:193][583]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.03-18.20.00:193][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-18.20.00:193][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-18.20.00:193][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-18.20.00:193][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-18.20.00:193][583]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-18.20.00:193][583]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-18.20.00:193][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-18.20.00:193][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-18.20.00:193][583]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-18.20.00:193][583]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-18.20.00:196][583]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-18.20.00:196][583]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-18.20.00:206][583]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-18.20.00:206][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-18.20.00:206][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-18.20.00:206][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-18.20.00:207][583]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-18.20.00:207][583]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-18.20.00:207][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-18.20.00:219][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-18.20.00:219][583]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-18.20.00:219][583]LogInit: FAudioDevice initialized.
+[2021.05.03-18.20.00:219][583]LogAudio: Display: Audio Device (ID: 5) registered with world 'LevelLostRuins'.
+[2021.05.03-18.20.00:225][583]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-18.20.00:241][583]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins up for play (max tick rate 0) at 2021.05.03-20.20.00
+[2021.05.03-18.20.00:241][583]LogWorld: Bringing up level for play took: 0.015125
+[2021.05.03-18.20.00:241][583]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.05.03-18.20.00:251][583]PIE: Server logged in
+[2021.05.03-18.20.00:252][583]PIE: Play in editor total start time 0,155 seconds.
+[2021.05.03-18.20.06:963][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.20.06:963][382]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.20.06:963][382]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-18.20.06:966][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.20.06:975][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-18.20.06:988][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.20.07:011][382]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-18.20.07:012][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.20.07:013][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.20.07:025][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.20.07:030][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.05.03-18.20.07:057][383]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.05.03-18.20.07:889][480]LogEditorViewport: Clicking on Actor (LMB): BP_Axe_C (BP_Axe2)
+[2021.05.03-18.20.28:842][941]LogEditorViewport: Clicking Background
+[2021.05.03-18.22.15:032][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.05.03-18.22.15:058][581]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_PressurePD6666B604CDF9C6CE13BDC8339B55ECE.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.05.03-18.22.15:069][581]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.05.03-18.22.15:069][581]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.05.03-18.22.15:906][681]BlueprintLog: New page: Compile BP_PressureP
+[2021.05.03-18.22.15:958][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.05.03-18.22.16:767][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.05.03-18.22.16:793][770]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_PressureP6DB660274FE7A756465A8E96ADBDCE1A.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.05.03-18.22.16:803][770]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.05.03-18.22.16:803][770]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.05.03-18.22.20:618][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-18.22.20:618][217]PIE: New page: PIE session: LevelLostRuins (3 mai 2021 à 22:22:20)
+[2021.05.03-18.22.20:643][217]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.22.20:682][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038514s)
+[2021.05.03-18.22.20:682][217]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-18.22.20:682][217]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2021.05.03-18.22.20:682][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelLostRuins.LevelLostRuins to /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins (0.039489s)
+[2021.05.03-18.22.20:708][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.05.03-18.22.20:709][217]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.03-18.22.20:709][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-18.22.20:709][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-18.22.20:709][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-18.22.20:709][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-18.22.20:709][217]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-18.22.20:709][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-18.22.20:709][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-18.22.20:709][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-18.22.20:710][217]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-18.22.20:710][217]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-18.22.20:712][217]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-18.22.20:712][217]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-18.22.20:723][217]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-18.22.20:723][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-18.22.20:723][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-18.22.20:723][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-18.22.20:723][217]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-18.22.20:723][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-18.22.20:723][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-18.22.20:735][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-18.22.20:735][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-18.22.20:735][217]LogInit: FAudioDevice initialized.
+[2021.05.03-18.22.20:735][217]LogAudio: Display: Audio Device (ID: 6) registered with world 'LevelLostRuins'.
+[2021.05.03-18.22.20:744][217]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-18.22.20:759][217]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins up for play (max tick rate 0) at 2021.05.03-20.22.20
+[2021.05.03-18.22.20:759][217]LogWorld: Bringing up level for play took: 0.015111
+[2021.05.03-18.22.20:759][217]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.05.03-18.22.20:769][217]PIE: Server logged in
+[2021.05.03-18.22.20:770][217]PIE: Play in editor total start time 0,153 seconds.
+[2021.05.03-18.22.35:014][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.22.35:014][920]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.22.35:014][920]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-18.22.35:017][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.22.35:022][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-18.22.35:035][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.22.35:057][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-18.22.35:057][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.22.35:058][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.22.35:071][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.22.35:076][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.05.03-18.22.35:103][921]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.05.03-18.23.49:753][840]BlueprintLog: New page: Compile BP_PressureP
+[2021.05.03-18.23.49:806][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.05.03-18.23.50:499][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.05.03-18.23.50:525][917]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_PressureP6AF1EA5B4927E7CE0F6323AB4C02C654.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.05.03-18.23.50:537][917]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.05.03-18.23.50:537][917]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.05.03-18.23.54:742][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.03-18.23.54:742][408]PIE: New page: PIE session: LevelLostRuins (3 mai 2021 à 22:23:54)
+[2021.05.03-18.23.54:743][408]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.23.54:781][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038306s)
+[2021.05.03-18.23.54:782][408]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-18.23.54:782][408]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2021.05.03-18.23.54:782][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelLostRuins.LevelLostRuins to /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins (0.039203s)
+[2021.05.03-18.23.54:808][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.05.03-18.23.54:809][408]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.05.03-18.23.54:809][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-18.23.54:809][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-18.23.54:809][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-18.23.54:809][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-18.23.54:809][408]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-18.23.54:809][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-18.23.54:809][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-18.23.54:809][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-18.23.54:809][408]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-18.23.54:809][408]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-18.23.54:812][408]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-18.23.54:812][408]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-18.23.54:823][408]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-18.23.54:823][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-18.23.54:824][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-18.23.54:824][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-18.23.54:824][408]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-18.23.54:824][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-18.23.54:824][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-18.23.54:836][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-18.23.54:836][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-18.23.54:836][408]LogInit: FAudioDevice initialized.
+[2021.05.03-18.23.54:836][408]LogAudio: Display: Audio Device (ID: 7) registered with world 'LevelLostRuins'.
+[2021.05.03-18.23.54:841][408]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-18.23.54:857][408]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins up for play (max tick rate 0) at 2021.05.03-20.23.54
+[2021.05.03-18.23.54:857][408]LogWorld: Bringing up level for play took: 0.015449
+[2021.05.03-18.23.54:857][408]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.05.03-18.23.54:867][408]PIE: Server logged in
+[2021.05.03-18.23.54:868][408]PIE: Play in editor total start time 0,127 seconds.
+[2021.05.03-18.24.02:303][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.24.02:303][292]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.24.02:303][292]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-18.24.02:306][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.24.02:317][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-18.24.02:330][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.24.02:353][292]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-18.24.02:353][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.24.02:354][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.24.02:367][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.24.02:372][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.03-18.24.02:399][293]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.05.03-18.24.17:764][126]LogEditorTransaction: Undo Select Surfaces
+[2021.05.03-18.24.19:461][302]LogEditorTransaction: Undo Move Node
+[2021.05.03-18.24.20:423][413]LogEditorTransaction: Undo Create Pin Link
+[2021.05.03-18.25.17:199][174]BlueprintLog: New page: Compile BP_PressureP
+[2021.05.03-18.25.17:259][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.05.03-18.25.17:739][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.05.03-18.25.17:765][221]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_PressureP2DF879524429BD7536669BB9AD0ABFBC.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.05.03-18.25.17:777][221]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.05.03-18.25.17:777][221]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.05.03-18.25.19:856][468]LogEditorViewport: Clicking on Actor (LMB): BP_PressureP_C (BP_PressureP5)
+[2021.05.03-18.25.41:653][ 38]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.03-18.25.42:284][ 84]LogEditorTransaction: Undo Add Child
+[2021.05.03-18.25.45:387][450]LogEditorTransaction: Undo Add Child
+[2021.05.03-18.25.46:104][510]LogEditorTransaction: Undo Add Child
+[2021.05.03-18.25.46:694][577]LogEditorTransaction: Undo Add Child
+[2021.05.03-18.25.47:116][624]LogEditorTransaction: Undo Add Child
+[2021.05.03-18.25.49:200][869]LogEditorTransaction: Undo Add Child
+[2021.05.03-18.25.49:516][903]LogEditorTransaction: Undo Add Child
+[2021.05.03-18.25.49:805][934]LogEditorTransaction: Undo Add Child
+[2021.05.03-18.25.50:103][966]LogEditorTransaction: Undo Add Child
+[2021.05.03-18.25.51:642][147]LogEditorTransaction: Undo Add Child
+[2021.05.03-18.25.52:040][191]LogEditorTransaction: Undo Add Child
+[2021.05.03-18.28.40:855][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.05.03-18.28.40:858][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.03-18.28.40:953][381]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins_Auto675BB67CE4BC69C962F9C1982ED596C7F.tmp' to '../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto6.umap'
+[2021.05.03-18.28.40:954][381]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelLostRuins' took 0.127
+[2021.05.03-18.28.40:954][381]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.127
+[2021.05.03-18.28.40:954][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Traps/BP_PressureP] ([2] browsable assets)...
+[2021.05.03-18.28.40:962][381]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Traps/BP_PressureP.BP_PressureP]
+[2021.05.03-18.28.40:969][381]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Traps/BP_PressureP.BP_PressureP]
+[2021.05.03-18.28.40:969][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Traps/BP_PressureP]
+[2021.05.03-18.28.40:969][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Traps/BP_PressureP_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.05.03-18.28.40:995][381]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_PressureP_Auto6BB70BC75437F020C70C13DA552CE66CA.tmp' to '../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Traps/BP_PressureP_Auto6.uasset'
+[2021.05.03-18.28.40:995][381]LogFileHelpers: Auto-saving content packages took 0.041
+[2021.05.03-18.30.14:492][525]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.05.03-18.30.14:492][525]LogPlayLevel: [PlayLevel] Compiling BP_PressureP before play...
+[2021.05.03-18.30.14:560][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.05.03-18.30.14:562][525]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2021.05.03-18.30.14:562][525]PIE: New page: PIE session: LevelLostRuins (3 mai 2021 à 22:30:14)
+[2021.05.03-18.30.14:602][525]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.30.14:640][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038358s)
+[2021.05.03-18.30.14:641][525]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-18.30.14:641][525]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2021.05.03-18.30.14:641][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelLostRuins.LevelLostRuins to /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins (0.039403s)
+[2021.05.03-18.30.14:666][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.05.03-18.30.14:666][525]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.05.03-18.30.14:667][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.03-18.30.14:667][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.03-18.30.14:667][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.03-18.30.14:667][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.03-18.30.14:667][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.03-18.30.14:667][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.03-18.30.14:667][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.03-18.30.14:667][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.03-18.30.14:667][525]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.03-18.30.14:667][525]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.03-18.30.14:670][525]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-18.30.14:670][525]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-18.30.14:681][525]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.05.03-18.30.14:681][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.03-18.30.14:681][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.03-18.30.14:681][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.03-18.30.14:682][525]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.03-18.30.14:682][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.03-18.30.14:682][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.03-18.30.14:694][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.03-18.30.14:694][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.03-18.30.14:694][525]LogInit: FAudioDevice initialized.
+[2021.05.03-18.30.14:694][525]LogAudio: Display: Audio Device (ID: 8) registered with world 'LevelLostRuins'.
+[2021.05.03-18.30.14:703][525]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.03-18.30.14:719][525]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelLostRuins.LevelLostRuins up for play (max tick rate 0) at 2021.05.03-20.30.14
+[2021.05.03-18.30.14:719][525]LogWorld: Bringing up level for play took: 0.015266
+[2021.05.03-18.30.14:719][525]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.05.03-18.30.14:729][525]PIE: Server logged in
+[2021.05.03-18.30.14:730][525]PIE: Play in editor total start time 0,238 seconds.
+[2021.05.03-18.30.16:608][747]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_Delay', from offset 1053
+[2021.05.03-18.30.16:608][747]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Traps/BP_PressureP.BP_PressureP_C:BndEvt__BP_PressureP_Box_K2Node_ComponentBoundEvent_6_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/Traps/BP_PressureP.BP_PressureP_C:ExecuteUbergraph_BP_PressureP
+
+[2021.05.03-18.31.35:934][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.31.35:934][747]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelLostRuins
+[2021.05.03-18.31.35:934][747]LogWorld: UWorld::CleanupWorld for LevelLostRuins, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-18.31.35:937][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.31.35:942][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.03-18.31.35:956][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-18.31.35:978][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.03-18.31.35:978][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.31.35:979][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.03-18.31.35:997][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.05.03-18.31.36:012][748]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.05.03-18.31.43:561][649]LogEditorTransaction: Undo Create Pin Link
+[2021.05.03-18.32.18:583][823]BlueprintLog: New page: Compile BP_PressureP
+[2021.05.03-18.32.18:635][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.05.03-18.32.19:323][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset" SILENT=true
+[2021.05.03-18.32.19:349][898]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_PressureP1F71457E4B735FF8B372C0A4B5E3315C.tmp' to '../../../../projet unreal/IndianaJones/Content/Traps/BP_PressureP.uasset'
+[2021.05.03-18.32.19:360][898]AssetCheck: New page: Asset Save: BP_PressureP
+[2021.05.03-18.32.19:360][898]LogContentValidation: Display: Validating Blueprint /Game/Traps/BP_PressureP.BP_PressureP
+[2021.05.03-18.38.43:547][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.05.03-18.38.43:550][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.03-18.38.43:644][486]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins_Auto7F7A437E0403789B26C066D8BC2ADAD1D.tmp' to '../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Levels/LevelLostRuins_Auto7.umap'
+[2021.05.03-18.38.43:645][486]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelLostRuins' took 0.127
+[2021.05.03-18.38.43:645][486]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.127
+[2021.05.03-18.38.43:646][486]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Traps/BP_PressureP] ([2] browsable assets)...
+[2021.05.03-18.38.43:655][486]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Traps/BP_PressureP.BP_PressureP]
+[2021.05.03-18.38.43:663][486]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Traps/BP_PressureP.BP_PressureP]
+[2021.05.03-18.38.43:663][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/Traps/BP_PressureP]
+[2021.05.03-18.38.43:663][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/BP_PressureP" FILE="../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Traps/BP_PressureP_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2021.05.03-18.38.43:690][486]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/BP_PressureP_Auto76F7AF0FF417AC2B427015FAFB8A51232.tmp' to '../../../../projet unreal/IndianaJones/Saved/Autosaves/Game/Traps/BP_PressureP_Auto7.uasset'
+[2021.05.03-18.38.43:691][486]LogFileHelpers: Auto-saving content packages took 0.045
+[2021.05.03-18.40.58:045][809]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.03-18.40.58:508][809]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.462 s
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: 
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: Stack: 
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffc93c8d149 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffc93b32141 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffc93b30db8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffc93b3e88c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffc93bb6b8c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffc93bb4089 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffca5a2fc19 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffca5a2faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffca5a31ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffca5a31ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffca5a2faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffca5a31ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba7857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ad252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffcb7ba7aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffca57f977e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffca582b93e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffca57fa0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffca5851e57 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffca5851659 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ff71254ae49 UE4Editor.exe!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ff71256117c UE4Editor.exe!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ff71256125a UE4Editor.exe!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ff7125752bd UE4Editor.exe!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ff712577fea UE4Editor.exe!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffd20417034 KERNEL32.DLL!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: [Callstack] 0x00007ffd22022651 ntdll.dll!UnknownFunction []
+[2021.05.03-18.40.58:508][809]LogOutputDevice: Error: 
