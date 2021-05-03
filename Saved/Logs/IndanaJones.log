@@ -1684,3 +1684,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.03-07.32.28:964][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.05.03-07.32.28:968][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
 [2021.05.03-07.32.29:006][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.05.03-07.32.59:267][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.05.03-07.32.59:288][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveltest" FILE="../../../../projet unreal/IndianaJones/Content/Levels/Leveltest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-07.32.59:318][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.03-07.32.59:338][407]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/Leveltest0BF296AD4164799665311699186D4CA5.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/Leveltest.umap'
+[2021.05.03-07.32.59:346][407]LogFileHelpers: Saving map 'Leveltest' took 0.058
+[2021.05.03-07.32.59:357][407]AssetCheck: New page: Asset Save: Leveltest
+[2021.05.03-07.32.59:357][407]LogContentValidation: Display: Validating World /Game/Levels/Leveltest.Leveltest
+[2021.05.03-07.33.13:890][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.05.03-07.33.13:895][976]Cmd: MAP LOAD FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.03-07.33.13:906][976]LightingResults: New page: Lighting Build
+[2021.05.03-07.33.13:906][976]LoadErrors: New page: Loading map: LevelLostRuins.umap
+[2021.05.03-07.33.13:907][976]LogWorld: UWorld::CleanupWorld for Leveltest, bSessionEnded=true, bCleanupResources=true
+[2021.05.03-07.33.13:908][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.03-07.33.13:908][976]MapCheck: New page: Map Check
+[2021.05.03-07.33.13:908][976]LightingResults: New page: Lighting Build
+[2021.05.03-07.33.13:944][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.03-07.33.13:948][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.05.03-07.33.13:951][976]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelLostRuins'.
+[2021.05.03-07.33.13:951][976]LogAIModule: Creating AISystem for world LevelLostRuins
+[2021.05.03-07.33.13:956][976]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.03-07.33.13:988][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.05.03-07.33.14:002][976]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.03-07.33.14:002][976]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,067ms to complete.
+[2021.05.03-07.33.14:002][976]LogFileHelpers: Loading map 'LevelLostRuins' took 0.107
+[2021.05.03-07.33.14:002][976]LogSlate: Window 'Open Level' being destroyed
+[2021.05.03-07.33.58:554][197]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2021.05.03-07.34.01:049][478]Cmd: EDCALLBACK SURFPROPS
+[2021.05.03-07.34.20:376][707]Cmd: TRANSACTION UNDO
+[2021.05.03-07.34.20:376][707]LogEditorTransaction: Undo Move Actors
+[2021.05.03-07.34.20:378][707]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.03-07.34.20:378][707]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2021.05.03-07.34.20:378][707]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.03-07.34.48:558][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelLostRuins" FILE="../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-07.34.48:596][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.05.03-07.34.48:604][962]LogSavePackage: Moving '../../../../projet unreal/IndianaJones/Saved/LevelLostRuins859948CF44C128B49BBEAD9846831977.tmp' to '../../../../projet unreal/IndianaJones/Content/Levels/LevelLostRuins.umap'
+[2021.05.03-07.34.48:623][962]AssetCheck: New page: Asset Save: LevelLostRuins
+[2021.05.03-07.34.48:623][962]LogContentValidation: Display: Validating World /Game/Levels/LevelLostRuins.LevelLostRuins
